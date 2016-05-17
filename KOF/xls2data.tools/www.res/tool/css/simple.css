@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-size:12px;
+	background: #666666;
+	margin: 0; /* 最好将 body 元素的边距和填充设置为 0 以覆盖不同的浏览器默认值 */
+	padding: 0;
+	/* text-align: center; /* 在 IE 5* 浏览器中，这会将容器居中。文本随后将在 #container 选择器中设置为默认左对齐 */
+	color: #000000;
+}
+#container {
+	width: 100%;  		/* 这将创建一个占据 80% 浏览器宽度的容器 */
+	background: #FFFFFF;
+	margin: 0px auto; 	/* 自动边距（与宽度一起）会将页面居中 */
+	text-align: left; /* 这将覆盖 body 元素上的“text-align: center”。 */
+}
+#header {
+	background: #DDDDDD;
+	padding: 0 20px;  /* 此填充会将出现在它后面的 div 中的元素左对齐。如果 #header 中使用的是图像（而不是文本），您最好删除填充。 */
+}
+#header h1 {
+	margin: 0; /* 将 #header div 中最后一个元素的边距设置为零将避免边距重叠（即 div 之间出现的无法解释的空白）。如果 div 周围有边框，则不必将边距设置为零，因为边框也会避免边距重叠 */
+	padding: 10px 0; /* 使用填充而不使用边距将可以使元素远离 div 的边缘 */
+}
+#mainContent {
+	padding: 0 20px; /* 请记住，填充是 div 方块内部的空间，边距则是 div 方块外部的空间 */
+	background: #FFFFFF;
+}
+#mainContent h2 {
+	padding: 2px 0;
+}
+#footer {
+	padding: 0 20px; /* 此填充会将它上面 div 中的所有元素左对齐。 */
+	background:#DDDDDD;
+}
+#footer p {
+	margin: 0; /* 将脚注中第一个元素的边距设置为零将避免出现可能的边距重叠（即 div 之间出现的空白）*/
+	padding: 10px 0; /* 就像边距会产生空白一样，此元素上的填充也将产生空白，但不会出现边距重叠问题 */
+}

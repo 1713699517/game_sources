@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<copy_times_pays>
+	<copy_times_pay times="1" rmb="2" />
+	<copy_times_pay times="2" rmb="4" />
+	<copy_times_pay times="3" rmb="8" />
+	<copy_times_pay times="4" rmb="16" />
+	<copy_times_pay times="5" rmb="20" />
+	<copy_times_pay times="6" rmb="20" />
+	<copy_times_pay times="7" rmb="20" />
+	<copy_times_pay times="8" rmb="20" />
+	<copy_times_pay times="9" rmb="20" />
+	<copy_times_pay times="10" rmb="20" />
+	<copy_times_pay times="11" rmb="40" />
+	<copy_times_pay times="12" rmb="40" />
+	<copy_times_pay times="13" rmb="40" />
+	<copy_times_pay times="14" rmb="40" />
+	<copy_times_pay times="15" rmb="40" />
+	<copy_times_pay times="16" rmb="40" />
+	<copy_times_pay times="17" rmb="40" />
+	<copy_times_pay times="18" rmb="40" />
+	<copy_times_pay times="19" rmb="40" />
+	<copy_times_pay times="20" rmb="40" />
+</copy_times_pays>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy>
+	<strategys>
+		<strategy type_id="101" type_name="我要变强">
+			<strategyss>
+				<strategys sub_id="1011" sub_name="宝石礼包" sub_pic="menu_activity_stone" enter="0" open="128" terms="初始开启" sub_dec="累计充值获得大量宝石，可快速提升战斗力" />
+				<strategys sub_id="1012" sub_name="技能升级" sub_pic="menu_function_player_icon" enter="0" open="123" terms="初始开启" sub_dec="提升技能可大大提升伤害值&#13;潜能值可通过各种副本获得" />
+				<strategys sub_id="1013" sub_name="强化" sub_pic="menu_function_strengthen_icon" enter="10080" open="116" terms="完成3级任务开启" sub_dec="装备强化可快速提升战斗力&#13;强化至一定等级可提升装备品质" />
+				<strategys sub_id="1014" sub_name="宝石镶嵌" sub_pic="menu_function_strengthen_icon" enter="0" open="124" terms="0" sub_dec="装备都可镶嵌不同宝石而提升属性&#13;在精英副本中获得的宝箱打开可获得" />
+				<strategys sub_id="1015" sub_name="斗气" sub_pic="menu_function_star_icon" enter="10300" open="108" terms="完成21级任务开启" sub_dec="将领悟的斗气附加到自身或伙伴以提升各方面属性。" />
+				<strategys sub_id="1016" sub_name="珍宝" sub_pic="menu_function_jew_icon" enter="10360" open="112" terms="完成30级任务开启" sub_dec="当集齐某些珍宝时属性会大幅提升哦！" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+			</strategyss>
+		</strategy>
+		<strategy type_id="102" type_name="我要赚钱">
+			<strategyss>
+				<strategys sub_id="1021" sub_name="招财" sub_pic="menu_activity_wealth_icon" enter="10160" open="107" terms="完成12级任务开启" sub_dec="通过招财猫招财可以获得大量的金钱。" />
+				<strategys sub_id="1022" sub_name="多人活动" sub_pic="menu_activity_many_icon" enter="10210" open="105" terms="完成20级任务开启" sub_dec="参加多人活动可以得到丰厚的金钱奖励。" />
+				<strategys sub_id="1023" sub_name="每日一箭" sub_pic="menu_activity_arrow_icon" enter="10260" open="110" terms="完成22级任务开启" sub_dec="每日射一箭，很可能会有至尊大奖被你射中哦。" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+			</strategyss>
+		</strategy>
+		<strategy type_id="103" type_name="我要升级">
+			<strategyss>
+				<strategys sub_id="1031" sub_name="任务" sub_pic="menu_function_task_icon" enter="10013" open="114" terms="初始开启" sub_dec="完成任务，获得大量的经验。&#13;在升级的同时，体验拳皇成长。" />
+				<strategys sub_id="1032" sub_name="副本" sub_pic="menu_activity_copy" enter="0" open="101" terms="0" sub_dec="挂机已通过的副本可获得大量经验" />
+				<strategys sub_id="1033" sub_name="日常任务" sub_pic="menu_activity_dailytask" enter="10220" open="104" terms="完成23级任务开启" sub_dec="完成日常任务可以获得大量经验。" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+			</strategyss>
+		</strategy>
+		<strategy type_id="104" type_name="我要伙伴">
+			<strategyss>
+				<strategys sub_id="1041" sub_name="酒吧" sub_pic="menu_activity_bar" enter="0" open="120" terms="完成6级任务开启" sub_dec="使用声望和美刀可招募伙伴&#13;以下系统可获得大量声望" />
+				<strategys sub_id="1042" sub_name="竞技场" sub_pic="menu_activity_arena" enter="10150" open="106" terms="完成18级任务开启" sub_dec="每次竞技挑战都可获得声望奖励&#13;每天19：20分可获得竞技声望奖励" />
+				<strategys sub_id="1043" sub_name="翻翻乐" sub_pic="menu_activity_ffl_icon" enter="10250" open="109" terms="完成28级任务开启" sub_dec="每天翻一翻有机会获得声望大奖。" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+			</strategyss>
+		</strategy>
+		<strategy type_id="105" type_name="我的福利">
+			<strategyss>
+				<strategys sub_id="1051" sub_name="首充奖励" sub_pic="menu_activity_gift_pay_icon" enter="0" open="118" terms="初始开启" sub_dec="首次充值可获3倍充值钻石！&#13;更有强力伙伴不知火舞等你来领！" />
+				<strategys sub_id="1052" sub_name="精彩活动" sub_pic="menu_activity_wonderful_icon" enter="0" open="121" terms="初始开启" sub_dec="完成精彩活动，获得丰富奖励！" />
+				<strategys sub_id="1053" sub_name="特惠商店" sub_pic="menu_activity_superstore" enter="0" open="127" terms="0" sub_dec="更多商品，更多优惠，就在这里&#13;达到相应等级和VIP等级可购买" />
+				<strategys sub_id="1054" sub_name="每日签到" sub_pic="menu_activity_sign_icon" enter="10140" open="125" terms="完成17级任务开启" sub_dec="每天签到可获丰富奖励，连续登录还有钻石赠送！" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+				<strategys sub_id="0" sub_name="0" sub_pic="0" enter="0" open="0" terms="0" sub_dec="0" />
+			</strategyss>
+		</strategy>
+	</strategys>
+</strategy>

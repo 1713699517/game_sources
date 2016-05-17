@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clan_levels>
+	<clan_level lv="1" copy_id="34010" />
+	<clan_level lv="2" copy_id="34020" />
+	<clan_level lv="3" copy_id="34030" />
+	<clan_level lv="4" copy_id="34040" />
+	<clan_level lv="5" copy_id="34050" />
+	<clan_level lv="6" copy_id="34060" />
+	<clan_level lv="7" copy_id="34070" />
+	<clan_level lv="8" copy_id="34080" />
+	<clan_level lv="9" copy_id="34090" />
+	<clan_level lv="10" copy_id="34100" />
+</clan_levels>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene_npcs>
+	<scene_npc id="10176" npc_name="草薙柴舟" skin="10107" head="10322" show="1" fun_icon="0" scene_id="10200" type="0" says1="离弃我的人……我会将他们放在火海中的！" says2="我想让我的儿子见识到草薙流古格斗术的真髓。" says3="我可是宝刀未老的哩！就让我再一次体验一下战斗的感觉吧！">
+		<type_name />
+		<funs />
+	</scene_npc>
+	<scene_npc id="10171" npc_name="哈迪伦" skin="10116" head="10317" show="1" fun_icon="0" scene_id="10200" type="0" says1="你是流星，虽然闪耀但也摆脱不了陨落的命运。" says2="卢卡尔不得好死！！" says3="我的暗杀术无人能敌！！！">
+		<type_name />
+		<funs />
+	</scene_npc>
+	<scene_npc id="10166" npc_name="金" skin="10119" head="10315" show="1" fun_icon="0" scene_id="10200" type="0" says1="绝对不要少看女性格斗家队哦。" says2="你是我的泰拳的对手吗？" says3="欢迎去我的酒吧哦。">
+		<type_name />
+		<funs />
+	</scene_npc>
+	<scene_npc id="10161" npc_name="麦卓" skin="10125" head="10323" show="1" fun_icon="0" scene_id="10200" type="0" says1="请不要叫我卢卡尔的人，那已是过往。" says2="你可以跟得上我的速度吗？" says3="我只是个幻影！！">
+		<type_name />
+		<funs />
+	</scene_npc>
+	<scene_npc id="10156" npc_name="特瑞" skin="10137" head="10330" show="1" fun_icon="0" scene_id="10200" type="0" says1="我是一匹饿狼，但我并不孤单。" says2="胜负在我眼中并不重要。" says3="来吧！来吧！让我们战个痛快。">
+		<type_name />
+		<funs>
+			<fun id="3" lv="20" arg="0" name="商城" />
+		</funs>
+	</scene_npc>
+	<scene_npc id="10151" npc_name="神乐千鹤" skin="10128" head="10340" show="1" fun_icon="0" scene_id="10200" type="0" says1="在镜子之中看到了真正的你。" says2="守护八咫镜是我的使命。" says3="绝对不能让大蛇复活！">
+		<type_name />
+		<funs>
+			<fun id="4" lv="0" arg="0" name="优惠商店" />
+		</funs>
+	</scene_npc>
+	<scene_npc id="10146" npc_name="拉尔夫" skin="10122" head="10339" show="1" fun_icon="0" scene_id="10200" type="0" says1="我只对哈迪伦队长忠心。" says2="莉安娜那冷冰冰的性格有时候真让人头痛啊。" says3="别看我这样子，其实我只有三十岁，三十岁.....">
+		<type_name />
+		<funs />
+	</scene_npc>
+	<scene_npc id="10141" npc_name="麻宫雅典娜" skin="10131" head="10313" show="1" fun_icon="0" scene_id="10200" type="0" says1="大家，雅典娜来了哦。" says2="欢迎大家来听雅典娜唱歌哦。" says3="小心我的超能力会弄疼你哦。">
+		<type_name />
+		<funs>
+			<fun id="1" lv="10" arg="0" name="酒吧" />
+		</funs>
+	</scene_npc>
+	<scene_npc id="10136" npc_name="八神庵" skin="10101" head="10319" show="1" fun_icon="0" scene_id="10200" type="0" says1="每次看到月亮时就会想起我！" says2="把一切都烧光的话，就干净了！" says3="草薙京只能由我亲手打败！">
+		<type_name />
+		<funs />
+	</scene_npc>
+	<scene_npc id="10131" npc_name="草薙京" skin="10134" head="10341" show="1" fun_icon="0" scene_id="10200" type="0" says1="尝尝草薙之拳的厉害吧！！" says2="草薙之火正在燃烧！！！" says3="没有最强，只有更强，我永远不会止步。">
+		<type_name />
+		<funs />
+	</scene_npc>
+	<scene_npc id="10126" npc_name="哈迪伦" skin="10116" head="10317" show="1" fun_icon="0" scene_id="10100" type="0" says1="报仇指日可待！！！" says2="我不需要感情，这只会妨碍我！！！" says3="如果不想死，就离我远一点！！！！">
+		<type_name />
+		<funs />
+	</scene_npc>
+	<scene_npc id="10121" npc_name="金" skin="10119" head="10315" show="1" fun_icon="0" scene_id="10100" type="0" says1="绝对不要少看女性格斗家队哦。" says2="你是我的泰拳的对手吗？" says3="欢迎去我的酒吧哦。">
+		<type_name />
+		<funs>
+			<fun id="1" lv="7" arg="0" name="酒吧" />
+		</funs>
+	</scene_npc>
+	<scene_npc id="10116" npc_name="不知火舞" skin="10104" head="10316" show="1" fun_icon="0" scene_id="10100" type="0" says1="不知火流忍术，日本第一哦。" says2="是我的美貌吸引了你吗？" says3="男人都像安迪那样迟钝的吗？">
+		<type_name />
+		<funs>
+			<fun id="4" lv="0" arg="0" name="优惠商店" />
+		</funs>
+	</scene_npc>
+	<scene_npc id="10111" npc_name="大门五郎" skin="10110" head="10303" show="1" fun_icon="0" scene_id="10100" type="0" says1="我在听，至少现在在听。" says2="我没告诉你我不喜欢说话吗？" says3="我只信任京和红丸！">
+		<type_name />
+		<funs>
+			<fun id="3" lv="10" arg="0" name="商城" />
+		</funs>
+	</scene_npc>
+	<scene_npc id="10106" npc_name="二阶堂红丸" skin="10113" head="10302" show="1" fun_icon="0" scene_id="10100" type="0" says1="我的美貌亮瞎了你的眼了吗?" says2="任何人都不能妨碍我和京的最终决斗！" says3="我输给了京，那只是运气不佳而已。">
+		<type_name />
+		<funs />
+	</scene_npc>
+	<scene_npc id="10101" npc_name="草薙京" skin="10134" head="10341" show="1" fun_icon="0" scene_id="10100" type="0" says1="我感觉到了黑暗的气息正在迫近。" says2="R的真面目到底是什么？" says3="我要成为世界最强！！">
+		<type_name />
+		<funs />
+	</scene_npc>
+</scene_npcs>

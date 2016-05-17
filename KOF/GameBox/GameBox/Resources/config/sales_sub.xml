@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sales_sub>
+	<sales_subs>
+		<sales_sub id="101" id_sub="1011" cid="[]">
+			<value>1</value>
+			<a desc_value="首充礼包" times="1" description="一号钱袋*1,初级体力药水*1" />
+			<virtues>
+				<virtue id="49001" count="1" />
+				<virtue id="43021" count="5" />
+				<virtue id="43211" count="5" />
+				<virtue id="53001" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="201" id_sub="2011" cid="[]">
+			<value>1</value>
+			<a desc_value="新手卡" times="1" description="0" />
+			<virtues>
+				<virtue id="43021" count="5" />
+				<virtue id="43211" count="5" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="301" id_sub="3011" cid="[]">
+			<value>{500,999}</value>
+			<a desc_value="500#-999钻石" times="1" description="一号钱袋*1,初级体力药水*1" />
+			<virtues>
+				<virtue id="1001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="301" id_sub="3012" cid="[]">
+			<value>{1000,2999}</value>
+			<a desc_value="1000#-2999钻石" times="1" description="一号钱袋*1,初级体力药水*2" />
+			<virtues>
+				<virtue id="4011" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="301" id_sub="3013" cid="[]">
+			<value>{3000,4999}</value>
+			<a desc_value="3000#-4999钻石" times="1" description="一号钱袋*1,初级体力药水*3" />
+			<virtues>
+				<virtue id="5011" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="301" id_sub="3014" cid="[]">
+			<value>{5000,9999}</value>
+			<a desc_value="5000#-9999钻石" times="1" description="一号钱袋*1,初级体力药水*4" />
+			<virtues>
+				<virtue id="6001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="301" id_sub="3015" cid="[]">
+			<value>{10000,29999}</value>
+			<a desc_value="10000#-29999钻石" times="1" description="一号钱袋*1,初级体力药水*5" />
+			<virtues>
+				<virtue id="7001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="301" id_sub="3016" cid="[]">
+			<value>{30000,49999}</value>
+			<a desc_value="30000#-49999钻石" times="1" description="一号钱袋*1,初级体力药水*6" />
+			<virtues>
+				<virtue id="8001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="301" id_sub="3017" cid="[]">
+			<value>{50000,99999}</value>
+			<a desc_value="50000#-99999钻石" times="1" description="一号钱袋*1,初级体力药水*7" />
+			<virtues>
+				<virtue id="20001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="301" id_sub="3018" cid="[]">
+			<value>{100000,0}</value>
+			<a desc_value="100000#钻石以上" times="1" description="一号钱袋*1,初级体力药水*8" />
+			<virtues>
+				<virtue id="21001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="401" id_sub="4011" cid="[]">
+			<value>500</value>
+			<a desc_value="500钻石" times="1" description="一号钱袋*1,初级体力药水*1" />
+			<virtues>
+				<virtue id="20001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="2" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="401" id_sub="4012" cid="[]">
+			<value>1000</value>
+			<a desc_value="1000钻石" times="1" description="一号钱袋*1,初级体力药水*2" />
+			<virtues>
+				<virtue id="21001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="2" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="401" id_sub="4013" cid="[]">
+			<value>3000</value>
+			<a desc_value="3000钻石" times="1" description="一号钱袋*1,初级体力药水*3" />
+			<virtues>
+				<virtue id="20001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="3" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="401" id_sub="4014" cid="[]">
+			<value>5000</value>
+			<a desc_value="5000钻石" times="1" description="一号钱袋*1,初级体力药水*4" />
+			<virtues>
+				<virtue id="21001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="3" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="401" id_sub="4015" cid="[]">
+			<value>10000</value>
+			<a desc_value="10000钻石" times="1" description="一号钱袋*1,初级体力药水*5" />
+			<virtues>
+				<virtue id="20001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="4" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="401" id_sub="4016" cid="[]">
+			<value>30000</value>
+			<a desc_value="30000钻石" times="1" description="一号钱袋*1,初级体力药水*6" />
+			<virtues>
+				<virtue id="21001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="4" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="401" id_sub="4017" cid="[]">
+			<value>50000</value>
+			<a desc_value="50000钻石" times="1" description="一号钱袋*1,初级体力药水*7" />
+			<virtues>
+				<virtue id="20001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="5" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="401" id_sub="4018" cid="[]">
+			<value>100000</value>
+			<a desc_value="100000#钻石以上" times="1" description="一号钱袋*1,初级体力药水*8" />
+			<virtues>
+				<virtue id="21001" count="1" />
+				<virtue id="2001" count="1" />
+				<virtue id="3001" count="5" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5011" cid="[]">
+			<value>150</value>
+			<a desc_value="150钻石" times="1" description="1级宝石礼包" />
+			<virtues>
+				<virtue id="40021" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5012" cid="[]">
+			<value>350</value>
+			<a desc_value="350钻石" times="1" description="2级宝石礼包" />
+			<virtues>
+				<virtue id="40006" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5013" cid="[]">
+			<value>650</value>
+			<a desc_value="650钻石" times="1" description="3级宝石礼包" />
+			<virtues>
+				<virtue id="40007" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5014" cid="[]">
+			<value>1000</value>
+			<a desc_value="1000钻石" times="1" description="金色腰带,100W美刀,50体力" />
+			<virtues>
+				<virtue id="4041" count="1" />
+				<virtue id="43211" count="5" />
+				<virtue id="43083" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5015" cid="[]">
+			<value>1550</value>
+			<a desc_value="1550钻石" times="1" description="金色戒指,魔石礼包*3" />
+			<virtues>
+				<virtue id="2031" count="1" />
+				<virtue id="40351" count="3" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5016" cid="[]">
+			<value>2150</value>
+			<a desc_value="2150钻石" times="1" description="金色项链,珍宝卷轴一" />
+			<virtues>
+				<virtue id="1031" count="1" />
+				<virtue id="40361" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5017" cid="[]">
+			<value>5000</value>
+			<a desc_value="5000钻石" times="1" description="金色鞋子,100W美刀" />
+			<virtues>
+				<virtue id="3031" count="1" />
+				<virtue id="5041" count="1" />
+				<virtue id="43083" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5018" cid="[]">
+			<value>8000</value>
+			<a desc_value="8000钻石" times="1" description="5W声望,100W伙伴经验" />
+			<virtues>
+				<virtue id="43241" count="5" />
+				<virtue id="45001" count="10" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5019" cid="[]">
+			<value>16000</value>
+			<a desc_value="16000钻石" times="1" description="80W战功,200W美刀" />
+			<virtues>
+				<virtue id="43261" count="80" />
+				<virtue id="43083" count="2" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5020" cid="[]">
+			<value>25000</value>
+			<a desc_value="25000钻石" times="1" description="5000W美刀" />
+			<virtues>
+				<virtue id="43083" count="50" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5021" cid="[]">
+			<value>35000</value>
+			<a desc_value="35000钻石" times="1" description="斗气礼包" />
+			<virtues>
+				<virtue id="52031" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="501" id_sub="5022" cid="[]">
+			<value>50000</value>
+			<a desc_value="50000钻石" times="1" description="橙色伙伴-克里丝" />
+			<virtues>
+				<virtue id="49006" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="601" id_sub="6011" cid="[]">
+			<value>30</value>
+			<a desc_value="30级" times="1" description="50W,5W潜能，超级刚力" />
+			<virtues>
+				<virtue id="43081" count="5" />
+				<virtue id="43261" count="5" />
+				<virtue id="52046" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="601" id_sub="6012" cid="[]">
+			<value>40</value>
+			<a desc_value="40级" times="1" description="100W,10W潜能，超级睿智" />
+			<virtues>
+				<virtue id="43081" count="10" />
+				<virtue id="43261" count="10" />
+				<virtue id="52051" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="601" id_sub="6013" cid="[]">
+			<value>50</value>
+			<a desc_value="50级" times="1" description="200W,30W潜能，真固守" />
+			<virtues>
+				<virtue id="43081" count="20" />
+				<virtue id="43261" count="30" />
+				<virtue id="52056" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="701" id_sub="7011" cid="[]">
+			<value>30040</value>
+			<a desc_value="精英陈国汉" times="1" description="2级物攻宝石*2" />
+			<virtues>
+				<virtue id="21021" count="2" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="701" id_sub="7012" cid="[]">
+			<value>30050</value>
+			<a desc_value="精英蔡宝健" times="1" description="2级技攻宝石*2" />
+			<virtues>
+				<virtue id="23021" count="2" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="701" id_sub="7013" cid="[]">
+			<value>30060</value>
+			<a desc_value="精英二阶堂红丸" times="1" description="2级气血宝石*2" />
+			<virtues>
+				<virtue id="20021" count="2" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="701" id_sub="7014" cid="[]">
+			<value>30070</value>
+			<a desc_value="精英巴特勒" times="1" description="3级暴击宝石*2" />
+			<virtues>
+				<virtue id="25041" count="2" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="701" id_sub="7015" cid="[]">
+			<value>30080</value>
+			<a desc_value="精英洛奇" times="1" description="3级力量宝石*2" />
+			<virtues>
+				<virtue id="31041" count="2" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="701" id_sub="7016" cid="[]">
+			<value>30090</value>
+			<a desc_value="精英哈维D" times="1" description="3级智力宝石*2" />
+			<virtues>
+				<virtue id="32041" count="2" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="701" id_sub="7017" cid="[]">
+			<value>30100</value>
+			<a desc_value="精英卢卡尔" times="1" description="4级物攻宝石*1,4级技攻宝石*1" />
+			<virtues>
+				<virtue id="21061" count="1" />
+				<virtue id="23061" count="1" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="801" id_sub="8011" cid="[]">
+			<value>32010</value>
+			<a desc_value="魔王●大门五郎" times="1" description="魔石礼包*1，3W潜能" />
+			<virtues>
+				<virtue id="40351" count="1" />
+				<virtue id="43261" count="3" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="801" id_sub="8012" cid="[]">
+			<value>32020</value>
+			<a desc_value="魔王●金家潘" times="1" description="魔石礼包*1，3W潜能" />
+			<virtues>
+				<virtue id="40351" count="1" />
+				<virtue id="43261" count="3" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="801" id_sub="8013" cid="[]">
+			<value>32030</value>
+			<a desc_value="魔王●陈国汉" times="1" description="魔石礼包*1，3W潜能" />
+			<virtues>
+				<virtue id="40351" count="1" />
+				<virtue id="43261" count="3" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="801" id_sub="8014" cid="[]">
+			<value>32040</value>
+			<a desc_value="魔王●蔡宝健" times="1" description="魔石礼包*1，3W潜能" />
+			<virtues>
+				<virtue id="40351" count="1" />
+				<virtue id="43261" count="3" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="801" id_sub="8015" cid="[]">
+			<value>32050</value>
+			<a desc_value="魔王●巴特勒" times="1" description="魔石礼包*2，6W潜能" />
+			<virtues>
+				<virtue id="40351" count="2" />
+				<virtue id="43261" count="6" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="801" id_sub="8016" cid="[]">
+			<value>32060</value>
+			<a desc_value="魔王●洛奇" times="1" description="魔石礼包*2，6W潜能" />
+			<virtues>
+				<virtue id="40351" count="2" />
+				<virtue id="43261" count="6" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="801" id_sub="8017" cid="[]">
+			<value>32070</value>
+			<a desc_value="魔王●哈维D" times="1" description="魔石礼包*2，6W潜能" />
+			<virtues>
+				<virtue id="40351" count="2" />
+				<virtue id="43261" count="6" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="801" id_sub="8018" cid="[]">
+			<value>32080</value>
+			<a desc_value="魔王●卢卡尔" times="1" description="魔石礼包*2，6W潜能" />
+			<virtues>
+				<virtue id="40351" count="2" />
+				<virtue id="43261" count="6" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="901" id_sub="9011" cid="[]">
+			<value>1186</value>
+			<a desc_value="超级命脉" times="1" description="300W美刀" />
+			<virtues>
+				<virtue id="43083" count="3" />
+			</virtues>
+		</sales_sub>
+		<sales_sub id="1001" id_sub="10011" cid="[]">
+			<value>[1001,1002,1003,1004,1005,1006,1007,1008]</value>
+			<a desc_value="收集珍宝#第一层" times="1" description="300体力" />
+			<virtues>
+				<virtue id="43221" count="3" />
+			</virtues>
+		</sales_sub>
+	</sales_subs>
+</sales_sub>

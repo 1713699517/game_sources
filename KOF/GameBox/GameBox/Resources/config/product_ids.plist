@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <string>com.kof.6</string>
+        <string>com.kof.12</string>
+        <string>com.kof.30</string>
+        <string>com.kof.60</string>
+        <string>com.kof.168</string>
+        <string>com.kof.648</string>
+    </array>
+</plist>

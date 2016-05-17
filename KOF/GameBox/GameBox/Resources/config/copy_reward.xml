@@ -1,0 +1,1986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<copy_rewards>
+	<copy_reward copy_id="20010" copy_name="初次试练(一)" a_exp="100" a_money="180" a_power="60" b_exp="85" b_money="150" b_power="60" c_exp="65" c_money="120" c_power="50">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20020" copy_name="初次试练(二)" a_exp="120" a_money="360" a_power="70" b_exp="100" b_money="300" b_power="70" c_exp="75" c_money="240" c_power="60">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20030" copy_name="初次试练(三)" a_exp="160" a_money="540" a_power="90" b_exp="135" b_money="450" b_power="80" c_exp="100" c_money="360" c_power="70">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20040" copy_name="宿命之友(一)" a_exp="260" a_money="720" a_power="120" b_exp="220" b_money="600" b_power="110" c_exp="165" c_money="480" c_power="100">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20050" copy_name="宿命之友(二)" a_exp="325" a_money="900" a_power="140" b_exp="275" b_money="750" b_power="130" c_exp="210" c_money="600" c_power="110">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20060" copy_name="劫持事件(一)" a_exp="460" a_money="1080" a_power="170" b_exp="390" b_money="900" b_power="160" c_exp="295" c_money="720" c_power="140">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20070" copy_name="劫持事件(二)" a_exp="540" a_money="1260" a_power="190" b_exp="455" b_money="1050" b_power="170" c_exp="350" c_money="840" c_power="150">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20080" copy_name="劫持事件(三)" a_exp="620" a_money="1440" a_power="200" b_exp="525" b_money="1200" b_power="190" c_exp="400" c_money="960" c_power="170">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20090" copy_name="初次出战(一)" a_exp="805" a_money="1620" a_power="240" b_exp="680" b_money="1350" b_power="220" c_exp="520" c_money="1080" c_power="190">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20100" copy_name="初次出战(二)" a_exp="900" a_money="1800" a_power="250" b_exp="765" b_money="1500" b_power="230" c_exp="585" c_money="1200" c_power="210">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20110" copy_name="初次出战(三)" a_exp="1000" a_money="1980" a_power="270" b_exp="850" b_money="1650" b_power="250" c_exp="650" c_money="1320" c_power="220">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20120" copy_name="巨星之战(一)" a_exp="1110" a_money="2160" a_power="290" b_exp="940" b_money="1800" b_power="260" c_exp="720" c_money="1440" c_power="230">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20130" copy_name="巨星之战(二)" a_exp="1220" a_money="2340" a_power="300" b_exp="1035" b_money="1950" b_power="280" c_exp="790" c_money="1560" c_power="250">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20140" copy_name="巨星之战(三)" a_exp="1335" a_money="2520" a_power="320" b_exp="1130" b_money="2100" b_power="290" c_exp="865" c_money="1680" c_power="260">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20150" copy_name="夜闯深居(一)" a_exp="1575" a_money="2700" a_power="350" b_exp="1335" b_money="2250" b_power="320" c_exp="1020" c_money="1800" c_power="290">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20160" copy_name="夜闯深居(二)" a_exp="1705" a_money="2880" a_power="370" b_exp="1445" b_money="2400" b_power="340" c_exp="1105" c_money="1920" c_power="300">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20170" copy_name="夜闯深居(三)" a_exp="1440" a_money="1270" a_power="390" b_exp="1370" b_money="1210" b_power="350" c_exp="1299" c_money="1146" c_power="320">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20171" copy_name="夜闯深居(四)" a_exp="1490" a_money="1300" a_power="400" b_exp="1415" b_money="1235" b_power="380" c_exp="1344" c_money="1173" c_power="361">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20172" copy_name="夜闯深居(五)" a_exp="1520" a_money="1320" a_power="410" b_exp="1444" b_money="1254" b_power="389" c_exp="1371" c_money="1191" c_power="369">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20180" copy_name="东方之队(一)" a_exp="1570" a_money="1330" a_power="430" b_exp="1490" b_money="1270" b_power="400" c_exp="1417" c_money="1207" c_power="360">
+		<a_goods>
+			<goods goods_id="34045" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34045" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34045" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20190" copy_name="东方之队(二)" a_exp="1610" a_money="1370" a_power="450" b_exp="1530" b_money="1300" b_power="410" c_exp="1457" c_money="1239" c_power="370">
+		<a_goods>
+			<goods goods_id="34049" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34049" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34049" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20200" copy_name="东方之队(三)" a_exp="1650" a_money="1400" a_power="470" b_exp="1580" b_money="1340" b_power="430" c_exp="1496" c_money="1269" c_power="380">
+		<a_goods>
+			<goods goods_id="34053" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34053" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34053" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20210" copy_name="荣耀之战(一)" a_exp="1700" a_money="1440" a_power="480" b_exp="1620" b_money="1370" b_power="440" c_exp="1536" c_money="1301" c_power="400">
+		<a_goods>
+			<goods goods_id="34057" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34057" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34057" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20220" copy_name="荣耀之战(二)" a_exp="1740" a_money="1470" a_power="500" b_exp="1660" b_money="1400" b_power="460" c_exp="1576" c_money="1332" c_power="410">
+		<a_goods>
+			<goods goods_id="34061" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34061" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34061" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20230" copy_name="荣耀之战(三)" a_exp="1790" a_money="1510" a_power="520" b_exp="1700" b_money="1430" b_power="470" c_exp="1616" c_money="1362" c_power="420">
+		<a_goods>
+			<goods goods_id="34065" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34065" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34065" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20240" copy_name="幕后真相(一)" a_exp="1830" a_money="1540" a_power="530" b_exp="1740" b_money="1470" b_power="490" c_exp="1655" c_money="1394" c_power="440">
+		<a_goods>
+			<goods goods_id="34069" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34069" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34069" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20250" copy_name="幕后真相(二)" a_exp="1870" a_money="1580" a_power="550" b_exp="1780" b_money="1500" b_power="500" c_exp="1695" c_money="1425" c_power="450">
+		<a_goods>
+			<goods goods_id="34073" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34073" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34073" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20260" copy_name="幕后真相(三)" a_exp="1920" a_money="1610" a_power="570" b_exp="1830" b_money="1530" b_power="520" c_exp="1735" c_money="1455" c_power="460">
+		<a_goods>
+			<goods goods_id="34077" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34077" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34077" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20270" copy_name="通缉密令(一)" a_exp="2010" a_money="1710" a_power="600" b_exp="1910" b_money="1630" b_power="550" c_exp="1815" c_money="1549" c_power="490">
+		<a_goods>
+			<goods goods_id="34081" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34081" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34081" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20280" copy_name="通缉密令(二)" a_exp="2050" a_money="1750" a_power="620" b_exp="1950" b_money="1660" b_power="560" c_exp="1854" c_money="1580" c_power="500">
+		<a_goods>
+			<goods goods_id="34085" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34085" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34085" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20290" copy_name="通缉密令(三)" a_exp="2090" a_money="1780" a_power="630" b_exp="1990" b_money="1700" b_power="580" c_exp="1894" c_money="1610" c_power="520">
+		<a_goods>
+			<goods goods_id="34089" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34089" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34089" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20300" copy_name="幽冥之焰(一)" a_exp="2180" a_money="1850" a_power="670" b_exp="2080" b_money="1760" b_power="610" c_exp="1973" c_money="1672" c_power="540">
+		<a_goods>
+			<goods goods_id="34093" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34093" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34093" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20310" copy_name="幽冥之焰(二)" a_exp="2220" a_money="1880" a_power="680" b_exp="2120" b_money="1790" b_power="620" c_exp="2013" c_money="1703" c_power="560">
+		<a_goods>
+			<goods goods_id="34097" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34097" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34097" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20320" copy_name="幽冥之焰(三)" a_exp="2270" a_money="1950" a_power="700" b_exp="2160" b_money="1860" b_power="640" c_exp="2053" c_money="1765" c_power="570">
+		<a_goods>
+			<goods goods_id="34101" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34101" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34101" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20330" copy_name="神秘之人(一)" a_exp="2360" a_money="2020" a_power="730" b_exp="2250" b_money="1920" b_power="670" c_exp="2133" c_money="1827" c_power="600">
+		<a_goods>
+			<goods goods_id="34105" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34105" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34105" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20340" copy_name="神秘之人(二)" a_exp="2400" a_money="2090" a_power="750" b_exp="2290" b_money="1990" b_power="680" c_exp="2173" c_money="1890" c_power="610">
+		<a_goods>
+			<goods goods_id="34109" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34109" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34109" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20350" copy_name="神秘之人(三)" a_exp="2450" a_money="2120" a_power="760" b_exp="2330" b_money="2020" b_power="700" c_exp="2213" c_money="1920" c_power="630">
+		<a_goods>
+			<goods goods_id="34113" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34113" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34113" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20360" copy_name="荣耀再临(一)" a_exp="2530" a_money="2220" a_power="800" b_exp="2410" b_money="2120" b_power="730" c_exp="2292" c_money="2013" c_power="650">
+		<a_goods>
+			<goods goods_id="34117" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34117" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34117" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20370" copy_name="荣耀再临(二)" a_exp="2580" a_money="2260" a_power="810" b_exp="2460" b_money="2150" b_power="740" c_exp="2332" c_money="2044" c_power="670">
+		<a_goods>
+			<goods goods_id="34121" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34121" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34121" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20380" copy_name="荣耀再临(三)" a_exp="2620" a_money="2330" a_power="830" b_exp="2500" b_money="2220" b_power="760" c_exp="2372" c_money="2106" c_power="680">
+		<a_goods>
+			<goods goods_id="34125" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34125" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34125" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20390" copy_name="烈焰大师(一)" a_exp="2670" a_money="2360" a_power="850" b_exp="2540" b_money="2250" b_power="770" c_exp="2412" c_money="2138" c_power="690">
+		<a_goods>
+			<goods goods_id="34129" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34129" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34129" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20400" copy_name="烈焰大师(二)" a_exp="2710" a_money="2430" a_power="860" b_exp="2580" b_money="2320" b_power="790" c_exp="2452" c_money="2199" c_power="710">
+		<a_goods>
+			<goods goods_id="34133" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34133" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34133" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20410" copy_name="烈焰大师(三)" a_exp="2750" a_money="2500" a_power="910" b_exp="2620" b_money="2380" b_power="830" c_exp="2492" c_money="2261" c_power="750">
+		<a_goods>
+			<goods goods_id="34137" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34137" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34137" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20420" copy_name="大蛇之力(一)" a_exp="2840" a_money="2600" a_power="1010" b_exp="2710" b_money="2480" b_power="920" c_exp="2572" c_money="2354" c_power="830">
+		<a_goods>
+			<goods goods_id="34141" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34141" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34141" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20430" copy_name="大蛇之力(二)" a_exp="2890" a_money="2670" a_power="1060" b_exp="2750" b_money="2540" b_power="970" c_exp="2612" c_money="2416" c_power="870">
+		<a_goods>
+			<goods goods_id="34145" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34145" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34145" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20440" copy_name="大蛇之力(三)" a_exp="2930" a_money="2740" a_power="1110" b_exp="2790" b_money="2610" b_power="1020" c_exp="2651" c_money="2478" c_power="910">
+		<a_goods>
+			<goods goods_id="34149" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34149" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34149" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20450" copy_name="密林袭击(一)" a_exp="3110" a_money="2980" a_power="1160" b_exp="2960" b_money="2840" b_power="1070" c_exp="2812" c_money="2694" c_power="950">
+		<a_goods>
+			<goods goods_id="34153" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34153" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34153" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20460" copy_name="密林袭击(二)" a_exp="3200" a_money="3120" a_power="1210" b_exp="3040" b_money="2970" b_power="1120" c_exp="2892" c_money="2819" c_power="990">
+		<a_goods>
+			<goods goods_id="34157" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34157" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34157" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20470" copy_name="密林袭击(三)" a_exp="3240" a_money="3220" a_power="1260" b_exp="3090" b_money="3070" b_power="1170" c_exp="2932" c_money="2912" c_power="1030">
+		<a_goods>
+			<goods goods_id="34161" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34161" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34161" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20480" copy_name="意外来客(一)" a_exp="3370" a_money="3420" a_power="1310" b_exp="3210" b_money="3260" b_power="1220" c_exp="3051" c_money="3097" c_power="1070">
+		<a_goods>
+			<goods goods_id="34165" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34165" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34165" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20490" copy_name="意外来客(二)" a_exp="3420" a_money="3530" a_power="1360" b_exp="3260" b_money="3360" b_power="1270" c_exp="3092" c_money="3190" c_power="1110">
+		<a_goods>
+			<goods goods_id="34169" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34169" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34169" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20500" copy_name="意外来客(三)" a_exp="3460" a_money="3590" a_power="1410" b_exp="3300" b_money="3420" b_power="1320" c_exp="3132" c_money="3252" c_power="1150">
+		<a_goods>
+			<goods goods_id="34173" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34173" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34173" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20510" copy_name="忠诚试练(一)" a_exp="3550" a_money="3770" a_power="1460" b_exp="3380" b_money="3590" b_power="1370" c_exp="3212" c_money="3407" c_power="1190">
+		<a_goods>
+			<goods goods_id="34177" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34177" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34177" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20520" copy_name="忠诚试练(二)" a_exp="3590" a_money="3870" a_power="1510" b_exp="3420" b_money="3680" b_power="1420" c_exp="3252" c_money="3500" c_power="1230">
+		<a_goods>
+			<goods goods_id="34181" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34181" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34181" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20530" copy_name="忠诚试练(三)" a_exp="3640" a_money="3970" a_power="1560" b_exp="3470" b_money="3780" b_power="1470" c_exp="3292" c_money="3593" c_power="1270">
+		<a_goods>
+			<goods goods_id="34185" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="34185" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="34185" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20540" copy_name="黑道霸主(一)" a_exp="3680" a_money="4040" a_power="1610" b_exp="3510" b_money="3850" b_power="1520" c_exp="3333" c_money="3655" c_power="1310">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20550" copy_name="黑道霸主(二)" a_exp="3730" a_money="4140" a_power="1660" b_exp="3550" b_money="3950" b_power="1570" c_exp="3373" c_money="3748" c_power="1350">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20560" copy_name="黑道霸主(三)" a_exp="3770" a_money="4250" a_power="1710" b_exp="3590" b_money="4040" b_power="1620" c_exp="3412" c_money="3841" c_power="1390">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20570" copy_name="心灵缺口(一)" a_exp="3860" a_money="4450" a_power="1760" b_exp="3680" b_money="4240" b_power="1670" c_exp="3492" c_money="4027" c_power="1430">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20580" copy_name="心灵缺口(二)" a_exp="3900" a_money="4550" a_power="1810" b_exp="3720" b_money="4340" b_power="1720" c_exp="3533" c_money="4119" c_power="1470">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20590" copy_name="心灵缺口(三)" a_exp="3950" a_money="4660" a_power="1860" b_exp="3760" b_money="4430" b_power="1770" c_exp="3573" c_money="4212" c_power="1510">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="20600" copy_name="暴走之风(一)" a_exp="4040" a_money="4900" a_power="1910" b_exp="3850" b_money="4660" b_power="1820" c_exp="3653" c_money="4430" c_power="1550">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30010" copy_name="精英●黑帮头目" a_exp="3800" a_money="5000" a_power="1000" b_exp="3420" b_money="4500" b_power="900" c_exp="3080" c_money="4050" c_power="810">
+		<a_goods>
+			<goods goods_id="41021" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41011" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41001" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30020" copy_name="精英●大门五郎" a_exp="3800" a_money="5000" a_power="1000" b_exp="3420" b_money="4500" b_power="900" c_exp="3080" c_money="4050" c_power="810">
+		<a_goods>
+			<goods goods_id="41021" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41011" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41001" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30030" copy_name="精英●金家潘" a_exp="3800" a_money="5000" a_power="1000" b_exp="3420" b_money="4500" b_power="900" c_exp="3080" c_money="4050" c_power="810">
+		<a_goods>
+			<goods goods_id="41021" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41011" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41001" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30040" copy_name="精英●陈国汉" a_exp="3800" a_money="5000" a_power="1000" b_exp="3420" b_money="4500" b_power="900" c_exp="3080" c_money="4050" c_power="810">
+		<a_goods>
+			<goods goods_id="41021" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41011" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41001" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30050" copy_name="精英●蔡宝健" a_exp="3800" a_money="5000" a_power="1000" b_exp="3420" b_money="4500" b_power="900" c_exp="3080" c_money="4050" c_power="810">
+		<a_goods>
+			<goods goods_id="41021" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41011" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41001" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30060" copy_name="精英●二阶堂红丸" a_exp="4500" a_money="6000" a_power="1500" b_exp="4050" b_money="5400" b_power="1350" c_exp="3650" c_money="4860" c_power="1220">
+		<a_goods>
+			<goods goods_id="41022" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41012" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41002" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30070" copy_name="精英●巴特勒" a_exp="4500" a_money="6000" a_power="1500" b_exp="4050" b_money="5400" b_power="1350" c_exp="3650" c_money="4860" c_power="1220">
+		<a_goods>
+			<goods goods_id="41022" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41012" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41002" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30080" copy_name="精英●洛奇" a_exp="4500" a_money="6000" a_power="1500" b_exp="4050" b_money="5400" b_power="1350" c_exp="3650" c_money="4860" c_power="1220">
+		<a_goods>
+			<goods goods_id="41022" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41012" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41002" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30090" copy_name="精英●哈维D" a_exp="4500" a_money="6000" a_power="1500" b_exp="4050" b_money="5400" b_power="1350" c_exp="3650" c_money="4860" c_power="1220">
+		<a_goods>
+			<goods goods_id="41022" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41012" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41002" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30100" copy_name="精英●卢卡尔" a_exp="4500" a_money="6000" a_power="1500" b_exp="4050" b_money="5400" b_power="1350" c_exp="3650" c_money="4860" c_power="1220">
+		<a_goods>
+			<goods goods_id="41022" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41012" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41002" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30110" copy_name="精英●镇元斋" a_exp="5500" a_money="8000" a_power="2000" b_exp="4950" b_money="7200" b_power="1800" c_exp="4460" c_money="6480" c_power="1620">
+		<a_goods>
+			<goods goods_id="41023" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41013" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41003" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30120" copy_name="精英●椎拳崇" a_exp="5500" a_money="8000" a_power="2000" b_exp="4950" b_money="7200" b_power="1800" c_exp="4460" c_money="6480" c_power="1620">
+		<a_goods>
+			<goods goods_id="41023" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41013" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41003" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30130" copy_name="精英●麻宫雅典娜" a_exp="5500" a_money="8000" a_power="2000" b_exp="4950" b_money="7200" b_power="1800" c_exp="4460" c_money="6480" c_power="1620">
+		<a_goods>
+			<goods goods_id="41023" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41013" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41003" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30140" copy_name="精英●坂崎由莉" a_exp="5500" a_money="8000" a_power="2000" b_exp="4950" b_money="7200" b_power="1800" c_exp="4460" c_money="6480" c_power="1620">
+		<a_goods>
+			<goods goods_id="41023" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41013" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41003" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30150" copy_name="精英●不知火舞" a_exp="5500" a_money="8000" a_power="2000" b_exp="4950" b_money="7200" b_power="1800" c_exp="4460" c_money="6480" c_power="1620">
+		<a_goods>
+			<goods goods_id="41023" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41013" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41003" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30160" copy_name="精英●金" a_exp="6500" a_money="10000" a_power="2500" b_exp="5850" b_money="9000" b_power="2250" c_exp="5270" c_money="8100" c_power="2030">
+		<a_goods>
+			<goods goods_id="41024" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41014" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41004" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30170" copy_name="精英●哈迪伦" a_exp="6500" a_money="10000" a_power="2500" b_exp="5850" b_money="9000" b_power="2250" c_exp="5270" c_money="8100" c_power="2030">
+		<a_goods>
+			<goods goods_id="41024" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41014" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41004" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30180" copy_name="精英●特工头子" a_exp="6500" a_money="10000" a_power="2500" b_exp="5850" b_money="9000" b_power="2250" c_exp="5270" c_money="8100" c_power="2030">
+		<a_goods>
+			<goods goods_id="41024" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41014" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41004" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30190" copy_name="精英●比利" a_exp="6500" a_money="10000" a_power="2500" b_exp="5850" b_money="9000" b_power="2250" c_exp="5270" c_money="8100" c_power="2030">
+		<a_goods>
+			<goods goods_id="41024" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41014" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41004" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30200" copy_name="精英●八神庵" a_exp="6500" a_money="10000" a_power="2500" b_exp="5850" b_money="9000" b_power="2250" c_exp="5270" c_money="8100" c_power="2030">
+		<a_goods>
+			<goods goods_id="41024" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41014" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41004" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30210" copy_name="精英●如月影二" a_exp="7000" a_money="12000" a_power="3000" b_exp="6300" b_money="10800" b_power="2700" c_exp="5670" c_money="9720" c_power="2430">
+		<a_goods>
+			<goods goods_id="41025" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41015" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41005" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30220" copy_name="精英●草薙柴舟" a_exp="7000" a_money="12000" a_power="3000" b_exp="6300" b_money="10800" b_power="2700" c_exp="5670" c_money="9720" c_power="2430">
+		<a_goods>
+			<goods goods_id="41025" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41015" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41005" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30230" copy_name="精英●麦卓" a_exp="7000" a_money="12000" a_power="3000" b_exp="6300" b_money="10800" b_power="2700" c_exp="5670" c_money="9720" c_power="2430">
+		<a_goods>
+			<goods goods_id="41025" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41015" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41005" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30240" copy_name="精英●高尼茨" a_exp="7000" a_money="12000" a_power="3000" b_exp="6300" b_money="10800" b_power="2700" c_exp="5670" c_money="9720" c_power="2430">
+		<a_goods>
+			<goods goods_id="41025" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41015" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41005" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30250" copy_name="精英●薇思" a_exp="7000" a_money="12000" a_power="3000" b_exp="6300" b_money="10800" b_power="2700" c_exp="5670" c_money="9720" c_power="2430">
+		<a_goods>
+			<goods goods_id="41025" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41015" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41005" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30260" copy_name="精英●矢吹真吾" a_exp="8000" a_money="15000" a_power="4000" b_exp="7200" b_money="13500" b_power="3600" c_exp="6480" c_money="12150" c_power="3240">
+		<a_goods>
+			<goods goods_id="41026" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41016" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41006" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30270" copy_name="精英●吉斯" a_exp="8000" a_money="15000" a_power="4000" b_exp="7200" b_money="13500" b_power="3600" c_exp="6480" c_money="12150" c_power="3240">
+		<a_goods>
+			<goods goods_id="41026" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41016" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41006" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30280" copy_name="精英●莉安娜" a_exp="8000" a_money="15000" a_power="4000" b_exp="7200" b_money="13500" b_power="3600" c_exp="6480" c_money="12150" c_power="3240">
+		<a_goods>
+			<goods goods_id="41026" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41016" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41006" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30290" copy_name="精英●山崎龙二" a_exp="8000" a_money="15000" a_power="4000" b_exp="7200" b_money="13500" b_power="3600" c_exp="6480" c_money="12150" c_power="3240">
+		<a_goods>
+			<goods goods_id="41026" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41016" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41006" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="30300" copy_name="精英●特瑞" a_exp="8000" a_money="15000" a_power="4000" b_exp="7200" b_money="13500" b_power="3600" c_exp="6480" c_money="12150" c_power="3240">
+		<a_goods>
+			<goods goods_id="41026" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41016" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41006" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32010" copy_name="魔王●大门五郎" a_exp="8360" a_money="7700" a_power="3180" b_exp="7520" b_money="6930" b_power="2860" c_exp="6770" c_money="6240" c_power="2570">
+		<a_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32020" copy_name="魔王●金家潘" a_exp="8970" a_money="8730" a_power="3480" b_exp="8070" b_money="7860" b_power="3130" c_exp="7260" c_money="7070" c_power="2820">
+		<a_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32030" copy_name="魔王●陈国汉" a_exp="9570" a_money="9750" a_power="3780" b_exp="8610" b_money="8780" b_power="3400" c_exp="7750" c_money="7900" c_power="3060">
+		<a_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32040" copy_name="魔王●蔡宝健" a_exp="10170" a_money="12150" a_power="4080" b_exp="9150" b_money="10940" b_power="3670" c_exp="8240" c_money="9850" c_power="3300">
+		<a_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41031" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32050" copy_name="魔王●巴特勒" a_exp="10780" a_money="13690" a_power="4380" b_exp="9700" b_money="12320" b_power="3940" c_exp="8730" c_money="11090" c_power="3550">
+		<a_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32060" copy_name="魔王●洛奇" a_exp="11380" a_money="15240" a_power="4680" b_exp="10240" b_money="13720" b_power="4210" c_exp="9220" c_money="12350" c_power="3790">
+		<a_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32070" copy_name="魔王●哈维D" a_exp="11980" a_money="17120" a_power="4980" b_exp="10780" b_money="15410" b_power="4480" c_exp="9700" c_money="13870" c_power="4030">
+		<a_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32080" copy_name="魔王●卢卡尔" a_exp="12590" a_money="15240" a_power="5460" b_exp="11330" b_money="13720" b_power="4910" c_exp="10200" c_money="12350" c_power="4420">
+		<a_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41032" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32090" copy_name="魔王●椎拳崇" a_exp="13190" a_money="17120" a_power="6360" b_exp="11870" b_money="15410" b_power="5720" c_exp="10680" c_money="13870" c_power="5150">
+		<a_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32100" copy_name="魔王●麻宫雅典娜" a_exp="13810" a_money="19000" a_power="7260" b_exp="12430" b_money="17100" b_power="6530" c_exp="11190" c_money="15390" c_power="5880">
+		<a_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32110" copy_name="魔王●坂崎由莉" a_exp="14410" a_money="20880" a_power="8280" b_exp="12970" b_money="18790" b_power="7450" c_exp="11670" c_money="16910" c_power="6710">
+		<a_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32120" copy_name="魔王●不知火舞" a_exp="15020" a_money="22760" a_power="9420" b_exp="13520" b_money="20480" b_power="8480" c_exp="12170" c_money="18430" c_power="7630">
+		<a_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41033" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32130" copy_name="魔王●哈迪伦" a_exp="15630" a_money="24640" a_power="10560" b_exp="14070" b_money="22170" b_power="9510" c_exp="12670" c_money="19950" c_power="8550">
+		<a_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32140" copy_name="魔王●特工头子" a_exp="16240" a_money="26520" a_power="11700" b_exp="14620" b_money="23860" b_power="10540" c_exp="13170" c_money="21470" c_power="9470">
+		<a_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32150" copy_name="魔王●比利" a_exp="16850" a_money="28400" a_power="12840" b_exp="15170" b_money="25550" b_power="11570" c_exp="13670" c_money="22990" c_power="10390">
+		<a_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32160" copy_name="魔王●八神庵" a_exp="17460" a_money="30280" a_power="13980" b_exp="15720" b_money="27240" b_power="12600" c_exp="14170" c_money="24510" c_power="11310">
+		<a_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41034" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32170" copy_name="魔王●草薙柴舟" a_exp="18070" a_money="32160" a_power="15120" b_exp="16270" b_money="28930" b_power="13630" c_exp="14670" c_money="26030" c_power="12230">
+		<a_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32180" copy_name="魔王●麦卓" a_exp="18680" a_money="34040" a_power="16260" b_exp="16820" b_money="30620" b_power="14660" c_exp="15170" c_money="27550" c_power="13150">
+		<a_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32190" copy_name="魔王●高尼茨" a_exp="19290" a_money="35920" a_power="17400" b_exp="17370" b_money="32310" b_power="15690" c_exp="15670" c_money="29070" c_power="14070">
+		<a_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32200" copy_name="魔王●薇思" a_exp="19900" a_money="37800" a_power="18540" b_exp="17920" b_money="34000" b_power="16720" c_exp="16170" c_money="30590" c_power="14990">
+		<a_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41035" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32210" copy_name="魔王●吉斯" a_exp="20510" a_money="39680" a_power="19680" b_exp="18470" b_money="35690" b_power="17750" c_exp="16670" c_money="32110" c_power="15910">
+		<a_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32220" copy_name="魔王●莉安娜" a_exp="21120" a_money="41560" a_power="20820" b_exp="19020" b_money="37380" b_power="18780" c_exp="17170" c_money="33630" c_power="16830">
+		<a_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32230" copy_name="魔王●山崎龙二" a_exp="21730" a_money="43440" a_power="21960" b_exp="19570" b_money="39070" b_power="19810" c_exp="17670" c_money="35150" c_power="17750">
+		<a_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="32240" copy_name="魔王●特瑞" a_exp="22340" a_money="45320" a_power="23100" b_exp="20120" b_money="40760" b_power="20840" c_exp="18170" c_money="36670" c_power="18670">
+		<a_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="41036" goods_count="1" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="34010" copy_name="社团副本1" a_exp="3060" a_money="2710" a_power="0" b_exp="3060" b_money="2710" b_power="0" c_exp="3060" c_money="2710" c_power="0">
+		<a_goods>
+			<goods goods_id="48116" goods_count="3" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="48116" goods_count="3" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="48116" goods_count="3" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="34020" copy_name="社团副本2" a_exp="3540" a_money="3010" a_power="0" b_exp="3540" b_money="3010" b_power="0" c_exp="3540" c_money="3010" c_power="0">
+		<a_goods>
+			<goods goods_id="48116" goods_count="3" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="48116" goods_count="3" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="48116" goods_count="3" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="34030" copy_name="社团副本3" a_exp="4020" a_money="3310" a_power="0" b_exp="4020" b_money="3310" b_power="0" c_exp="4020" c_money="3310" c_power="0">
+		<a_goods>
+			<goods goods_id="48116" goods_count="4" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="48116" goods_count="4" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="48116" goods_count="4" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="34040" copy_name="社团副本4" a_exp="4500" a_money="3610" a_power="0" b_exp="4500" b_money="3610" b_power="0" c_exp="4500" c_money="3610" c_power="0">
+		<a_goods>
+			<goods goods_id="48116" goods_count="4" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="48116" goods_count="4" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="48116" goods_count="4" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="34050" copy_name="社团副本5" a_exp="4980" a_money="3910" a_power="0" b_exp="4980" b_money="3910" b_power="0" c_exp="4980" c_money="3910" c_power="0">
+		<a_goods>
+			<goods goods_id="48116" goods_count="4" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="48116" goods_count="4" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="48116" goods_count="4" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="34060" copy_name="社团副本6" a_exp="5460" a_money="4210" a_power="0" b_exp="5460" b_money="4210" b_power="0" c_exp="5460" c_money="4210" c_power="0">
+		<a_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="34070" copy_name="社团副本7" a_exp="5940" a_money="4510" a_power="0" b_exp="5940" b_money="4510" b_power="0" c_exp="5940" c_money="4510" c_power="0">
+		<a_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="34080" copy_name="社团副本8" a_exp="6420" a_money="4810" a_power="0" b_exp="6420" b_money="4810" b_power="0" c_exp="6420" c_money="4810" c_power="0">
+		<a_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="34090" copy_name="社团副本9" a_exp="6900" a_money="5110" a_power="0" b_exp="6900" b_money="5110" b_power="0" c_exp="6900" c_money="5110" c_power="0">
+		<a_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="34100" copy_name="社团副本10" a_exp="7380" a_money="5410" a_power="0" b_exp="7380" b_money="5410" b_power="0" c_exp="7380" c_money="5410" c_power="0">
+		<a_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="48116" goods_count="5" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40100" copy_name="决斗祭坛1" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40110" copy_name="决斗祭坛2" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40120" copy_name="决斗祭坛3" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40130" copy_name="决斗祭坛4" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37001" goods_count="1" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37001" goods_count="1" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37001" goods_count="1" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40140" copy_name="决斗祭坛5" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40150" copy_name="决斗祭坛6" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40160" copy_name="决斗祭坛7" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40170" copy_name="决斗祭坛8" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37001" goods_count="1" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37001" goods_count="1" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37001" goods_count="1" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40180" copy_name="决斗祭坛9" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40190" copy_name="决斗祭坛10" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40200" copy_name="决斗祭坛11" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40210" copy_name="决斗祭坛12" a_exp="0" a_money="20000" a_power="0" b_exp="0" b_money="20000" b_power="0" c_exp="0" c_money="20000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40220" copy_name="决斗祭坛13" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40230" copy_name="决斗祭坛14" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40240" copy_name="决斗祭坛15" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40250" copy_name="决斗祭坛16" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40260" copy_name="决斗祭坛17" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40270" copy_name="决斗祭坛18" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40280" copy_name="决斗祭坛19" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40290" copy_name="决斗祭坛20" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40300" copy_name="决斗祭坛21" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40310" copy_name="决斗祭坛22" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40320" copy_name="决斗祭坛23" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40330" copy_name="决斗祭坛24" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40340" copy_name="决斗祭坛25" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40350" copy_name="决斗祭坛26" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40360" copy_name="决斗祭坛27" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40370" copy_name="决斗祭坛28" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40380" copy_name="决斗祭坛29" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40390" copy_name="决斗祭坛30" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40400" copy_name="决斗祭坛31" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40410" copy_name="决斗祭坛32" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40420" copy_name="决斗祭坛33" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40430" copy_name="决斗祭坛34" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40440" copy_name="决斗祭坛35" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40450" copy_name="决斗祭坛36" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="1" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40460" copy_name="决斗祭坛37" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40470" copy_name="决斗祭坛38" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40480" copy_name="决斗祭坛39" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40490" copy_name="决斗祭坛40" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="2" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="2" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="2" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40500" copy_name="决斗祭坛41" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40510" copy_name="决斗祭坛42" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40520" copy_name="决斗祭坛43" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40530" copy_name="决斗祭坛44" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="2" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="2" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="2" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40540" copy_name="决斗祭坛45" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40550" copy_name="决斗祭坛46" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40560" copy_name="决斗祭坛47" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40570" copy_name="决斗祭坛48" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="2" goods_odds="3000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="2" goods_odds="3000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+			<goods goods_id="37006" goods_count="2" goods_odds="3000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40580" copy_name="决斗祭坛49" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="40590" copy_name="决斗祭坛50" a_exp="0" a_money="40000" a_power="0" b_exp="0" b_money="40000" b_power="0" c_exp="0" c_money="40000" c_power="0">
+		<a_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</a_goods>
+		<b_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</b_goods>
+		<c_goods>
+			<goods goods_id="38501" goods_count="2" goods_odds="10000" />
+		</c_goods>
+	</copy_reward>
+	<copy_reward copy_id="50001" copy_name="初次副本" a_exp="0" a_money="30000" a_power="0" b_exp="0" b_money="30000" b_power="0" c_exp="0" c_money="30000" c_power="0">
+		<a_goods>
+			<goods />
+		</a_goods>
+		<b_goods>
+			<goods />
+		</b_goods>
+		<c_goods>
+			<goods />
+		</c_goods>
+	</copy_reward>
+</copy_rewards>

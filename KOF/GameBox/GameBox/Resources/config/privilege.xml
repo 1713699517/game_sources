@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<privilege>
+	<privileges>
+		<privilege day="1" gold="1280000" rmb="128" />
+		<privilege day="2" gold="1280000" rmb="128" />
+		<privilege day="3" gold="1880000" rmb="188" />
+		<privilege day="4" gold="2880000" rmb="288" />
+		<privilege day="5" gold="3880000" rmb="388" />
+		<privilege day="6" gold="660000" rmb="66" />
+		<privilege day="7" gold="660000" rmb="66" />
+		<privilege day="8" gold="660000" rmb="0" />
+		<privilege day="9" gold="660000" rmb="0" />
+		<privilege day="10" gold="660000" rmb="0" />
+		<privilege day="11" gold="880000" rmb="0" />
+		<privilege day="12" gold="880000" rmb="0" />
+		<privilege day="13" gold="880000" rmb="0" />
+		<privilege day="14" gold="880000" rmb="0" />
+		<privilege day="15" gold="880000" rmb="0" />
+		<privilege day="16" gold="880000" rmb="0" />
+	</privileges>
+</privilege>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discove_stores>
+	<discove_store type="1" goods_count="10">
+		<goods_ids>
+			<goods_id goods_id="52021" />
+			<goods_id goods_id="52016" />
+			<goods_id goods_id="43083" />
+			<goods_id goods_id="43266" />
+			<goods_id goods_id="43161" />
+			<goods_id goods_id="43241" />
+			<goods_id goods_id="43221" />
+		</goods_ids>
+	</discove_store>
+	<discove_store type="2" goods_count="100">
+		<goods_ids>
+			<goods_id goods_id="52021" />
+			<goods_id goods_id="52016" />
+			<goods_id goods_id="43083" />
+			<goods_id goods_id="43266" />
+			<goods_id goods_id="43161" />
+			<goods_id goods_id="43241" />
+			<goods_id goods_id="43221" />
+		</goods_ids>
+	</discove_store>
+</discove_stores>

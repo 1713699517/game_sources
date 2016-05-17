@@ -1,0 +1,69 @@
+
+*****
+DATE:{{2014,1,29},{17,39,35}} Pid:<0.81.0> Error gateway_worker_srv:36 
+Error:error, 
+Reason:{badmatch,1}, 
+StackTrace:[{role_mod,create,13,
+                [{file,"src/sys_role/role_mod.erl"},{line,56}]},
+            {role_gateway,gateway,3,
+                [{file,"src/sys_role/role_gateway.erl"},{line,73}]},
+            {gateway_worker_srv,work,3,
+                [{file,"src/sys_gateway/gateway_worker_srv.erl"},{line,329}]},
+            {gateway_worker_srv,handle_info,2,
+                [{file,"src/sys_gateway/gateway_worker_srv.erl"},{line,36}]},
+            {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,604}]},
+            {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,239}]}]
+*****
+
+*****
+DATE:{{2014,1,29},{17,39,35}} Pid:<0.81.0> Error gateway_worker_srv:46 
+PlayerUid:0 OnLine:3 Lv:0  Ip:"127.0.0.1" 
+Logs[P,D]:[{1024,<<1>>},{1024,<<2>>},{1024,<<2>>}]
+Reason:{bad_return_value,ok}
+*****
+
+*****
+DATE:{{2014,1,29},{17,41,1}} Pid:<0.81.0> Error gateway_worker_srv:36 
+Error:error, 
+Reason:{badmatch,1}, 
+StackTrace:[{role_mod,create,13,
+                [{file,"src/sys_role/role_mod.erl"},{line,56}]},
+            {role_gateway,gateway,3,
+                [{file,"src/sys_role/role_gateway.erl"},{line,73}]},
+            {gateway_worker_srv,work,3,
+                [{file,"src/sys_gateway/gateway_worker_srv.erl"},{line,329}]},
+            {gateway_worker_srv,handle_info,2,
+                [{file,"src/sys_gateway/gateway_worker_srv.erl"},{line,36}]},
+            {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,604}]},
+            {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,239}]}]
+*****
+
+*****
+DATE:{{2014,1,29},{17,41,1}} Pid:<0.81.0> Error gateway_worker_srv:46 
+PlayerUid:0 OnLine:3 Lv:0  Ip:"127.0.0.1" 
+Logs[P,D]:[{1024,<<2>>},{1024,<<2>>}]
+Reason:{bad_return_value,ok}
+*****
+
+*****
+DATE:{{2014,1,29},{17,43,33}} Pid:<0.81.0> Error gateway_worker_srv:36 
+Error:error, 
+Reason:{badmatch,1}, 
+StackTrace:[{role_mod,create,13,
+                [{file,"src/sys_role/role_mod.erl"},{line,56}]},
+            {role_gateway,gateway,3,
+                [{file,"src/sys_role/role_gateway.erl"},{line,73}]},
+            {gateway_worker_srv,work,3,
+                [{file,"src/sys_gateway/gateway_worker_srv.erl"},{line,329}]},
+            {gateway_worker_srv,handle_info,2,
+                [{file,"src/sys_gateway/gateway_worker_srv.erl"},{line,36}]},
+            {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,604}]},
+            {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,239}]}]
+*****
+
+*****
+DATE:{{2014,1,29},{17,43,33}} Pid:<0.81.0> Error gateway_worker_srv:46 
+PlayerUid:0 OnLine:2 Lv:0  Ip:"127.0.0.1" 
+Logs[P,D]:[{1024,<<2>>},{1024,<<2>>}]
+Reason:{bad_return_value,ok}
+*****

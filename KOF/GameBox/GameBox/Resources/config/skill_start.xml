@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skill_starts>
+	<skill_start pro="1" skill_count="3" skill1="10014" skill2="10015" skill3="10016" skill4="0" skill5="0" skill6="0" />
+	<skill_start pro="2" skill_count="3" skill1="10024" skill2="10025" skill3="10026" skill4="0" skill5="0" skill6="0" />
+	<skill_start pro="3" skill_count="3" skill1="10034" skill2="10035" skill3="10036" skill4="0" skill5="0" skill6="0" />
+	<skill_start pro="4" skill_count="3" skill1="10044" skill2="10045" skill3="10046" skill4="0" skill5="0" skill6="0" />
+	<skill_start pro="5" skill_count="3" skill1="10054" skill2="10055" skill3="10056" skill4="0" skill5="0" skill6="0" />
+	<skill_start pro="6" skill_count="3" skill1="10064" skill2="10065" skill3="10066" skill4="0" skill5="0" skill6="0" />
+</skill_starts>

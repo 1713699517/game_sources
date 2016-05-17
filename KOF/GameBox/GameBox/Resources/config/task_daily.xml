@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task_dailys>
+	<task_daily node="1001" type="2" copys_chap="11200" copys_id="20080" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本 劫持事件(三) 3次" />
+	<task_daily node="1006" type="2" copys_chap="11200" copys_id="20090" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本初次出战(一)3次" />
+	<task_daily node="1011" type="2" copys_chap="11200" copys_id="20100" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本初次出战(二)3次" />
+	<task_daily node="1016" type="2" copys_chap="11200" copys_id="20110" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本初次出战(三)3次" />
+	<task_daily node="1021" type="2" copys_chap="11200" copys_id="20120" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本巨星之战(一)3次" />
+	<task_daily node="1026" type="2" copys_chap="11200" copys_id="20130" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本巨星之战(二)3次" />
+	<task_daily node="1031" type="2" copys_chap="11200" copys_id="20140" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本巨星之战(三)3次" />
+	<task_daily node="1036" type="2" copys_chap="11300" copys_id="20150" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本夜闯深居(一)3次" />
+	<task_daily node="1041" type="2" copys_chap="11300" copys_id="20160" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本夜闯深居(二)3次" />
+	<task_daily node="1046" type="1" copys_chap="0" copys_id="0" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 3次" />
+	<task_daily node="1051" type="1" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 5次" />
+	<task_daily node="1056" type="3" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="领悟斗气 5次" />
+	<task_daily node="2001" type="4" copys_chap="11200" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2006" type="4" copys_chap="11200" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2011" type="4" copys_chap="11200" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2016" type="4" copys_chap="11200" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2021" type="4" copys_chap="11200" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="1061" type="2" copys_chap="11300" copys_id="20160" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本夜闯深居(二)3次" />
+	<task_daily node="1066" type="2" copys_chap="11300" copys_id="20170" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本夜闯深居(三)3次" />
+	<task_daily node="1071" type="2" copys_chap="11300" copys_id="20180" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本东方之队(一)3次" />
+	<task_daily node="1076" type="2" copys_chap="11300" copys_id="20190" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本东方之队(二)3次" />
+	<task_daily node="1081" type="2" copys_chap="11300" copys_id="20200" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本东方之队(三)3次" />
+	<task_daily node="1086" type="2" copys_chap="11300" copys_id="20210" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本荣耀之战(一)3次" />
+	<task_daily node="1091" type="2" copys_chap="11300" copys_id="20220" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本荣耀之战(二)3次" />
+	<task_daily node="1096" type="2" copys_chap="11300" copys_id="20230" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本荣耀之战(三)3次" />
+	<task_daily node="1101" type="1" copys_chap="0" copys_id="0" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 3次" />
+	<task_daily node="1106" type="1" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 5次" />
+	<task_daily node="1111" type="3" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="领悟斗气 5次" />
+	<task_daily node="1116" type="3" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="领悟斗气 5次" />
+	<task_daily node="2101" type="4" copys_chap="11300" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2106" type="4" copys_chap="11300" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2111" type="4" copys_chap="11300" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2116" type="4" copys_chap="11300" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2121" type="4" copys_chap="11300" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="1121" type="2" copys_chap="11300" copys_id="20240" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本幕后真相(一)3次" />
+	<task_daily node="1126" type="2" copys_chap="11300" copys_id="20250" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本幕后真相(二)3次" />
+	<task_daily node="1131" type="2" copys_chap="11400" copys_id="20260" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本幕后真相(三)3次" />
+	<task_daily node="1136" type="2" copys_chap="11400" copys_id="20270" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本通缉密令(一)3次" />
+	<task_daily node="1141" type="2" copys_chap="11400" copys_id="20280" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本通缉密令(二)3次" />
+	<task_daily node="1146" type="2" copys_chap="11400" copys_id="20290" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本通缉密令(三)3次" />
+	<task_daily node="1151" type="2" copys_chap="11400" copys_id="20300" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本幽冥之焰(一)3次" />
+	<task_daily node="1156" type="2" copys_chap="11400" copys_id="20310" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本幽冥之焰(二)3次" />
+	<task_daily node="1161" type="1" copys_chap="0" copys_id="0" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 3次" />
+	<task_daily node="1166" type="1" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 5次" />
+	<task_daily node="1171" type="3" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="领悟斗气 5次" />
+	<task_daily node="1176" type="3" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="领悟斗气 5次" />
+	<task_daily node="2201" type="4" copys_chap="11300" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2206" type="4" copys_chap="11300" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2211" type="4" copys_chap="11400" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2216" type="4" copys_chap="11400" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2221" type="4" copys_chap="11400" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="1181" type="2" copys_chap="11400" copys_id="20330" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本神秘之人(一)3次" />
+	<task_daily node="1186" type="2" copys_chap="11400" copys_id="20340" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本神秘之人(二)3次" />
+	<task_daily node="1191" type="2" copys_chap="11400" copys_id="20350" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本神秘之人(三)3次" />
+	<task_daily node="1196" type="2" copys_chap="11500" copys_id="20360" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本荣耀再临(一)3次" />
+	<task_daily node="1201" type="2" copys_chap="11500" copys_id="20370" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本荣耀再临(二)3次" />
+	<task_daily node="1206" type="2" copys_chap="11500" copys_id="20380" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本荣耀再临(三)3次" />
+	<task_daily node="1211" type="2" copys_chap="11500" copys_id="20390" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本烈焰大师(一)3次" />
+	<task_daily node="1216" type="2" copys_chap="11500" copys_id="20400" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本烈焰大师(二)3次" />
+	<task_daily node="1221" type="1" copys_chap="0" copys_id="0" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 3次" />
+	<task_daily node="1226" type="1" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 5次" />
+	<task_daily node="1231" type="3" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="领悟斗气 5次" />
+	<task_daily node="1236" type="3" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="领悟斗气 5次" />
+	<task_daily node="2301" type="4" copys_chap="11300" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2306" type="4" copys_chap="11300" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2311" type="4" copys_chap="11400" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2316" type="4" copys_chap="11400" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2321" type="4" copys_chap="11400" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="1241" type="2" copys_chap="11400" copys_id="20380" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本荣耀再临(三)3次" />
+	<task_daily node="1246" type="2" copys_chap="11400" copys_id="20390" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本烈焰大师(一)3次" />
+	<task_daily node="1251" type="2" copys_chap="11400" copys_id="20400" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本烈焰大师(二)3次" />
+	<task_daily node="1256" type="2" copys_chap="11500" copys_id="20410" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本烈焰大师(三)3次" />
+	<task_daily node="1261" type="2" copys_chap="11500" copys_id="20420" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本大蛇之力(一)3次" />
+	<task_daily node="1266" type="2" copys_chap="11500" copys_id="20430" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本大蛇之力(二)3次" />
+	<task_daily node="1271" type="2" copys_chap="11500" copys_id="20440" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本大蛇之力(三)3次" />
+	<task_daily node="1276" type="2" copys_chap="11500" copys_id="20450" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本密林袭击(一)3次" />
+	<task_daily node="1281" type="1" copys_chap="0" copys_id="0" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 3次" />
+	<task_daily node="1286" type="1" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 5次" />
+	<task_daily node="1291" type="3" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="领悟斗气 5次" />
+	<task_daily node="1296" type="3" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="领悟斗气 5次" />
+	<task_daily node="2401" type="4" copys_chap="11500" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2406" type="4" copys_chap="11500" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2411" type="4" copys_chap="11500" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2416" type="4" copys_chap="11500" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2421" type="4" copys_chap="11500" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="1301" type="2" copys_chap="11500" copys_id="20450" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本密林袭击(一)3次" />
+	<task_daily node="1306" type="2" copys_chap="11500" copys_id="20460" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本密林袭击(二)3次" />
+	<task_daily node="1311" type="2" copys_chap="11500" copys_id="20470" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本密林袭击(三)3次" />
+	<task_daily node="1316" type="2" copys_chap="11500" copys_id="20480" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本意外来客(一)3次" />
+	<task_daily node="1321" type="2" copys_chap="11500" copys_id="20490" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本意外来客(二)3次" />
+	<task_daily node="1326" type="2" copys_chap="11500" copys_id="20500" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本意外来客(三)3次" />
+	<task_daily node="1331" type="2" copys_chap="11500" copys_id="20510" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本忠诚试练(一)3次" />
+	<task_daily node="1336" type="2" copys_chap="11500" copys_id="20520" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="完成副本忠诚试练(二)5次" />
+	<task_daily node="1341" type="1" copys_chap="0" copys_id="0" value="3" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 3次" />
+	<task_daily node="1346" type="1" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="强化装备 5次" />
+	<task_daily node="1351" type="3" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="领悟斗气 5次" />
+	<task_daily node="1356" type="3" copys_chap="0" copys_id="0" value="5" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="领悟斗气 5次" />
+	<task_daily node="2501" type="4" copys_chap="11500" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2506" type="4" copys_chap="11500" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2511" type="4" copys_chap="11500" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2516" type="4" copys_chap="11500" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+	<task_daily node="2521" type="4" copys_chap="11500" copys_id="0" value="50" exp="320" goods_count="0" money="0" energy="0" rmb="0" renown="0" desc="在任意副本中连击数大于50次" />
+</task_dailys>

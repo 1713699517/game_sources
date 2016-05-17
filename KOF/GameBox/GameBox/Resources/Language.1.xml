@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language v="9009" efs="ae1001">
+    <string id="a" value="test1"/>
+    <string id="b" value="test2"/>
+    <string id="c" value="test3"/>
+    <objasc id="ccc" value="objasc123" lbj="zz"/>
+
+    <string id="SelectRoleView_Label_Level" value="等级:"/>
+    <string id="SelectRoleView_Label_Title" value="职业:"/>
+    <string id="SelectRoleView_Button_EnterGame" value="进入游戏"/>
+    <string id="SelectRoleView_Button_MoreServer" value="更多服务器"/>
+    <string id="SelectRoleView_Button_NewPlayer" value="新建玩家"/>
+
+    <string id="goodss_goods_base_types_base_type_type41" value="怒气"/>
+    <string id="goodss_goods_base_types_base_type_type42" value="怒气恢复速度"/>
+    <string id="goodss_goods_base_types_base_type_type43" value="初始灵气"/>
+    <string id="goodss_goods_base_types_base_type_type44" value="气血"/>
+    <string id="goodss_goods_base_types_base_type_type45" value="气血成长"/>
+    <string id="goodss_goods_base_types_base_type_type46" value="力量"/>
+    <string id="goodss_goods_base_types_base_type_type47" value="力量成长"/>
+    <string id="goodss_goods_base_types_base_type_type48" value="智力"/>
+    <string id="goodss_goods_base_types_base_type_type49" value="智力成长"/>
+    <string id="goodss_goods_base_types_base_type_type50" value="物攻"/>
+    <string id="goodss_goods_base_types_base_type_type51" value="物防"/>
+    <string id="goodss_goods_base_types_base_type_type52" value="技攻"/>
+    <string id="goodss_goods_base_types_base_type_type53" value="技防"/>
+    <string id="goodss_goods_base_types_base_type_type54" value="命中"/>
+    <string id="goodss_goods_base_types_base_type_type55" value="躲避"/>
+    <string id="goodss_goods_base_types_base_type_type56" value="暴击"/>
+    <string id="goodss_goods_base_types_base_type_type57" value="抗暴"/>
+    <string id="goodss_goods_base_types_base_type_type58" value="暴伤"/>
+    <string id="goodss_goods_base_types_base_type_type59" value="破甲"/>
+    <string id="goodss_goods_base_types_base_type_type60" value="光属性"/>
+    <string id="goodss_goods_base_types_base_type_type61" value="光抗性"/>
+    <string id="goodss_goods_base_types_base_type_type62" value="暗属性"/>
+    <string id="goodss_goods_base_types_base_type_type63" value="暗抗性"/>
+    <string id="goodss_goods_base_types_base_type_type64" value="灵属性"/>
+    <string id="goodss_goods_base_types_base_type_type65" value="灵抗性"/>
+    <string id="goodss_goods_base_types_base_type_type66" value="伤害"/>
+    <string id="goodss_goods_base_types_base_type_type67" value="减伤"/>
+
+    <string id="Chat_Literal_YouSay" value="您对"/>
+    <string id="Chat_Literal_Say" value="说"/>
+    <string id="Chat_Literal_ToYou" value="对您说"/>
+    <string id="Chat_Literal_Offline" value="该用户不在线"/>
+    <string id="Chat_Button_All" value="全体"/>
+    <string id="Chat_Button_World" value="世界"/>
+    <string id="Chat_Button_Clan" value="社团"/>
+    <string id="Chat_Button_Team" value="组队"/>
+    <string id="Chat_Button_PM" value="私聊"/>
+    <string id="Chat_Button_System" value="系统"/>
+    <string id="Chat_Button_Send" value="发送"/>
+    <string id="Chat_EditBox_Normal" value="输入玩家名称"/>
+
+    <string id="state_1" value="获得"/>
+    <string id="state_0" value="失去"/>
+    
+    <string id="state_symbol_1" value=" + "/>
+    <string id="state_symbol_0" value=" - "/>
+
+    <string id="currency_type1"   value="美刀"/>
+    <string id="currency_type2"   value="钻石"/>
+    <string id="currency_type3"   value="钻石"/>
+    <string id="currency_type4"   value="声望"/>
+    <string id="currency_type5"   value="体力"/>
+    <string id="currency_type6"   value="真气"/>
+    <string id="currency_type7"   value="潜能"/>
+    <string id="currency_type8"   value="紫色精魄"/>
+    <string id="currency_type9"   value="金色精魄"/>
+    <string id="currency_type10"  value="橙色精魄"/>
+    <string id="currency_type11"  value="红色精魄"/>
+    <string id="currency_type12"  value="文谍"/>
+    <string id="currency_type13"  value="经验"/>
+    <string id="currency_type14"  value="个人贡献"/>
+    <string id="currency_type15"  value="玉清符"/>
+    <string id="currency_type16"  value="消费积分"/>
+    <string id="currency_type17"  value="体能"/>
+    <string id="currency_type18"  value="摇钱树经验"/>
+    <string id="currency_type19"  value="竞技水晶"/>
+    <string id="currency_type20"  value="斗魂"/>
+
+    <string id="logs_1004" value="恭喜你达到30级赶紧去使用30级礼包吧"/>
+    <string id="logs_1116" value="升级成功！"/>
+    <string id="logs_2001" value="强化装备，可以提高战斗力！"/>
+    <string id="logs_2002" value="应付防御较高的敌人，使用降防绝技"/>
+    <string id="logs_2003" value="应付攻击较高的敌人，使用眩晕控制"/>
+    <string id="logs_2004" value="应付不同类型的敌人，可以切换绝技"/>
+    <string id="logs_2005" value="在装备中镶嵌越好的灵珠带来的额外属性越多"/>
+    <string id="logs_2006" value="开启10级等级礼包，可获得丰厚物品奖励"/>
+    <string id="logs_2007" value="开启30级等级礼包，可获得丰厚物品奖励"/>
+    <string id="logs_2008" value="阵法玩腻了？主角自由切换阵位，掌握阵法进阶要诀！"/>
+    <string id="logs_2009" value="新伙伴需要上阵才能帮助你战斗哦！"/>
+    <string id="logs_2010" value="主人$心情好大赦天下，你终于自由了，赶紧谢恩吧！"/>
+    <string id="logs_2012" value="你被$抓走了，你成为了TA的苦工，命苦哇！"/>
+    <string id="logs_2013" value="$不堪忍受你的折磨，想要反抗你，可惜他还是太嫩了！"/>
+    <string id="logs_2014" value="$不堪忍受你的折磨，鼓起勇气反抗了你，现在TA自由了！"/>
+    <string id="logs_2015" value="$不堪忍受你的折磨向大侠$求救，他那花拳绣腿怎是你的对手？"/>
+    <string id="logs_2016" value="$不堪忍受你的折磨向大侠$求救，矮油那货太厉害了你还是跑吧！"/>
+    <string id="logs_2017" value="$在给财神上香时顺手帮你的财神也上了一柱，感谢他吧！"/>
+    <string id="logs_2018" value="有小弟加入社团，赶快去处理吧！"/>
+    <string id="logs_2019" value="恭喜，声望提升到#级！快去看看新增的属性吧！"/>
+    <string id="logs_2020" value="你的精力不足，请先购买精力！"/>
+    <string id="logs_2021" value="你的VIP体验已过期，成为VIP可享受更多特权！"/>
+    <string id="logs_2024" value="你获得了新装备，立即使用可增强战斗力！"/>
+    <string id="logs_2025" value="应付对方人伐阵位猛烈攻击，可以招募使用眩晕对方技能的伙伴！"/>
+    <string id="logs_2026" value="应付对方天泽阵位的眩晕控制，可以招募使用眩晕对方技能的伙伴！"/>
+    <string id="logs_2027" value="应付控制较强的敌人，可以使用提高抗性技能"/>
+    <string id="logs_2028" value="你现在可以打造等级更高的装备了！"/>
+    <string id="logs_2029" value="你现在可以打造品质更好的法宝了！"/>
+    <string id="logs_2030" value="$邀请你并肩挑战取经之路[$]，是否接受邀请？"/>
+    <string id="logs_2031" value="一大批英雄慕名而来，想与你结交好友！"/>
+    <string id="logs_2032" value="提升增加战斗力，招募更强伙伴!"/>
+    <string id="logs_2036" value="有小弟加入社团，赶快去处理吧！" />
+    <string id="logs_8001" value="[$]在竞技场挑战你失败，你的排名不变。"/>
+    <string id="logs_8002" value="[$]在竞技场挑战你成功，你的排名下降到[#]。"/>
+    <string id="logs_8003" value="恭喜，[$]社团已通过您的入帮申请！"/>
+    <string id="logs_8004" value="您收到一封新信件，是否立即查看？"/>
+    <string id="logs_8005" value="[$]通过你加入社团的申请，你成功加入了[$]社团! "/>
+    <string id="logs_8006" value="你的苦工$被大坏蛋$拐跑了，快去抓回来啊！"/>
+    <string id="logs_8007" value="你有奖励可以领取哦~赶快去领吧！"/>
+    <string id="logs_8008" value="[$]拒绝你加入社团[$]! "/>
+    <string id="logs_8009" value="[$]通过你加入社团的申请，你成功加入了[$]社团! "/>
+
+    <string id="CONST_COLOR_1" value="&lt;color:255,255,255,255&gt;" /><!--颜色-白  -->
+    <string id="CONST_COLOR_2" value="&lt;color:24,220,3,255&gt;" /><!--颜色-绿  -->
+    <string id="CONST_COLOR_3" value="&lt;color:0,0,255,255&gt;" /><!--颜色-蓝  -->
+    <string id="CONST_COLOR_4" value="&lt;color:160,0,83,255&gt;" /><!--颜色-紫  -->
+    <string id="CONST_COLOR_5" value="&lt;color:237,234,0,255&gt;" /><!--颜色-金  -->
+    <string id="CONST_COLOR_6" value="&lt;color:255,126,0,255&gt;" /><!--颜色-橙  -->
+    <string id="CONST_COLOR_7" value="&lt;color:255,0,0,255&gt;" /><!--颜色-红  -->
+
+    <string id="CONST_COLOR_INT_1" r="255"  g="255"   b="255" /><!--颜色-白  -->
+    <string id="CONST_COLOR_INT_2" r="24"   g="220"   b="3" /><!--颜色-绿  -->
+    <string id="CONST_COLOR_INT_3" r="0"    g="0"     b="255" /><!--颜色-蓝  -->
+    <string id="CONST_COLOR_INT_4" r="160"  g="0"     b="83" /><!--颜色-紫  -->
+    <string id="CONST_COLOR_INT_5" r="237"  g="234"   b="0" /><!--颜色-金  -->
+    <string id="CONST_COLOR_INT_6" r="255"  g="126"   b="0" /><!--颜色-橙  -->
+    <string id="CONST_COLOR_INT_7" r="255"  g="0"     b="0" /><!--颜色-红  -->
+
+    <!-- 社团日志-->
+    <string id="faction_logs_1"  value="欢迎 $ 加入社团"/>
+    <string id="faction_logs_2"  value="$ 退出本社团"/>
+    <string id="faction_logs_3"  value="$ 被 $ 贬为庶民"/>
+    <string id="faction_logs_4"  value="恭喜,$ 被社长升为副社长 "/>
+    <string id="faction_logs_5"  value="$ 将社长之位转让给了 $ "/>
+    <string id="faction_logs_6"  value="$ 被 $ 踢出社团 "/>
+    <string id="faction_logs_7"  value="$ 修改了公告"/>
+    <string id="faction_logs_8"  value="$ 申请加入社团"/>
+    <string id="faction_logs_10" value="$ 给社团摇钱树浇水，获得体能 #，社团贡献增长了 #"/>
+
+    <!-- 社团内职位-->
+    <string id="faction_post_0"  value="踢出社团"/>
+    <string id="faction_post_1"  value="平民"/>
+    <string id="faction_post_2"  value="副社长"/>
+    <string id="faction_post_3"  value="社长"/>
+
+    <!-- 职业名称 -->
+    <string id="Role_ProName_01"  value="烈焰之拳"/>
+    <string id="Role_ProName_02"  value="焰之旋风"/>
+    <string id="Role_ProName_03"  value="苍蓝之冰"/>
+    <string id="Role_ProName_04"  value="飞天之舞"/>
+    <string id="Role_ProName_05"  value="梦幻之星"/>
+    <string id="Role_ProName_06"  value="钢铁之躯"/>
+    
+    <!-- 货币类型 -->
+    <string id="Currency_Type_1"  value="美刀"/>
+    <string id="Currency_Type_2"  value="钻石"/>
+    <string id="Currency_Type_3"  value="钻石"/>
+    <string id="Currency_Type_4"  value="声望"/>
+    <string id="Currency_Type_5"  value="体力"/>
+    <string id="Currency_Type_6"  value="真气"/>
+    <string id="Currency_Type_7"  value="潜能"/>
+    <string id="Currency_Type_8"  value="紫色精魄"/>
+    <string id="Currency_Type_9"  value="金色精魄"/>
+    <string id="Currency_Type_10"  value="橙色精魄"/>
+    <string id="Currency_Type_11"  value="红色精魄"/>
+    <string id="Currency_Type_12"  value="战斗次数"/>
+    <string id="Currency_Type_13"  value="经验"/>
+    <string id="Currency_Type_14"  value="帮派贡献"/>
+    <string id="Currency_Type_15"  value="神器碎片"/>
+    <string id="Currency_Type_16"  value="消费积分"/>
+    <string id="Currency_Type_17"  value="体能"/>
+    <string id="Currency_Type_18"  value="摇钱树经验"/>
+    <string id="Currency_Type_19"  value="竞技水晶"/>
+    
+    <string id="RechargeInfo"  value="        劲爆好消息!初次充值优惠大酬宾!首次进行充值将可以获得充值金额的三倍钻石!心动不如行动!"/>
+</language>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

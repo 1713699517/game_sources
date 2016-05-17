@@ -1,0 +1,44 @@
+{
+	["src/*"],
+	[{outdir, "../bin_v1.jjxy/beam"}, {i, "include"}]
+}.
+{
+	["src/data/*"],
+	[{outdir, "../bin_v1.jjxy/beam"}, {i, "include"}]
+}.
+{
+	["src/lib/*"],
+	[{outdir, "../bin_v1.jjxy/beam"}, {i, "include"}]
+}.
+{
+	["src/mod/*"],
+	[{outdir, "../bin_v1.jjxy/beam"}, {i, "include"}]
+}.
+{
+	["src/sys/*"],
+	[{outdir, "../bin_v1.jjxy/beam"}, {i, "include"}]
+}.
+{
+	["src/sys_app/*"],
+	[{outdir, "../bin_v1.jjxy/beam"}, {i, "include"}]
+}.
+{
+	["src/sys_crond/*"],
+	[{outdir, "../bin_v1.jjxy/beam"}, {i, "include"}]
+}.
+{
+	["src/sys_gateway/*"],
+	[{outdir, "../bin_v1.jjxy/beam"}, {i, "include"}]
+}.
+{
+	["src/sys_mysql/*"],
+	[{outdir, "../bin_v1.jjxy/beam"}, {i, "include"}]
+}.
+{
+	["src/sys_role/*"],
+	[{outdir, "../bin_v1.jjxy/beam"}, {i, "include"}]
+}.
+{
+	["src/sys_scene/*"],
+	[{outdir, "../bin_v1.jjxy/beam"}, {i, "include"}]
+}.

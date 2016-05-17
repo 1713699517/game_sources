@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flsh_reward>
+	<flsh_rewards>
+		<flsh_reward />
+		<flsh_reward reward_name="五张相同" money="0" renown="300" id="0_5_0" />
+		<flsh_reward reward_name="四张相同" money="0" renown="250" id="0_4_0" />
+		<flsh_reward reward_name="五连顺" money="0" renown="200" id="5_0_0" />
+		<flsh_reward reward_name="三张相同带一对" money="0" renown="150" id="0_3_1" />
+		<flsh_reward reward_name="四连顺" money="0" renown="120" id="4_0_0" />
+		<flsh_reward reward_name="三张相同" money="0" renown="80" id="0_3_0" />
+		<flsh_reward reward_name="两对相同" money="0" renown="60" id="0_0_2" />
+		<flsh_reward reward_name="一对相同" money="0" renown="40" id="0_0_1" />
+		<flsh_reward reward_name="啥都不是" money="0" renown="10" id="0_0_0" />
+	</flsh_rewards>
+</flsh_reward>

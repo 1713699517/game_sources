@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<active_link_rewards>
+	<active_link_rewardss>
+		<active_link_rewards id="1" vitality="25" rewards_id="40031" rewards_count="1" />
+		<active_link_rewards id="2" vitality="50" rewards_id="40041" rewards_count="1" />
+		<active_link_rewards id="3" vitality="75" rewards_id="40051" rewards_count="1" />
+		<active_link_rewards id="4" vitality="100" rewards_id="40061" rewards_count="1" />
+	</active_link_rewardss>
+</active_link_rewards>

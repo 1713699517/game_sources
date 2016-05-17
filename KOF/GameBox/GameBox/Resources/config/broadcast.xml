@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<broadcasts>
+	<broadcast id="1010">
+		<a full_service="Y" pos="13" repeat="3" msg="为了让大家拥有更流畅的游戏体验，享受更欢快的游戏乐趣，此服将于#分钟后进行维护更新，给您带来不便敬请谅解！" arg1="时间" arg2="0" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="1020">
+		<a full_service="Y" pos="13" repeat="3" msg="欢迎进入拳皇咆哮！！！" arg1="时间" arg2="0" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="2010">
+		<a full_service="Y" pos="0" repeat="1" msg="#经过千锤百炼，终于锻造出极品神器#，为了成为第一格斗家而奋斗。" arg1="玩家名称" arg2="神器名称" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="3010">
+		<a full_service="Y" pos="12" repeat="1" msg="#小试身手，在竞技场完成#连斩！" arg1="玩家名称" arg2="连胜数" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="3020">
+		<a full_service="Y" pos="12" repeat="1" msg="#大展拳脚，在竞技场完成#连斩！" arg1="玩家名称" arg2="连胜数" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="3030">
+		<a full_service="Y" pos="12" repeat="1" msg="#霸气测漏，在竞技场完成#连斩！" arg1="玩家名称" arg2="连胜数" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="3040">
+		<a full_service="Y" pos="12" repeat="1" msg="#达成了竞技场#连斩，谁来阻止TA啊！" arg1="玩家名称" arg2="连胜数" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="3050">
+		<a full_service="Y" pos="12" repeat="1" msg="#达成了竞技场#连斩，GM也无法阻止TA了！" arg1="玩家名称" arg2="连胜数" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="3060">
+		<a full_service="Y" pos="12" repeat="1" msg="#在竞技终结了#的#连胜！" arg1="玩家名称" arg2="玩家名称" arg3="连胜数" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="3070">
+		<a full_service="Y" pos="12" repeat="1" msg="#击败了#，成为竞技榜第一！" arg1="玩家名称" arg2="玩家名称" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="4010">
+		<a full_service="Y" pos="0" repeat="1" msg="#有情有义，与著名格斗家#结为伙伴。" arg1="玩家名称" arg2="伙伴名" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="5010">
+		<a full_service="Y" pos="0" repeat="1" msg="波涛暗涌如潮，战斗一触即发，世界Boss将在#分钟后出现，请大家做好迎战准备。" arg1="时间" arg2="0" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="5020">
+		<a full_service="Y" pos="13" repeat="2" msg="你听到了如海潮般狂怒的呼啸吗，你感受到了似烈火般灼热的燃烧吗，世界Boss将在1分钟后出现，请大家提前进入场景。" arg1="0" arg2="0" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="5030">
+		<a full_service="Y" pos="13" repeat="2" msg="沧海一声笑，大地一阵吼，世界Boss#出现了！" arg1="BOSS名" arg2="0" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="5040">
+		<a full_service="Y" pos="13" repeat="2" msg="#给予了世界boss#最后一击，获得了#美刀。" arg1="玩家名称" arg2="BOSS名" arg3="XXXXXX美刀" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="5050">
+		<a full_service="Y" pos="13" repeat="2" msg="世界Boss已撤离，请等待下一次挑战。" arg1="0" arg2="0" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="6010">
+		<a full_service="Y" pos="0" repeat="1" msg="#在领悟斗气中，运气爆发，获得了#。" arg1="玩家名称" arg2="斗气名" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="6020">
+		<a full_service="Y" pos="0" repeat="1" msg="#成功升级到VIP#，享受更多VIP特权。" arg1="玩家名称" arg2="VIP等级" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="6030">
+		<a full_service="Y" pos="13" repeat="1" msg="#运气极佳，获得了至尊大奖，#美刀。" arg1="玩家名称" arg2="奖励美刀数目" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="6040">
+		<a full_service="N" pos="13" repeat="1" msg="#通过首充礼包获得了火辣伙伴—不知火舞。" arg1="玩家名称" arg2="0" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="7010">
+		<a full_service="Y" pos="0" repeat="1" msg="#英勇善战，击败了#。" arg1="玩家名称" arg2="精英副本名称" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="7020">
+		<a full_service="Y" pos="13" repeat="1" msg="#以一敌百，击败了#。" arg1="玩家名称" arg2="魔王副本名称" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+	<broadcast id="7030">
+		<a full_service="Y" pos="0" repeat="1" msg="#越战越勇，通过了拳皇生涯 - #。" arg1="玩家名称" arg2="拳皇生涯名称" arg3="0" arg4="0" arg5="0" arg6="0" arg7="0" />
+	</broadcast>
+</broadcasts>

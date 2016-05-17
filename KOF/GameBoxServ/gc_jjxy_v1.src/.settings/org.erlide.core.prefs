@@ -1,0 +1,5 @@
+backend_version=R16B
+eclipse.preferences.version=1
+include_dirs=include
+output_dir=../bin_v1.jjxy/beam
+source_dirs=src/sys_app;src/sys_scene;src/sys_mysql;src/sys_gateway;src/sys_crond;src/sys;src/mod;src/sys_role;src/lib;src/data;src

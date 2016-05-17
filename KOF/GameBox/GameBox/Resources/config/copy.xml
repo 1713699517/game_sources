@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<copys>
+	<copy chap_id="11100" chap_name="初露锋芒" copy_id="[20010,20020,20030,20040,20050]" pre_chap_id="0" next_chap_id="11200" />
+	<copy chap_id="11200" chap_name="赛场轶事" copy_id="[20060,20070,20070,20090,20100,20110,20120,20130,20140]" pre_chap_id="11100" next_chap_id="11130" />
+	<copy chap_id="11300" chap_name="R的秘密" copy_id="[20150,20160,20170,20180,20190,20200,20210,20220,20230,20240,20250,20260]" pre_chap_id="11200" next_chap_id="11400" />
+	<copy chap_id="11400" chap_name="灭杀之焰" copy_id="[20270,20280,20290,20300,20310,20320,20330,20340,20350]" pre_chap_id="11300" next_chap_id="11500" />
+	<copy chap_id="11500" chap_name="邪恶再生" copy_id="[20360,20370,20380,20390,20400,20410,20420,20430,20440]" pre_chap_id="11400" next_chap_id="0" />
+</copys>

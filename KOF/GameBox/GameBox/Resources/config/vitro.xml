@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    id = 配置ID
+    skin = 皮肤ID
+    skill = 技能ID
+    type = 飞行物穿透碰撞1  飞行物单次碰撞2
+-->
+<vitros>
+	<vitro id="53081" skin="53081" skill="53081" type="1" />
+	<vitro id="53100" skin="53100" skill="53100" type="1" />
+	<vitro id="53121" skin="53121" skill="53121" type="1" />
+	<vitro id="53131" skin="53131" skill="53131" type="1" />
+	<vitro id="53140" skin="53140" skill="53140" type="1" />
+	<vitro id="53151" skin="53151" skill="53151" type="1" />
+	<vitro id="53161" skin="53161" skill="53161" type="1" />
+	<vitro id="53170" skin="53170" skill="53170" type="1" />
+	<vitro id="53180" skin="53180" skill="53180" type="2" />
+	<vitro id="53181" skin="53181" skill="53181" type="2" />
+	<vitro id="53190" skin="53190" skill="53190" type="1" />
+	<vitro id="53210" skin="53210" skill="53210" type="1" />
+	<vitro id="53220" skin="53220" skill="53220" type="1" />
+	<vitro id="53230" skin="53230" skill="53230" type="1" />
+	<vitro id="53240" skin="53240" skill="53240" type="1" />
+	<vitro id="53291" skin="53291" skill="53291" type="1" />
+	<vitro id="53340" skin="53340" skill="53340" type="1" />
+	<vitro id="53371" skin="53371" skill="53371" type="1" />
+	<vitro id="53401" skin="53401" skill="53401" type="1" />
+
+	<vitro id="54140" skin="53140" skill="53140" type="1" />
+	<vitro id="54161" skin="54161" skill="54161" type="1" />
+	<vitro id="55130" skin="55130" skill="55130" type="1" />	
+
+</vitros>

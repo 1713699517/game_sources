@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HomeActivity!</string>
+    <string name="app_name">多酷拳皇咆哮</string>
+    <string name="loginimage_contentdes">登入</string>
+    <string name="welcome_info">百度多酷游戏SDK功能展示Demo，详细说明见文档</string>
+	<string name="recharge">充值</string>
+	<string name="changeaccount">切换帐号</string>
+	<string name="daibi">金币</string>
+	<string name="goldenum">0个</string>
+	<string name="accountname">帐号123456778990</string>
+	<string name="recharge_tip">代币充值方式，具体含义及使用请参考【多酷游戏SDK（支付版）接入规范.pdf】</string>
+	
+	<string name="recharge_title">充值提示</string>
+	<string name="recharge_info">定额方式：请输入定额数值\n非定额方式：请输入0</string>
+	<string name="confirm">确定</string>
+	<string name="cancel">取消</string>
+	<string name="hint"></string>
+</resources>

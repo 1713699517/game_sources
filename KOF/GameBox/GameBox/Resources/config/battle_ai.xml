@@ -1,0 +1,3908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<battle_ais>
+	<battle_ai ai_id="10001" reaction_time="0.100" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10010" id2="10011" id3="0" odds="7000" x="200" y="30" z="200" />
+			<attack_skill id="10014" id2="0" id3="0" odds="1000" x="200" y="30" z="200" />
+			<attack_skill id="10015" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+			<attack_skill id="10016" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10010" id2="10011" id3="0" odds="7000" x="200" y="30" z="200" />
+			<get_up_skill id="10014" id2="0" id3="0" odds="1000" x="200" y="30" z="200" />
+			<get_up_skill id="10015" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+			<get_up_skill id="10016" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="3" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10002" reaction_time="0.100" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10020" id2="10021" id3="0" odds="7000" x="200" y="30" z="300" />
+			<attack_skill id="10024" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<attack_skill id="10025" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<attack_skill id="10026" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10020" id2="10021" id3="0" odds="7000" x="200" y="30" z="300" />
+			<get_up_skill id="10024" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<get_up_skill id="10025" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<get_up_skill id="10026" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="3" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10003" reaction_time="0.100" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10030" id2="10031" id3="0" odds="7000" x="200" y="30" z="300" />
+			<attack_skill id="10034" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<attack_skill id="10035" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<attack_skill id="10036" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10030" id2="10031" id3="0" odds="7000" x="200" y="30" z="300" />
+			<get_up_skill id="10034" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<get_up_skill id="10035" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<get_up_skill id="10036" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="3" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10004" reaction_time="0.100" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10040" id2="10041" id3="0" odds="7000" x="200" y="30" z="200" />
+			<attack_skill id="10044" id2="0" id3="0" odds="1000" x="200" y="30" z="200" />
+			<attack_skill id="10045" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+			<attack_skill id="10046" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10040" id2="10041" id3="0" odds="7000" x="200" y="30" z="200" />
+			<get_up_skill id="10044" id2="0" id3="0" odds="1000" x="200" y="30" z="200" />
+			<get_up_skill id="10045" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+			<get_up_skill id="10046" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="3" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10005" reaction_time="0.100" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10050" id2="10051" id3="0" odds="7000" x="200" y="30" z="300" />
+			<attack_skill id="10054" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<attack_skill id="10055" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<attack_skill id="10056" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10050" id2="10051" id3="0" odds="7000" x="200" y="30" z="300" />
+			<get_up_skill id="10054" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<get_up_skill id="10055" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<get_up_skill id="10056" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="3" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10006" reaction_time="0.100" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10060" id2="10061" id3="0" odds="7000" x="200" y="30" z="300" />
+			<attack_skill id="10064" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<attack_skill id="10065" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<attack_skill id="10066" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10060" id2="10061" id3="0" odds="7000" x="200" y="30" z="300" />
+			<get_up_skill id="10064" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<get_up_skill id="10065" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<get_up_skill id="10066" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="3" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10301" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13010" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13011" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13010" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13011" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10302" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13020" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13021" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13020" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13021" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10303" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13030" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13031" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13030" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13031" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10304" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13040" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<attack_skill id="13041" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13040" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<get_up_skill id="13041" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10305" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13050" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<attack_skill id="13051" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13050" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<get_up_skill id="13051" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10306" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13060" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<attack_skill id="13061" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<attack_skill id="13062" id2="0" id3="0" odds="4000" x="500" y="35" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13060" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<get_up_skill id="13061" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<get_up_skill id="13062" id2="0" id3="0" odds="4000" x="500" y="35" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10307" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13070" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<attack_skill id="13071" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13070" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<get_up_skill id="13071" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10308" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13080" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+			<attack_skill id="13081" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13080" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+			<get_up_skill id="13081" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10309" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13090" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<attack_skill id="13091" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13090" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<get_up_skill id="13091" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10310" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13100" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13101" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13100" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13101" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10311" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13110" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<attack_skill id="13111" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13110" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<get_up_skill id="13111" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10312" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13120" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13121" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13120" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13121" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10313" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13130" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13131" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13130" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13131" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10314" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13140" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13141" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13140" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13141" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10315" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13150" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13151" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13150" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13151" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10316" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13160" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13161" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13160" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13161" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10317" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13170" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13171" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13170" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13171" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10318" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13180" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13181" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13180" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13181" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10319" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13190" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13191" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13190" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13191" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10320" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13200" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<attack_skill id="13201" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<attack_skill id="13202" id2="0" id3="0" odds="4000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13200" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<get_up_skill id="13201" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<get_up_skill id="13202" id2="0" id3="0" odds="4000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10321" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13210" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13211" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13210" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13211" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10322" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13220" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13221" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13220" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13221" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10323" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13230" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13231" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13230" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13231" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10324" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13240" id2="0" id3="0" odds="3000" x="800" y="25" z="200" />
+			<attack_skill id="13241" id2="0" id3="0" odds="3000" x="400" y="25" z="200" />
+			<attack_skill id="13242" id2="0" id3="0" odds="4000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13240" id2="0" id3="0" odds="3000" x="800" y="25" z="200" />
+			<get_up_skill id="13241" id2="0" id3="0" odds="3000" x="400" y="25" z="200" />
+			<get_up_skill id="13242" id2="0" id3="0" odds="4000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10325" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13250" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<attack_skill id="13251" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13250" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<get_up_skill id="13251" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10326" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13260" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13261" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13260" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13261" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10327" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13270" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13271" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13270" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13271" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10328" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13280" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13281" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13280" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13281" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10329" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13290" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13291" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13290" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13291" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10330" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13300" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<attack_skill id="13301" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13300" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<get_up_skill id="13301" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10331" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13310" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13311" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13310" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13311" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10332" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13320" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13321" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13320" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13321" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10333" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13330" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13331" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13330" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13331" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10334" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13340" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13341" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13340" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13341" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10335" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13350" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13351" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13350" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13351" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10336" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13360" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13361" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13360" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13361" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10337" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13370" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13371" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13370" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13371" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10338" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13380" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13381" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13380" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13381" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10339" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13390" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13391" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13390" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13391" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10340" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13400" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13401" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13400" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13401" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10341" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13410" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13411" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13410" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13411" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10501" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15010" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15010" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10502" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15020" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15020" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10503" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15030" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15030" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10504" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15040" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15040" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10505" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15050" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15050" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10506" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15060" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15060" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10507" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15070" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15070" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10508" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15080" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15080" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10509" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15090" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15090" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10510" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15100" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15100" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10511" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15110" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15110" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10512" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15120" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15120" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10513" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="15130" id2="0" id3="0" odds="10000" x="500" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15130" id2="0" id3="0" odds="10000" x="500" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10514" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15140" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15140" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10515" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15150" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15150" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10516" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15160" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15160" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10517" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15170" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15170" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10518" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15180" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15180" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10519" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15190" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15190" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10520" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15200" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15200" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10521" reaction_time="1" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15210" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15210" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="50001" reaction_time="0.300" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10010" id2="10011" id3="0" odds="7000" x="200" y="30" z="200" />
+			<attack_skill id="10014" id2="0" id3="0" odds="1000" x="200" y="30" z="200" />
+			<attack_skill id="10015" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+			<attack_skill id="10016" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10010" id2="10011" id3="0" odds="7000" x="200" y="30" z="200" />
+			<get_up_skill id="10014" id2="0" id3="0" odds="1000" x="200" y="30" z="200" />
+			<get_up_skill id="10015" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+			<get_up_skill id="10016" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="50002" reaction_time="0.300" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10020" id2="10021" id3="0" odds="7000" x="200" y="30" z="300" />
+			<attack_skill id="10024" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<attack_skill id="10025" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<attack_skill id="10026" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10020" id2="10021" id3="0" odds="7000" x="200" y="30" z="300" />
+			<get_up_skill id="10024" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<get_up_skill id="10025" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<get_up_skill id="10026" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="50003" reaction_time="0.300" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10030" id2="10031" id3="0" odds="7000" x="200" y="30" z="300" />
+			<attack_skill id="10034" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<attack_skill id="10035" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<attack_skill id="10036" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10030" id2="10031" id3="0" odds="7000" x="200" y="30" z="300" />
+			<get_up_skill id="10034" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<get_up_skill id="10035" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<get_up_skill id="10036" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="50004" reaction_time="0.300" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10040" id2="10041" id3="0" odds="7000" x="200" y="30" z="200" />
+			<attack_skill id="10044" id2="0" id3="0" odds="1000" x="200" y="30" z="200" />
+			<attack_skill id="10045" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+			<attack_skill id="10046" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10040" id2="10041" id3="0" odds="7000" x="200" y="30" z="200" />
+			<get_up_skill id="10044" id2="0" id3="0" odds="1000" x="200" y="30" z="200" />
+			<get_up_skill id="10045" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+			<get_up_skill id="10046" id2="0" id3="0" odds="1000" x="300" y="30" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="50005" reaction_time="0.300" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10050" id2="10051" id3="0" odds="7000" x="200" y="30" z="300" />
+			<attack_skill id="10054" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<attack_skill id="10055" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<attack_skill id="10056" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10050" id2="10051" id3="0" odds="7000" x="200" y="30" z="300" />
+			<get_up_skill id="10054" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<get_up_skill id="10055" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<get_up_skill id="10056" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="50006" reaction_time="0.300" view="2000" attack_interval="0.100" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="10060" id2="10061" id3="0" odds="7000" x="200" y="30" z="300" />
+			<attack_skill id="10064" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<attack_skill id="10065" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<attack_skill id="10066" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="10060" id2="10061" id3="0" odds="7000" x="200" y="30" z="300" />
+			<get_up_skill id="10064" id2="0" id3="0" odds="1000" x="200" y="30" z="300" />
+			<get_up_skill id="10065" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+			<get_up_skill id="10066" id2="0" id3="0" odds="1000" x="300" y="30" z="300" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10402" reaction_time="0.900" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="14020" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="14021" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="14020" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="14021" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10403" reaction_time="0.900" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="14030" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="14031" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="14030" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="14031" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10407" reaction_time="0.900" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="14070" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<attack_skill id="14071" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="14070" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<get_up_skill id="14071" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10409" reaction_time="0.800" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="14090" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<attack_skill id="14091" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="14090" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<get_up_skill id="14091" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10414" reaction_time="0.800" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="14140" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="14141" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="14140" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="14141" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10412" reaction_time="0.800" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="14120" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="14121" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="14120" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="14121" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10425" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="14250" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="14251" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="14250" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="14251" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10428" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="14280" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="14281" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="14280" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="14281" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10432" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="14320" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="14321" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="14320" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="14321" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10435" reaction_time="0.500" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="14350" id2="0" id3="0" odds="5000" x="450" y="25" z="200" />
+			<attack_skill id="14351" id2="0" id3="0" odds="5000" x="450" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="14350" id2="0" id3="0" odds="5000" x="450" y="25" z="200" />
+			<get_up_skill id="14351" id2="0" id3="0" odds="5000" x="450" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="10416" reaction_time="0.500" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="14160" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<attack_skill id="14161" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="14160" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<get_up_skill id="14161" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="4" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="60000" reaction_time="0.600" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13410" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13411" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13410" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13411" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="60001" reaction_time="0.600" view="2000" attack_interval="5.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13010" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13011" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13010" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13011" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="60002" reaction_time="0.600" view="2000" attack_interval="5.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13100" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13101" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13100" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13101" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11301" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13010" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13011" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13010" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13011" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11302" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13020" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13021" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13020" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13021" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11303" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13030" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13031" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13030" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13031" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11304" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13040" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<attack_skill id="13041" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13040" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<get_up_skill id="13041" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11305" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13050" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<attack_skill id="13051" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13050" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<get_up_skill id="13051" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11306" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13060" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<attack_skill id="13061" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<attack_skill id="13062" id2="0" id3="0" odds="4000" x="500" y="35" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13060" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<get_up_skill id="13061" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<get_up_skill id="13062" id2="0" id3="0" odds="4000" x="500" y="35" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11307" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13070" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<attack_skill id="13071" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13070" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<get_up_skill id="13071" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11308" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13080" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+			<attack_skill id="13081" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13080" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+			<get_up_skill id="13081" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11309" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13090" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<attack_skill id="13091" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13090" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<get_up_skill id="13091" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11310" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13100" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13101" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13100" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13101" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11311" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13110" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<attack_skill id="13111" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13110" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<get_up_skill id="13111" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11312" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13120" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13121" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13120" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13121" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11313" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13130" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13131" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13130" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13131" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11314" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13140" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13141" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13140" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13141" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11315" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13150" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13151" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13150" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13151" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11316" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13160" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13161" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13160" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13161" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11317" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13170" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13171" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13170" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13171" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11318" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13180" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13181" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13180" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13181" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11319" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13190" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13191" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13190" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13191" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11320" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13200" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<attack_skill id="13201" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<attack_skill id="13202" id2="0" id3="0" odds="4000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13200" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<get_up_skill id="13201" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<get_up_skill id="13202" id2="0" id3="0" odds="4000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11321" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13210" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13211" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13210" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13211" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11322" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13220" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13221" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13220" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13221" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11323" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13230" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13231" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13230" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13231" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11324" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13240" id2="0" id3="0" odds="3000" x="800" y="25" z="200" />
+			<attack_skill id="13241" id2="0" id3="0" odds="3000" x="400" y="25" z="200" />
+			<attack_skill id="13242" id2="0" id3="0" odds="4000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13240" id2="0" id3="0" odds="3000" x="800" y="25" z="200" />
+			<get_up_skill id="13241" id2="0" id3="0" odds="3000" x="400" y="25" z="200" />
+			<get_up_skill id="13242" id2="0" id3="0" odds="4000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11325" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13250" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<attack_skill id="13251" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13250" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<get_up_skill id="13251" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11326" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13260" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13261" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13260" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13261" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11327" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13270" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13271" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13270" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13271" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11328" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13280" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13281" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13280" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13281" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11329" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13290" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13291" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13290" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13291" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11330" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13300" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<attack_skill id="13301" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13300" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<get_up_skill id="13301" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11331" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13310" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13311" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13310" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13311" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11332" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13320" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13321" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13320" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13321" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11333" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13330" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13331" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13330" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13331" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11334" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13340" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13341" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13340" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13341" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11335" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13350" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13351" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13350" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13351" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11336" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13360" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13361" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13360" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13361" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11337" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13370" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13371" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13370" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13371" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11338" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13380" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13381" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13380" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13381" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11339" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13390" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13391" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13390" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13391" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11340" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13400" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13401" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13400" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13401" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11341" reaction_time="0.600" view="2000" attack_interval="2" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13410" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13411" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13410" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13411" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="3" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11501" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15010" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15010" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11502" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15020" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15020" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11503" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15030" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15030" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11504" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15040" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15040" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11505" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15050" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15050" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11506" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15060" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15060" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11507" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15070" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15070" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11508" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15080" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15080" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11509" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15090" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15090" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11510" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15100" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15100" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11511" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15110" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15110" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11512" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15120" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15120" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11513" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="15130" id2="0" id3="0" odds="10000" x="500" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15130" id2="0" id3="0" odds="10000" x="500" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11514" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15140" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15140" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11515" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15150" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15150" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11516" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15160" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15160" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11517" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15170" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15170" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11518" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15180" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15180" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11519" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15190" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15190" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11520" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15200" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15200" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="11521" reaction_time="0.700" view="2000" attack_interval="2.500" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15210" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="15210" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="4" r3="4" r4="4" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="600" y="120" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12301" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13010" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13011" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13010" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13011" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12302" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13020" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13021" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13020" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13021" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12303" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13030" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13031" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13030" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13031" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12304" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13040" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<attack_skill id="13041" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13040" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<get_up_skill id="13041" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12305" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13050" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<attack_skill id="13051" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13050" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<get_up_skill id="13051" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12306" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13060" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<attack_skill id="13061" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<attack_skill id="13062" id2="0" id3="0" odds="4000" x="500" y="35" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13060" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<get_up_skill id="13061" id2="0" id3="0" odds="3000" x="500" y="35" z="200" />
+			<get_up_skill id="13062" id2="0" id3="0" odds="4000" x="500" y="35" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12307" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13070" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<attack_skill id="13071" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13070" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<get_up_skill id="13071" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12308" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13080" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+			<attack_skill id="13081" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13080" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+			<get_up_skill id="13081" id2="0" id3="0" odds="5000" x="500" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12309" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13090" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<attack_skill id="13091" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13090" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<get_up_skill id="13091" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12310" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13100" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13101" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13100" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13101" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12311" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13110" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<attack_skill id="13111" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13110" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+			<get_up_skill id="13111" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12312" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13120" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13121" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13120" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13121" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12313" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13130" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13131" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13130" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13131" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12314" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13140" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13141" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13140" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13141" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12315" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13150" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13151" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13150" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13151" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12316" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13160" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13161" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13160" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13161" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12317" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13170" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13171" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13170" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13171" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12318" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13180" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13181" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13180" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13181" id2="0" id3="0" odds="5000" x="600" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12319" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13190" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<attack_skill id="13191" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13190" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+			<get_up_skill id="13191" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12320" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13200" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<attack_skill id="13201" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<attack_skill id="13202" id2="0" id3="0" odds="4000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13200" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<get_up_skill id="13201" id2="0" id3="0" odds="3000" x="250" y="25" z="200" />
+			<get_up_skill id="13202" id2="0" id3="0" odds="4000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12321" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13210" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13211" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13210" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13211" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12322" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13220" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13221" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13220" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13221" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12323" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13230" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13231" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13230" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13231" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12324" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13240" id2="0" id3="0" odds="3000" x="800" y="25" z="200" />
+			<attack_skill id="13241" id2="0" id3="0" odds="3000" x="400" y="25" z="200" />
+			<attack_skill id="13242" id2="0" id3="0" odds="4000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13240" id2="0" id3="0" odds="3000" x="800" y="25" z="200" />
+			<get_up_skill id="13241" id2="0" id3="0" odds="3000" x="400" y="25" z="200" />
+			<get_up_skill id="13242" id2="0" id3="0" odds="4000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12325" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13250" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<attack_skill id="13251" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13250" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+			<get_up_skill id="13251" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12326" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13260" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13261" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13260" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13261" id2="0" id3="0" odds="5000" x="200" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12327" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13270" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13271" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13270" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13271" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12328" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13280" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13281" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13280" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13281" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12329" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13290" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13291" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13290" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13291" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12330" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13300" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<attack_skill id="13301" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13300" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+			<get_up_skill id="13301" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12331" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13310" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13311" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13310" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13311" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12332" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13320" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13321" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13320" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13321" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12333" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13330" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13331" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13330" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13331" id2="0" id3="0" odds="5000" x="250" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12334" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13340" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13341" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13340" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13341" id2="0" id3="0" odds="5000" x="300" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12335" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13350" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13351" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13350" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13351" id2="0" id3="0" odds="5000" x="400" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12336" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13360" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13361" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13360" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13361" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12337" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13370" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13371" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13370" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13371" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12338" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13380" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13381" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13380" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13381" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12339" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13390" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13391" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13390" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13391" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12340" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13400" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<attack_skill id="13401" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13400" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+			<get_up_skill id="13401" id2="0" id3="0" odds="5000" x="120" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12341" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="13410" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<attack_skill id="13411" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</attack_skills>
+		<get_up_skills>
+			<get_up_skill id="13410" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+			<get_up_skill id="13411" id2="0" id3="0" odds="5000" x="800" y="25" z="200" />
+		</get_up_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12501" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15010" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12502" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15020" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12503" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15030" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12504" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15040" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12505" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15050" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12506" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15060" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12507" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15070" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12508" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15080" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12509" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15090" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12510" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15100" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12511" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15110" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12512" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15120" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12513" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="0">
+		<attack_skills>
+			<attack_skill id="15130" id2="0" id3="0" odds="10000" x="500" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12514" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15140" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12515" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="4000">
+		<attack_skills>
+			<attack_skill id="15150" id2="0" id3="0" odds="10000" x="800" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12516" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15160" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12517" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15170" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12518" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15180" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12519" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15190" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12520" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15200" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+	<battle_ai ai_id="12521" reaction_time="3" view="300" attack_interval="3" is_area="1" get_up_rand="7500">
+		<attack_skills>
+			<attack_skill id="15210" id2="0" id3="0" odds="10000" x="120" y="25" z="200" />
+		</attack_skills>
+		<special_areas>
+			<special_area x="0" y="0" w="100" h="50" ti="2000" />
+		</special_areas>
+		<rand_types>
+			<rand_type r1="1" r2="1" r3="1" r4="1" />
+		</rand_types>
+		<rand_zuos>
+			<rand_zuo x="0" y="0" />
+		</rand_zuos>
+	</battle_ai>
+</battle_ais>

@@ -1,0 +1,19 @@
+﻿开发环境: win32 + eclipse + erlide
+环境设定: 1. Window ->  Preferences ->  Erlang -> Install runtimes -> <Add> : 添加你erlang安装的目录
+		  2. Window ->  Preferences -> General -> Content Types -> Text -> 
+				Erlang source file -> Default encoding: utf-8  -> <Update> -> <OK>
+
+1. File -> New -> Erlang Project
+	Project name:gc_jjxy_v1.src
+	Use default location:前的勾去啦
+	Location: <工作目录>\gc_jjxy_v1.src
+	<Finish>
+2. Project -> Properties 
+	Resource -> Text file encodeing -> Other : utf-8
+	<Apply>
+	Erlang -> 	Output  folder : ../bin_v1.jjxy/beam (PS: <工作目录>/bin_v1.jjxy/beam )
+				Source  folder : src;src/lib;src/lib_app;src/mod;src/sys;src/sys_crond;src/sys_gateway;src/sys_mysql;src/sys_scene;
+				Include folder : include;
+				Build runtime version :R16B
+	<Apply>
+	<OK>

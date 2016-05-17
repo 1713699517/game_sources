@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<active_links>
+	<active_link id="101" name="一轮日常任务" times="1" vitality="15" lv="23" open="104" />
+	<active_link id="102" name="通关魔王副本" times="1" vitality="15" lv="25" open="103" />
+	<active_link id="103" name="通关精英副本" times="1" vitality="15" lv="20" open="102" />
+	<active_link id="104" name="世界BOSS" times="1" vitality="15" lv="20" open="105" />
+	<active_link id="105" name="竞技场" times="3" vitality="10" lv="13" open="106" />
+	<active_link id="106" name="招财" times="2" vitality="10" lv="12" open="107" />
+	<active_link id="107" name="领悟斗气" times="5" vitality="15" lv="21" open="108" />
+	<active_link id="108" name="翻翻乐" times="5" vitality="10" lv="28" open="109" />
+	<active_link id="109" name="刷新珍宝商店" times="1" vitality="10" lv="30" open="126" />
+	<active_link id="111" name="每日一箭" times="2" vitality="10" lv="22" open="110" />
+</active_links>

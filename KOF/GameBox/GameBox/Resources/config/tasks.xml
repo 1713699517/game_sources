@@ -1,0 +1,2679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+	<task name="初入江湖" lv="1" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="100110" exp="240" exp_c="0" gold="100" ext_id="0" ext_v="0" id="100010" country="0">
+		<target_7 copy_id="20010" times="1" />
+		<goods />
+		<dialog s="那些流氓一直缠着我真是很烦啊，多得那边那位帅哥出手相助。" sr="老爸经常告诫我要路见不平拔刀相助，我也帮你对付他们吧。" m="那就麻烦你了。" mr="不客气，我现在就去打倒他们！" e="非常感谢你的帮助，我先走了，我们以后会再见面的。">
+			<ers>
+				<er id="1" d="那边的兄弟好功夫，看来我出手是多余的了。" />
+			</ers>
+		</dialog>
+		<tip pre="与不知火舞对话。" desc="去初次试练(一)击退围攻青年的小混混" over="与不知火舞对话。" />
+		<npc>
+			<s scene="10100" npc="10116" />
+			<e scene="10100" npc="10116" />
+		</npc>
+	</task>
+	<task name="草薙传人" lv="2" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="100210" exp="360" exp_c="0" gold="200" ext_id="0" ext_v="0" id="100110" country="0">
+		<target_7 copy_id="20020" times="1" />
+		<goods />
+		<dialog s="我叫草薙京，请多多指教。" sr="看来现在不是闲聊的时候，又有客人来了，先收拾了他们。" m="先收拾了他们我们再聊吧" mr="我马上就去。" e="这帮人还真爱纠缠的，就是功夫差了点。">
+			<ers>
+				<er id="1" d="草薙京？那个异种格斗大赛的冠军？怪不得功夫如此高强。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="去初次试练(二)击败来报复的小混混" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="黑帮头目" lv="3" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="100310" exp="720" exp_c="0" gold="300" ext_id="0" ext_v="0" id="100210" country="0">
+		<target_7 copy_id="20030" times="1" />
+		<goods />
+		<dialog s="兄弟你的功夫很不错，学的是什么流派的武术呢？" sr="这身功夫都是父亲教的，这次出来就是为了寻找我父亲的。真缠人。那帮家伙似乎把老大叫来了。" m="快把他们的老大打倒，我们才能好好聊天。" mr="好的，我知道了！" e="你父亲出了什么事呢？">
+			<ers>
+				<er id="1" d="两年前，我父亲收到了用红色“R”封口的邀请函，邀请去参加一个格斗大赛，但父亲去参加比赛后就失踪了。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="去找初次试练(三)击败小混混的头目。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="代号是R" lv="4" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="100410" exp="770" exp_c="0" gold="400" ext_id="0" ext_v="0" id="100310" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="我也收到了这样一封邀请函，邀请我组队去参加一个世界格斗之王大赛，你找我的朋友红丸一起组队吧。" sr="好的，请务必和我一起组队参加比赛。" m="要参加比赛就赶紧去邀请红丸吧" mr="我这就去找他！" e="世界格斗之王大赛吗？好像很有意思的样子。">
+			<ers>
+				<er id="1" d="我一定要拿到这次大赛的冠军，找到主办人。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="去东京找到二阶堂红丸。" over="与二阶堂红丸对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="赛前试练" lv="5" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="100510" exp="920" exp_c="0" gold="500" ext_id="0" ext_v="0" id="100410" country="0">
+		<target_7 copy_id="20040" times="1" />
+		<goods />
+		<dialog s="看你信心满满的，不知道实力如何，如果你想让我和你组队，你就和大门还有我各比试一场，证明你的实力吧。" sr="那我可不会手下留情的。" m="快开始吧，大门等着呢。" mr="好的，我上了" e="竟然可以和大门打到这种程度，我真是小看你了。">
+			<ers>
+				<er id="1" d="那我们继续吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与二阶堂红丸对话。" desc="前往宿命之友(一)与大门比试。" over="与二阶堂红丸对话。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="雷鸣闪电" lv="6" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="100520" exp="1020" exp_c="0" gold="600" ext_id="0" ext_v="0" id="100510" country="0">
+		<target_7 copy_id="20050" times="1" />
+		<goods />
+		<dialog s="那再让我看看你到底可以到什么程度吧，我可不像大门那边呆头呆脑的。" sr="我会出尽全力的。" m="快出手吧，别以为我会让你。" mr="好的，看招吧。" e="竟然能得到红丸认可,你以后可能会超越我了。">
+			<ers>
+				<er id="1" d="他们两位对我手下留情了，那我们就去参加比赛吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与二阶堂红丸对话。" desc="前往宿命之友(二)与红丸比试。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="绑架事件" lv="7" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="100610" exp="1260" exp_c="0" gold="700" ext_id="0" ext_v="0" id="100520" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="国内的预选赛意想不到的轻松呢，这么快就可以获得代表权了。多得这样，我们才能到这里观看英国队的预选赛。
+" sr="她们怎么一直在被动挨打，这不是她们的一惯的风格吧。" m="快去问问原因吧。" mr="了解，我这就去！" e="金这样下去不知道还能支撑多久了。请问你是谁呢？">
+			<ers>
+				<er id="1" d="我是其他地区代表队的选手，金选手为什么一直在防守呢？" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="去东京找到不知火舞。" over="与不知火舞对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10116" />
+		</npc>
+	</task>
+	<task name="夜闯别墅" lv="8" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="100710" exp="1440" exp_c="0" gold="800" ext_id="4" ext_v="100" id="100610" country="0">
+		<target_7 copy_id="20060" times="1" />
+		<goods />
+		<dialog s="那帮卑鄙小人把金的弟弟约翰绑架到了市内的一座别墅里，威胁我们要输掉这场比赛，要不就会杀掉约翰。" sr="比赛的胜负不是在比赛中决出，让人觉得很不爽呢，我会去帮你们救出约翰的，请放心吧。" m="还没去吗？约翰就拜托你了。" mr="好的，我这就去。" e="竟然发生这种事情，我去把红丸和大门也找来吧。">
+			<ers>
+				<er id="1" d="好的，越快越好。" />
+			</ers>
+		</dialog>
+		<tip pre="与不知火舞对话。" desc="前往劫持事件(一)查看情况。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10116" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="长驱直入" lv="9" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="100810" exp="1580" exp_c="0" gold="900" ext_id="0" ext_v="0" id="100710" country="0">
+		<target_7 copy_id="20070" times="1" />
+		<goods />
+		<dialog s="我是为了和全世界的高手对战才参加这个大赛的,我可不愿意有实力的人因为这样的原因输掉比赛。" sr="我们上吧，一定要救出约翰。" m="约翰在等着我们救他呢，赶紧去吧。" mr="知道了！" e="人应该就在别墅里面了，我们进去吧。">
+			<ers>
+				<er id="1" d="要赶快，女子格斗家队的三位可能撑不了这么久的。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往劫持事件(二)找到约翰所在的地方" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="解救约翰" lv="10" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="100910" exp="2160" exp_c="0" gold="1000" ext_id="0" ext_v="0" id="100810" country="0">
+		<target_7 copy_id="20080" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="40081" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="那边的男孩子应该就是约翰了，来欢迎我们的人真多，似乎对方的头目也来了。" sr="让他们见识一下我们和他们等级的差距吧。" m="我们绝对不能放过这些人的，快上吧。" mr="好的，我上了。" e="终于把人救出来了，我们赶紧回去吧。">
+			<ers>
+				<er id="1" d="希望她们还能撑住。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="去劫持事件(三)救出约翰。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="回报喜信" lv="11" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="101010" exp="2440" exp_c="0" gold="1100" ext_id="0" ext_v="0" id="100910" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="你总算回来了，约翰怎么样了呢？" sr="我们已经把约翰救回来了，真不愧是金小姐，竟然能支撑这么久，我这就去把消息告诉她。" m="赶紧去告诉金这个好消息吧。" mr="嗯，我知道了。" e="终于赢了，这场比赛真艰难，如果没你们的帮助，我们都打算放弃比赛了，我要好好答谢你们。">
+			<ers>
+				<er id="1" d="我只是不希望好的对手没办法和我们一较高下了，答谢就不必了。" />
+			</ers>
+		</dialog>
+		<tip pre="与不知火舞对话。" desc="去东京找到金。" over="与金对话。" />
+		<npc>
+			<s scene="10100" npc="10116" />
+			<e scene="10100" npc="10121" />
+		</npc>
+	</task>
+	<task name="铁锤巨汉" lv="12" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="101110" exp="2670" exp_c="0" gold="1200" ext_id="0" ext_v="0" id="101010" country="0">
+		<target_7 copy_id="20090" times="1" />
+		<goods />
+		<dialog s="首场比赛是以金家潘为首的韩国队，据说他是个富有正义感的人，但是这次比赛却和两个罪大恶极的囚犯组队了。" sr="那个传说是史上最强的跆拳道高手？可能其中有其他的原因的，但是不管怎么样，我们只有赢下比赛这个唯一的目标。" m="比赛开始了哦，还没去吗?" mr="我这就去。" e="好惊人的力量，如果让他的铁锤砸中了，后果真的无法想象啊。">
+			<ers>
+				<er id="1" d="能够进入正赛的选手都是这么强的吗？" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="去初次出战(一)击败陈国汉。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="疾风之影" lv="13" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="101210" exp="2890" exp_c="0" gold="1300" ext_id="0" ext_v="0" id="101110" country="0">
+		<target_7 copy_id="20100" times="1" />
+		<goods />
+		<dialog s="刚才那个大汉比赛之后就一直在说金先生我难道真的错吗?金先生我也能像他们一样吗？这样让人听不懂的话。" sr="看来的确是有隐情的，但是我们也必须拿下比赛胜利的，继续击败下一个对手吧。" m="还没去吗？赶紧再接再厉吧。" mr="知道了，我这就去。" e="这样就两连胜了，只要击败金家潘，就可以取得胜利了。">
+			<ers>
+				<er id="1" d="我会尽力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="去初次出战(二)击败蔡宝健。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="跆拳大师" lv="14" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="101220" exp="2930" exp_c="0" gold="1400" ext_id="0" ext_v="0" id="101210" country="0">
+		<target_7 copy_id="20110" times="1" />
+		<goods />
+		<dialog s="传闻金家潘的实力是可以与“传说中的饿狼”和“无敌之龙”匹敌的。" sr="为了获得冠军找到父亲的线索，我是绝对不会输的。" m="只剩下最后一个就可以获胜了，快去吧。" mr="好的，我这就去！" e="接下来的对手是美国队，大门比较清楚他们的情况，你去了解一下吧。">
+			<ers>
+				<er id="1" d="不知道又是些什么样的选手呢。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="去初次出战(三)击败金家潘。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="不死之躯" lv="15" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="101310" exp="3330" exp_c="0" gold="1500" ext_id="0" ext_v="0" id="101220" country="0">
+		<target_7 copy_id="20120" times="1" />
+		<goods />
+		<dialog s="美国队吗？他们除了拳击天王哈维D之外，其他人都不算是正统的格斗选手。虽然他们格斗技巧一般，但是有着惊人的身体素质。" sr="就算他们体格再强壮，我都会把他们打成渣的！！！" m="赶紧去巨星之战(一) 击败巴特勒吧。" mr="了解，我就去！" e="虽然他身体强壮，但没有格斗经验和对自己身体过于自信，成了致命的弱点啊。">
+			<ers>
+				<er id="1" d="可是他还真硬啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与大门五郎交谈" desc="去巨星之战(一)击败巴特勒。" over="与大门五郎对话。" />
+		<npc>
+			<s scene="10100" npc="10111" />
+			<e scene="10100" npc="10111" />
+		</npc>
+	</task>
+	<task name="篮球巨星" lv="16" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="101410" exp="3720" exp_c="0" gold="1600" ext_id="0" ext_v="0" id="101310" country="0">
+		<target_7 copy_id="20130" times="1" />
+		<goods />
+		<dialog s="篮球巨星洛奇是全美空手道冠军，千万不能小看他，他善于研究对手的动作，你之前的比赛估计也给他研究透彻了。" sr="我会让他知道格斗不只是一成不变的打法的。" m="比赛开始了，赶紧去吧。" mr="知道，我马上就去！" e="真是狂妄自大的家伙啊，不过这种天赋，如果开始他选择的不是篮球而是空手道，不知道会怎么样。">
+			<ers>
+				<er id="1" d="可能会成为与“无敌之龙”“最强之虎”匹敌的人吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与大门五郎对话。" desc="前往巨星之战(二)击败洛奇" over="与大门五郎对话。" />
+		<npc>
+			<s scene="10100" npc="10111" />
+			<e scene="10100" npc="10111" />
+		</npc>
+	</task>
+	<task name="拳击天皇" lv="17" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="101510" exp="3960" exp_c="0" gold="1700" ext_id="0" ext_v="0" id="101410" country="0">
+		<target_7 copy_id="20140" times="1" />
+		<goods />
+		<dialog s="这次的对手哈维D是个危险的人物啊，这个人曾经在比赛中仅用了1分24秒把拥有冠军实力的汤普森击败了，并导致他死在了擂台上。" sr="我还没打算现在就死掉呢，我会小心的。" m="战胜了哈维D我们就可以晋级8强了，快去吧。" mr="知道了，我马上就去！" e="这才是真正的比赛啊，太精彩了，这样就拿下这场与美国队的比赛了。">
+			<ers>
+				<er id="1" d="不知道我也是否也能成为他们这般耀眼呢。" />
+			</ers>
+		</dialog>
+		<tip pre="与大门五郎对话。" desc="前往巨星之战(三)击败哈维D。" over="与大门五郎对话。" />
+		<npc>
+			<s scene="10100" npc="10111" />
+			<e scene="10100" npc="10111" />
+		</npc>
+	</task>
+	<task name="赛前邀宴" lv="18" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="101610" exp="4180" exp_c="0" gold="1800" ext_id="0" ext_v="0" id="101510" country="0">
+		<target_7 copy_id="20150" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="48031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="这样我们就顺利进入最后的决赛圈了，主办方刚送来邀请函邀请我们去参加一场晚宴。" sr="那我们就去吧，不过要小心点，我总有一股不好的预感。" m="我们走吧。" mr="知道了。" e="这里的主办者就是这样招呼客人的吗？">
+			<ers>
+				<er id="1" d="看来这个“R”就在这里了。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="通关夜闯深居(一) 。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="深入探秘" lv="19" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="101710" exp="4410" exp_c="0" gold="1900" ext_id="0" ext_v="0" id="101610" country="0">
+		<target_7 copy_id="20150" times="3" />
+		<goods>
+			<good pro="0" sex="0" id="21001" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+			<good pro="0" sex="0" id="20001" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="刚才在院子里闲逛遇到不知火舞和坂崎由莉，聊着聊着看到了巴西队的拉尔夫和克拉克在爬上酒店的上层。" sr="我来到这里之后也感觉有一股令人不战而栗的气息，可能这里藏着什么秘密，我们也过去看看吧。" m="我们也赶紧跟过去看看吧。" mr="好的" e="走吧，，没空管这些小喽啰了，我越来越担心他们了。">
+			<ers>
+				<er id="1" d="按进入决赛圈的人的实力，是不会被这些小喽啰干掉的。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="去夜闯深居(一)跟踪拉尔夫等人。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="神秘之敌" lv="20" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="101810" exp="4770" exp_c="0" gold="2000" ext_id="0" ext_v="0" id="101710" country="0">
+		<target_7 copy_id="20160" times="1" />
+		<goods />
+		<dialog s="看来又有人来欢迎我们了，带头的似乎是个女人。" sr="竟然专门有人来拦截我们，舞她们可能真的出了事了。" m="要赶快找到他们！！！" mr="好的" e="可恶 ，竟然让她跑掉了。">
+			<ers>
+				<er id="1" d="不要管她了，前面就是酒店的顶层了，他们应该就在这里吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往夜闯深居(二)击败前来拦截的保镖。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="幕后黑手" lv="21" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="101820" exp="7200" exp_c="0" gold="8640" ext_id="0" ext_v="0" id="101810" country="0">
+		<target_7 copy_id="20170" times="1" />
+		<goods />
+		<dialog s="我似乎闻到血的味道了，我们赶紧进去吧。" sr="里面似乎有一股很强大的力量。" m="快进去，他们恐怕出事了。" mr="好的" e="这家伙到底是什么人，这次的比赛还有什么内幕吗？我们先把他们四个送回去吧，可能巴西队的哈迪伦会知道些什么。">
+			<ers>
+				<er id="1" d="卢卡尔吗？我绝对不会忘记这个名字的。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往夜闯深居(三)救出不知火舞等人。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="特种将军" lv="22" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="101910" exp="7800" exp_c="0" gold="9360" ext_id="0" ext_v="0" id="101820" country="0">
+		<target_7 copy_id="20171" times="1" />
+		<goods />
+		<dialog s="我们先把他们送回去吧，巴西队的哈迪伦可能知道些什么。" sr="好的，现在就去。" m="他们伤得不轻，赶紧送他们回去吧。" mr="好的，这就去。" e="拉尔夫、克拉克那两个笨蛋,竟然独自去找卢卡尔了,能捡回一条小命已经不错了。">
+			<ers>
+				<er id="1" d="看来你认识卢卡尔,能告诉我们他的情况吗？" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="去通关夜闯深居(四)。" over="与哈迪伦对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10126" />
+		</npc>
+	</task>
+	<task name="极恶之人" lv="23" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="102010" exp="8500" exp_c="0" gold="10200" ext_id="0" ext_v="0" id="101910" country="0">
+		<target_7 copy_id="20172" times="1" />
+		<goods />
+		<dialog s="那家伙。。那家伙杀了我的家人和部下！！想知道他是怎么样的人就去看看VCR吧！我调查了很久，才得知是他主办了这次比赛。" sr="原来那个“R”就是他，看来我也必须得找到他才行了，我这就去告诉京。" m="快去看看卢卡尔到底是什么人吧。" mr="嗯，我这就去。" e="竟然还发生过这样的事，那个人真是罪大恶极。只要这次大赛获得冠军，就可以见到卢卡尔了，继续努力吧。">
+			<ers>
+				<er id="1" d="这次的账，之后会和他一笔算清的，还有我父亲的下落。" />
+			</ers>
+		</dialog>
+		<tip pre="与哈迪伦对话。" desc="去通关夜闯深居(五) 。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10126" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="超能少女" lv="24" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="102110" exp="9100" exp_c="0" gold="10920" ext_id="0" ext_v="0" id="102010" country="0">
+		<target_7 copy_id="20180" times="1" />
+		<goods />
+		<dialog s="只要我们这场比赛击败了中国队，就可以进入决赛了，之前一直都是你在打头阵，这次就先让大门上吧，我们也好减少一些体力消耗。" sr="我们就好好见识一下大门的功夫吧。" m="去看看大门打得怎么样吧。" mr="好的" e="哈哈，看来你要收回之前说的话了吧。">
+			<ers>
+				<er id="1" d="好险啊，“超能力”这种东西竟然真的存在。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往东方之队(一)观看大门的比赛。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="醉拳宗师" lv="25" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="102210" exp="9700" exp_c="0" gold="11640" ext_id="0" ext_v="1000" id="102110" country="0">
+		<target_7 copy_id="20190" times="1" />
+		<goods />
+		<dialog s="连续这么多天的比赛，你已经快到极限了吧，接下来就让我上吧。" sr="不行，为了找到父亲的线索，我一定要拿到冠军，我不能在这里输掉的。" m="比赛要开始了，快去吧。" mr="我这就去。" e="这个老爷爷真不简单，竟然能把火使用得如此熟练，不过在火的掌握上还是我更胜一筹呢。">
+			<ers>
+				<er id="1" d="我竟然输了吗。。。是我锻炼还不够吗？这样我怎么样才能打倒卢卡尔。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往东方之队(二)与镇元斋比赛。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="后起之秀" lv="26" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="102310" exp="10300" exp_c="0" gold="12360" ext_id="0" ext_v="0" id="102210" country="0">
+		<target_7 copy_id="20200" times="1" />
+		<goods />
+		<dialog s="我承认你很有武术的天赋，但是你更加需要学会依靠我们，不要所有的事都一个人揽起，下面就交给我吧。" sr="京，拜托了。" m="接下来就交给我吧。" mr="拜托了" e="意大利队和墨西哥对由于双方选手都无法继续比赛，所以算平局了，这样在决赛等着我们的就是不战而胜的英国队了。">
+			<ers>
+				<er id="1" d="无敌之龙”坂崎良和“传说饿狼”特瑞的比赛似乎很激烈，真希望和他们交手。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往东方之队(三) 观看京的比赛。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="极限传人" lv="27" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="102410" exp="10900" exp_c="0" gold="13080" ext_id="0" ext_v="0" id="102310" country="0">
+		<target_7 copy_id="20210" times="1" />
+		<goods />
+		<dialog s="决赛的场地竟然是在航母上吗？卢卡尔还真有意思啊。" sr="我们就快点赢下这场比赛吧，总不能让舞她们面对卢卡尔这个家伙吧。" m="快去吧，小看她们可是要吃苦头的哦，为了掀开真相，我们要全力以赴。" mr="噢！上吧，最后一场了。" e="由莉还是那么有活力，看来我们的担心是没必要的了。">
+			<ers>
+				<er id="1" d="她比前几次见到又变厉害了呢。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往荣耀之战(一)击败坂崎由莉。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="不知火流" lv="28" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="102510" exp="11500" exp_c="0" gold="13800" ext_id="0" ext_v="0" id="102410" country="0">
+		<target_7 copy_id="20220" times="1" />
+		<goods />
+		<dialog s="草薙京：接下来到舞了，刚才看到她和安迪在一起，很精神的样子。" sr="玩家:如果我下手太重了，安迪可不会放过我呢。" m="你去凤鸣谷打探到有用的消息了吗？" mr="还没有，我这就去！" e="真是顽强的，不过还是修炼不足啊，比他同门的男朋友安迪还差很远呢。">
+			<ers>
+				<er id="1" d="看来事情不太好办了。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往荣耀之战(二)击败不知火舞。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="困兽之斗" lv="29" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="102610" exp="12200" exp_c="0" gold="14640" ext_id="0" ext_v="1000" id="102510" country="0">
+		<target_7 copy_id="20230" times="1" />
+		<goods />
+		<dialog s="最后剩下的就是金了，她的实力比舞和由莉要高出不少，不好对付的。" sr="我会全力以赴的。" m="好快就可以见到卢卡尔了，赶快结束比赛吧。" mr="知道了，我这就去。" e=":大家都赶紧跟上离开这里，得快点找到出口。">
+			<ers>
+				<er id="1" d="好的！！" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往荣耀之战(三)击败金。" over="与二阶堂红丸对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="京的父亲" lv="30" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="102710" exp="12800" exp_c="0" gold="15360" ext_id="0" ext_v="0" id="102610" country="0">
+		<target_7 copy_id="20240" times="1" />
+		<goods />
+		<dialog s="到处都找不到出口呢，而且在大海中间，出去了也无法逃走的，看来我们必须找到卢卡尔。" sr="正合我意，我还有很多事要问他。" m="赶紧去找卢卡尔吧。" mr="知道了，我这就去。" e="我们赶紧走吧，看来要赶紧找个办法让京和他父亲先离开这里了。">
+			<ers>
+				<er id="1" d="可恶的卢卡尔。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往幕后真相(一)寻找卢卡尔。" over="与麻宫雅典娜对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="再会强敌" lv="31" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="102810" exp="13400" exp_c="0" gold="16080" ext_id="0" ext_v="0" id="102710" country="0">
+		<target_7 copy_id="20250" times="1" />
+		<goods />
+		<dialog s="前面有个房间，我们去看一下吧。" sr="这些是什么？蜡像吗？但是逼真得有点吓人。" m="快去看看那些蜡像吧。" mr="这就过去！" e="这个女人到底是什么人，实力非同寻常啊。">
+			<ers>
+				<er id="1" d="哼，就剩下卢卡尔一个人了。" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜对话。" desc="前往幕后真相(二)调查蜡像。" over="与麻宫雅典娜对话。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="恶有恶报" lv="32" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="102910" exp="14000" exp_c="0" gold="16800" ext_id="0" ext_v="0" id="102810" country="0">
+		<target_7 copy_id="20260" times="1" />
+		<goods />
+		<dialog s="卢卡尔这家伙，竟然杀了这么多格斗家，实在是不可饶恕。" sr="我的父亲似乎不在这些蜡像里面，我一定会让卢卡尔吐出我父亲的下落的。" m="卢卡尔十分强大，需多加小心。" mr="放心吧，我不会有事的。" e="不好了，卢卡尔启动了自爆装置，我们赶紧离开这里。">
+			<ers>
+				<er id="1" d="可恶，我还有很多事没有问他呢！！！" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜对话。" desc="前往幕后真相(三)击败卢卡尔。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="告一段落" lv="33" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="103010" exp="14700" exp_c="0" gold="17640" ext_id="0" ext_v="0" id="102910" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="如果不是京赶来，又有队长带我们离开这里，恐怕我们已经。。。京的父亲竟然。。。他一定很难过的，你去看一下他吧。" sr="说什么呢，这个我们所有人努力的胜利吧，只有京一个人也赢不了的。只可惜没有从卢卡尔口中得知父亲的下落。京那边我去看看吧。" m="快去看看京吧。" mr="我这就过去。" e="真奇妙啊，我竟然一点也没有老爸已经不在了的感觉。">
+			<ers>
+				<er id="1" d="是吗？希望如此，我也还有很长的路要走呢。" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜对话。" desc="去南镇找到草薙京。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="一年之后" lv="34" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="103110" exp="15300" exp_c="0" gold="18360" ext_id="0" ext_v="0" id="103010" country="0">
+		<target_7 copy_id="20270" times="1" />
+		<goods />
+		<dialog s="那件事过后已经快一年了吧，经常一年的修炼，你变强了不少吧。可惜还没有你父亲的消息。" sr="快去打败这些人吧。" m="现在就去。" mr="了解，这就过去！" e="这些人都穿着军装，难道是？">
+			<ers>
+				<er id="1" d="可能是那个人的手下吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往通缉密令(一)击败来偷袭的人。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="再会故友" lv="35" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="103210" exp="15900" exp_c="0" gold="19080" ext_id="0" ext_v="0" id="103110" country="0">
+		<target_7 copy_id="20280" times="1" />
+		<goods />
+		<dialog s="如果是那个人，没有理由袭击我们吧。" sr="把这帮人打倒了，就知道原因了。" m="快去打败这些人吧。" mr="了解，这就去！" e="让我们去看看躲在那里的人吧。">
+			<ers>
+				<er id="1" d="好的。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往通缉密令(二)击败来偷袭的人。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="特种刀锋" lv="36" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="103310" exp="16500" exp_c="0" gold="19800" ext_id="0" ext_v="0" id="103210" country="0">
+		<target_7 copy_id="20290" times="1" />
+		<goods />
+		<dialog s="果然是哈迪伦啊。。还有拉尔夫和克拉克也在啊。" sr="看来不打一架他们是不打算放过我们啊。" m="击败他们看看发生了什么事吧。" mr="了解，这就过去！" e="是我输了，看来的确不是你们做的，暗杀者是不会收回打出的拳头的。">
+			<ers>
+				<er id="1" d="那该给我们说说发生了什么事了吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往通缉密令(三)击败哈迪伦。" over="与哈迪伦对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10171" />
+		</npc>
+	</task>
+	<task name="通缉密令" lv="37" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="103410" exp="17200" exp_c="0" gold="20640" ext_id="0" ext_v="0" id="103310" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="我们接到上面的命令，近期有多个决定地区战局的政要被使用火焰的人暗杀，而嫌疑人名单里面就有草薙京，这是嫌疑人名单。" sr="我去和京商量一下。" m="快去和草薙京商量一下吧。" mr="了解，这就过去！" e="嫌疑人里面只剩下一个人了啊，八神庵。。。是他吗？我们去找他看看吧。">
+			<ers>
+				<er id="1" d="京似乎认识这个人。" />
+			</ers>
+		</dialog>
+		<tip pre="与哈迪伦对话。" desc="去南镇找到草薙京。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10171" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="王国特工" lv="38" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="103510" exp="17800" exp_c="0" gold="21360" ext_id="0" ext_v="0" id="103410" country="0">
+		<target_7 copy_id="20300" times="1" />
+		<goods />
+		<dialog s="今天是什么日子呢？来找麻烦的人真多。" sr="他们好像误会了什么了吧，不过现在有理也说不清了。" m="去打败他们吧。" mr="了解，这就过去！" e="他们好像是阿哈达王国的特工，他们的国王前些时候被使用火焰的人杀死了。">
+			<ers>
+				<er id="1" d="谢谢！我一定加倍努力学习。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往幽冥之焰(一)击败来偷袭的人。" over="与哈迪伦对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10171" />
+		</npc>
+	</task>
+	<task name="冥焰青年" lv="39" accept="0" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="103610" exp="18400" exp_c="0" gold="22080" ext_id="0" ext_v="0" id="103510" country="0">
+		<target_7 copy_id="20310" times="1" />
+		<goods />
+		<dialog s="前面那个被围着的青年应该就是八神庵吧,不把那些特工赶跑了,没办法问他话。" sr="动手吧。" m="去击退这帮人吧。" mr="了解，这就过去！" e="收拾了这帮人我们可以好好问一下那个年轻人了。">
+			<ers>
+				<er id="1" d="谢谢！我一定加倍努力学习。" />
+			</ers>
+		</dialog>
+		<tip pre="与哈迪伦对话。" desc="前往幽冥之焰(二)击退王国特工。" over="与哈迪伦对话。" />
+		<npc>
+			<s scene="10200" npc="10171" />
+			<e scene="10200" npc="10171" />
+		</npc>
+	</task>
+	<task name="京的宿敌" lv="40" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="103710" exp="19100" exp_c="0" gold="22920" ext_id="0" ext_v="0" id="103610" country="0">
+		<target_7 copy_id="20320" times="1" />
+		<goods />
+		<dialog s="今天来找茬的人真多啊。暗杀吗？呵呵，我们先比划比划再回答你的问题吧。" sr="看来不打一架你是不肯开口的了。" m="别废话了，动手吧。" mr="我上了！" e="犯人使用的是红色的火焰，这个年轻人使用的是紫色的火焰，所以犯人不是他，这样名单里的人都消除嫌疑了，但是线索也全断了。">
+			<ers>
+				<er id="1" d="红色火焰吗？难道那个人真的还活着。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵对话。" desc="前往幽冥之焰(三)击败八神庵。" over="与哈迪伦对话。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10171" />
+		</npc>
+	</task>
+	<task name="密函再现" lv="41" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="103810" exp="19700" exp_c="0" gold="23640" ext_id="0" ext_v="0" id="103710" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="我们收到了一封用红色“R”封口的邀请函，和一年前一模一样，同时卢卡尔也是一个军火商，但是卢卡尔应该在那次事件中死了。" sr="其实我们也收到了邀请函，看来这个事情要在比赛中获胜才能知道真相了。" m="快去和草薙京商量一下吧。" mr="了解，这就过去！" e="既然是这样，我们就去参加比赛吧，我也想测试一下这一年来的修炼成果。">
+			<ers>
+				<er id="1" d="（八神庵的功夫不在我们之下，如果能邀请他一起组队肯定会轻松不少）那京你先去准备一下，我有事先离开一下。" />
+			</ers>
+		</dialog>
+		<tip pre="与哈迪伦对话。" desc="去南镇找到草薙京。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10171" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="不速之客" lv="42" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="103910" exp="20300" exp_c="0" gold="24360" ext_id="0" ext_v="0" id="103810" country="0">
+		<target_7 copy_id="20330" times="1" />
+		<goods />
+		<dialog s="我不知道你一直跟着我干什么，但是现在没空管你，又来了一些不速之客。" sr="看来你还挺受欢迎的。" m="如果你想说些什么，就赶紧先把这些人打倒。" mr="知道了。" e="这帮笨蛋到底到底知不知道自己在做什么，这种三脚猫功夫也想杀我。">
+			<ers>
+				<er id="1" d="现在可以说正事了，我是来邀请和我们组队参加格斗之王大赛的。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵对话。" desc="前往神秘之人(一)击败来偷袭的人。" over="与八神庵对话。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="棍王比利" lv="43" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="104010" exp="20900" exp_c="0" gold="25080" ext_id="0" ext_v="0" id="103910" country="0">
+		<target_7 copy_id="20340" times="1" />
+		<goods />
+		<dialog s="无聊！我对什么比赛可没兴趣，我只为自己出手，其他人的事与我无关。" sr="看来刚才那些人的头领来了，稍等一下再说吧。" m="哈哈，去看看是哪个不知死活的家伙吧。" mr="嗯，好的。" e="你刚才说已经有队友了，你的队友是？">
+			<ers>
+				<er id="1" d="草薙京。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵对话。" desc="前往神秘之人(二)击败比利。" over="与八神庵对话。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="疾风黑影" lv="44" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="104110" exp="21600" exp_c="0" gold="25920" ext_id="0" ext_v="0" id="104010" country="0">
+		<target_7 copy_id="20350" times="1" />
+		<goods />
+		<dialog s="原来是京啊，他也要参赛吗？那就等我先看看这个忍者的实力吧。" sr="他们的实力是不可能比我和京强的。" m="先试试这个忍者的实力我再考虑要不要和你们组队。" mr="好的。" e="唯独是京这家伙，我是绝对不会和他组队，草薙京这家伙只能由我来打倒。">
+			<ers>
+				<er id="1" d="这家伙和京过去到底有什么恩怨。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵对话。" desc="后前往神秘之人(三)击败如月影二。" over="与八神庵对话。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="赛前备战" lv="45" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="104210" exp="22200" exp_c="0" gold="26640" ext_id="0" ext_v="0" id="104110" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="你去找他了吗？那家伙是绝对不会和我一起组队的，我们之间的事，你以后会明白的。快到比赛的日子了，先去准备吧。" sr="好的。" m="不做好准备到时候可能会输得一塌糊涂的。" mr="现在就去。" e="都准备好了吗？这届的比赛参赛的选手与上届的差异不大，虽然你们上届获得优胜，但是也不能掉以轻心。">
+			<ers>
+				<er id="1" d="过了一年大家都会有所进步吧，但是我们必须拿下胜利解开这次的谜团。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往南镇与哈迪伦对话。" over="与哈迪伦对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10171" />
+		</npc>
+	</task>
+	<task name="约定之战" lv="46" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="104310" exp="22900" exp_c="0" gold="27480" ext_id="0" ext_v="0" id="104210" country="0">
+		<target_7 copy_id="20360" times="1" />
+		<goods />
+		<dialog s="对手是金家潘他们啊，真的很怀念啊，上届比赛就是和他们交手开始的。" sr="这次终于可以和金家潘真正的对决了。" m="快去吧，金家潘在等着你呢。" mr="好的，我现在就去。" e="你真的变强了很多，如果有机会，真想在比赛中和你打一场。">
+			<ers>
+				<er id="1" d="希望这一幕永远也不会出现吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往荣耀再临(一)击败金家潘。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="两条道路" lv="47" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="104410" exp="23500" exp_c="0" gold="28200" ext_id="0" ext_v="0" id="104310" country="0">
+		<target_7 copy_id="20370" times="1" />
+		<goods />
+		<dialog s="到哈迪伦他们了吗？看来只能由我们之间的胜者去揭开幕后的真相了。" sr="我不会把这活让给他们的。" m="去击败他们走我们选择的道路吧。" mr="现在就去。" e="终于到最后决赛了，对手不出我所料，果然是他。">
+			<ers>
+				<er id="1" d="八神庵。。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往荣耀再临(二)击败哈迪伦。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="决赛遇险" lv="48" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="104510" exp="24100" exp_c="0" gold="28920" ext_id="0" ext_v="0" id="104410" country="0">
+		<target_7 copy_id="20380" times="1" />
+		<goods />
+		<dialog s="面对八神那家伙，你还是小心点好，他的力量绝对不止是表面看上去的那样，一个不小心，你可能会性命也丢掉的。" sr="八神庵到底是什么人，和京有什么关系呢？" m="快去吧，最后一战了。" mr="我会战胜他的。" e="这里是什么地方，我们怎么会在这里？">
+			<ers>
+				<er id="1" d="这里好像是一个地牢，看来我们都被算计了。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往荣耀再临(三)击败八神庵。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="地下牢狱" lv="49" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="104610" exp="24800" exp_c="0" gold="29760" ext_id="0" ext_v="0" id="104510" country="0">
+		<target_7 copy_id="20390" times="1" />
+		<goods />
+		<dialog s="这里虽然是地牢，然后守卫好像并不严密，我们应该可以找到逃出去的路。" sr="这种做法感觉有卢卡尔的作风。" m="别磨蹭了，快去找出去的道路吧！" mr="我这就去！" e="既然我们都被关在这里了，可能其他的选手也被捉了，我们去找一下吧。">
+			<ers>
+				<er id="1" d="好的。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往烈焰大师(一)找寻出路。" over="与拉尔夫对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10146" />
+		</npc>
+	</task>
+	<task name="解救众人" lv="50" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="104710" exp="25400" exp_c="0" gold="30480" ext_id="0" ext_v="0" id="104610" country="0">
+		<target_7 copy_id="20400" times="1" />
+		<goods />
+		<dialog s="前面有一个牢房，外面有些守卫把守，可能是关押了人，我们过去看看吧。" sr="不知道是谁被关押了呢？" m="快去看看谁被关起来了。" mr="知道了，我这就过去。" e="刚在我看到了牢房前方的通道有些许火光，可能有人在那边，我们过去看看吧。">
+			<ers>
+				<er id="1" d="火光？" />
+			</ers>
+		</dialog>
+		<tip pre="与拉尔夫对话。" desc="前往烈焰大师(二)查看是谁被关押在牢房。" over="与特瑞对话。" />
+		<npc>
+			<s scene="10200" npc="10146" />
+			<e scene="10200" npc="10156" />
+		</npc>
+	</task>
+	<task name="意外真相" lv="51" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="104810" exp="26000" exp_c="0" gold="31200" ext_id="0" ext_v="0" id="104710" country="0">
+		<target_7 copy_id="20410" times="1" />
+		<goods />
+		<dialog s="火光就是在这边发出的，我们去看看吧，要小心点，这次的敌人不是等闲之辈。" sr="我会小心的。" m="怎么还没去，难道连你也怕了吗？" mr="怎么可能，我马上就去。" e="看来这次的幕后主使者果然是卢卡尔。">
+			<ers>
+				<er id="1" d="但是他到底是怎么样控制京的父亲的呢？" />
+			</ers>
+		</dialog>
+		<tip pre="与特瑞对话。" desc="前往烈焰大师(三)查看发出火光的源头。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10156" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="寻找真凶" lv="52" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="104910" exp="26700" exp_c="0" gold="32040" ext_id="0" ext_v="0" id="104810" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="这样我们就把被捉的格斗家们都救出来了，这次真是多得你们了，那个对我们做这样事的人，可不能轻易放过他。" sr="我们去找那个人吧。" m="赶紧去叫上草薙京出发吧。" mr="好的，现在就去。" e="那个家伙，竟然把我父亲变成一个杀人机器，我是绝对不会放过他的。">
+			<ers>
+				<er id="1" d="如果卢卡尔还活着，那可能就有我父亲的线索了，我们走吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与特瑞对话。" desc="前往南镇 与草薙京对话。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10156" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="继续前进" lv="53" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="105010" exp="27300" exp_c="0" gold="32760" ext_id="0" ext_v="0" id="104910" country="0">
+		<target_7 copy_id="20420" times="1" />
+		<goods />
+		<dialog s="这帮开始守卫开始变多了，可能把我们捉来的那个人就在这里。" sr="把他们打倒吧。" m="快击败这些守卫继续前进吧。" mr="好的，我这就去。" e="这到底是什么呢？">
+			<ers>
+				<er id="1" d="雅典娜，发生什么事？" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往大蛇之力(一)打败守卫。" over="与麻宫雅典娜对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="血之气息" lv="54" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="105110" exp="28000" exp_c="0" gold="33600" ext_id="0" ext_v="0" id="105010" country="0">
+		<target_7 copy_id="20430" times="1" />
+		<goods />
+		<dialog s="我感觉到了前面有一股很不详、很邪恶的力量，从来没有感到过这么令人恐惧的力量的。" sr="到底是什么力量令雅典娜怕成这样，过去看看就知道了。" m="快去寻找这股力量的源头吧。" mr="我马上就去。" e="就在前面的房间里，这股力量的感觉有些熟悉。">
+			<ers>
+				<er id="1" d="熟悉吗？那应该是那个人了。" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜对话。" desc="前往大蛇之力(二)寻找力量的源头。" over="与麻宫雅典娜对话。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="黑暗狂徒" lv="55" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="105210" exp="28600" exp_c="0" gold="34320" ext_id="0" ext_v="0" id="105110" country="0">
+		<target_7 copy_id="20440" times="1" />
+		<goods />
+		<dialog s="看来我们猜对了，卢卡尔！！！！！你为什么还活着？？" sr="看来不打败他是没办法让他吐出一切的，上吧。" m="早上吧，打败卢卡尔终结这一切。" mr="明白，我会让他偿还他的罪孽的。" e="卢卡尔终于死了吗？这件事总算是告一段落了。">
+			<ers>
+				<er id="1" d="可恶，竟然没问出父亲的下落，卢卡尔所说的噩梦又是什么。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往大蛇之力(三)击败卢卡尔。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="再询下落" lv="56" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="105310" exp="29200" exp_c="0" gold="35040" ext_id="0" ext_v="0" id="105210" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="我父亲醒过来了，他可能有你父亲下落的线索，你去问一下吧。" sr="希望如此。" m="快去找我父亲打听一下吧。" mr="多谢提醒，我这就去。" e="你就是一直和京一起战斗的那个年轻人啊，你是他的孩子吗？果然很像啊。">
+			<ers>
+				<er id="1" d="您知道我父亲的下落吗？" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往南镇与草薙柴舟对话。" over="与草薙柴舟对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10176" />
+		</npc>
+	</task>
+	<task name="守护家族" lv="57" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="105410" exp="29900" exp_c="0" gold="35880" ext_id="0" ext_v="0" id="105310" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="几年前，我从你父亲的口中得知卢卡尔的所作所为，一起调查他，但是在一次潜入的时候，被分隔开了，之后就再没见过你父亲了。" sr="难道父亲真的已经。。。" m="别打岔，继续听我说下去。" mr="知道了。" e="可能你父亲没有告诉你，你们家族其实是和我们一样，守护着三神器。虽然你们没有特异的体质和神器，但是格斗术却是最强的。">
+			<ers>
+				<er id="1" d="我从来没有听说过这样一回事啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙柴舟对话。" desc="前往南镇 与草薙柴舟对话。" over="与草薙柴舟对话。" />
+		<npc>
+			<s scene="10200" npc="10176" />
+			<e scene="10200" npc="10176" />
+		</npc>
+	</task>
+	<task name="新的任务" lv="58" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="105510" exp="30500" exp_c="0" gold="36600" ext_id="0" ext_v="0" id="105410" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="我希望身为守护者的你和京一起寻找卢卡尔获得大蛇之力的来源，这样可能会揭开整件事的真相和找到你父亲下落的线索。" sr="既然走到这一步，我会继续走下去的。" m="你也去把这件事告诉京吧。" mr="好的。" e="原来你也是守护者家族的，怪不得我开始就觉得你天赋异品。">
+			<ers>
+				<er id="1" d="听了这个事情我也吃了一惊。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙柴舟对话。" desc="前往南镇 与草薙京对话。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10176" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="密林修炼" lv="59" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="105610" exp="31200" exp_c="0" gold="37440" ext_id="0" ext_v="0" id="105510" country="0">
+		<target_7 copy_id="20450" times="1" />
+		<goods />
+		<dialog s="躲在卢卡尔背后的人，肯定比卢卡尔还是厉害，为了对付他们，我们要继续进行修炼。" sr="那我们就去修炼吧。" m="郊区的密林是个修炼的好地方，我们赶紧去吧。" mr="明白，这就过去！" e="只要持续修炼下去，我们总会变得比卢卡尔更强的。">
+			<ers>
+				<er id="1" d="一定会的。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往密林袭击(一)进行修炼。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="下载后续内容" lv="60" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="6" next="105710" exp="31800" exp_c="0" gold="38160" ext_id="0" ext_v="0" id="105610" country="0">
+		<target_6 id="21" v1="0" v2="0" v3="0" v4="0" v5="0" />
+		<goods>
+			<good pro="0" sex="0" id="43171" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+			<good pro="0" sex="0" id="43083" count="3" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+			<good pro="0" sex="0" id="21101" count="2" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+			<good pro="0" sex="0" id="43221" count="2" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="恭喜你您达到了60级，赶紧去下载60级之后的游戏内容，体验更精彩的游戏吧。" sr="知道了。" m="60级之后会有更多精彩内容等着您，快去下载吧。" mr="知道了。" e="您已经成功下载60级后游戏内容。">
+			<ers>
+				<er id="1" d="知道了。" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜对话。" desc="下载60级后游戏内容。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="密林偷袭" lv="61" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="105810" exp="32500" exp_c="0" gold="39000" ext_id="0" ext_v="0" id="105710" country="0">
+		<target_7 copy_id="20460" times="1" />
+		<goods />
+		<dialog s="树林里好像有些动静，我们去看一下。" sr="是什么东西呢？" m="是什么东西呢？ 赶紧去看看树林里有什么吧。" mr="知道了。" e="这些是什么人，竟然埋伏在这里。">
+			<ers>
+				<er id="1" d="来者不善啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="前往密林袭击(二)查看。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="熟悉气息" lv="62" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="105910" exp="33100" exp_c="0" gold="39720" ext_id="0" ext_v="0" id="105810" country="0">
+		<target_7 copy_id="20470" times="1" />
+		<goods />
+		<dialog s="我感觉到了有一股危险的气息在接近，和卢卡尔身上散发出来的力量很像，小心一点。" sr="不会卢卡尔还活着吧。" m="赶紧去看看吧，但切记要小心。" mr="了解，这就过去！" e="你们怎么了？京他怎么浑身是血？">
+			<ers>
+				<er id="1" d="雅典娜你怎么在这里，我们被人袭击了，那个人好强大。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京交谈。" desc="通关密林袭击(三)1次。" over="与麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="梦中预言" lv="63" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="106010" exp="33800" exp_c="0" gold="40560" ext_id="0" ext_v="0" id="105910" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="我做了一个梦，梦到你们两个被打倒了，世界陷入了黑暗，就来找你们，途中遇到了找你们去参加格斗之王大赛的红丸，他告诉我你们在这里。" sr="我也听说了这次有大企业赞助举办了比赛。" m="快去问问京是否要参加比赛吧。" mr="了解，这就过去！" e="格斗之王大赛？输得这么惨，我还能厚颜无耻的去参加比赛吗？我就是一直和红丸、大门这两个家伙拖后腿，才会没有长进的。">
+			<ers>
+				<er id="1" d="京，你在说什么？" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜交谈。" desc="找到草薙京与他交谈。" over="与草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="兄弟崩离" lv="64" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="106110" exp="34400" exp_c="0" gold="41280" ext_id="0" ext_v="0" id="106010" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="京说得也太过分了，红丸和大门听到这番话很生气呢。" sr="红丸、大门。。。如果要参加比赛，就要找其他人了。" m="去找一下是否还有愿意参加比赛的人吧。" mr="了解，这就过去！" e="是你啊，来找我有什么事吗?">
+			<ers>
+				<er id="1" d="我是来邀请你组队一起参加比赛的。" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜交谈。" desc="去找八神庵参加比赛。" over="与八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="不明访客" lv="65" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="106210" exp="35500" exp_c="0" gold="42000" ext_id="0" ext_v="0" id="106110" country="0">
+		<target_7 copy_id="20480" times="1" />
+		<goods />
+		<dialog s="还发生了这样的事情，京那家伙竟然被我之外的人打倒了，看来他还真堕落了啊。在说组队的事情之前，我们先把躲在那的人揪出来。" sr="是谁躲在那里？" m="快去看看是谁躲在那。" mr="了解，这就过去！" e="最近不知死活的人好像多了不少，是不是我下手不够重呢？">
+			<ers>
+				<er id="1" d="有一种不好的预感。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵交谈。" desc="前往意外来客(一)寻找躲起来的人。" over="与八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="再度来袭" lv="66" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="106310" exp="35700" exp_c="0" gold="42840" ext_id="0" ext_v="0" id="106210" country="0">
+		<target_7 copy_id="20490" times="1" />
+		<goods />
+		<dialog s="这帮人真爱纠缠，又来了一批人。" sr="把他们都打倒吧。" m="快去教训一下这帮不知死活的家伙吧。" mr="了解，这就过去！" e="哼，现在可以说说我们的事了。">
+			<ers>
+				<er id="1" d="你决定怎么样？" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵交谈。" desc="前往意外来客(二)击败来袭击的人。" over="与八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="意外邀请" lv="67" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="106410" exp="36300" exp_c="0" gold="43560" ext_id="0" ext_v="0" id="106310" country="0">
+		<target_7 copy_id="20500" times="1" />
+		<goods />
+		<dialog s="我是不可能和京一起战斗的，我和京的宿命只有对战，我一定会亲手击败他的。今天客人真多，看来有稀客来了。" sr="这个人是卢卡尔的。。。。" m="快去看看那女人倒地想做什么。" mr="了解，这就过去！" e="你都知道了，就回去告诉京，让他找队友参赛，洗好脖子等着受死吧。">
+			<ers>
+				<er id="1" d="红丸他。。。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵交谈。" desc="前往意外来客(三)击败薇思。" over="与八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="京的决定" lv="68" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="106510" exp="37000" exp_c="0" gold="44400" ext_id="0" ext_v="0" id="106410" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="红丸和八神组队了啊，刚才卢卡尔的秘书麦卓也来找我，要和我们一起组队参加比赛，我决定答应她，你也把这个决定告诉雅典娜吧。" sr="卢卡尔的秘书一起出现，这到底是为了什么呢？" m="快去告诉雅典娜吧。" mr="了解，这就过去！" e="京真的要和那女人组队，我很担心她是另有所图。">
+			<ers>
+				<er id="1" d="我也有这样的感觉。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京交谈。" desc="告诉麻宫雅典娜京的决定。" over="与麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="热身比赛" lv="69" accept="0" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="106610" exp="37600" exp_c="0" gold="45120" ext_id="0" ext_v="0" id="106510" country="0">
+		<target_7 copy_id="20510" times="1" />
+		<goods />
+		<dialog s="有一家商家想邀请我们去参加一场格斗表演赛，我想趁着这个机会看一下麦卓是否对我们有所保留。" sr="这是一个好机会。" m="赶紧结束这场比赛吧。" mr="了解！" e="赶紧赢下比赛吧，更重要的事在后面。">
+			<ers>
+				<er id="1" d="好的。" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜交谈。" desc="前往忠诚试练(一)击败比赛的对手。" over="与麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="试练前奏" lv="70" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="106710" exp="38300" exp_c="0" gold="45960" ext_id="0" ext_v="0" id="106610" country="0">
+		<target_7 copy_id="20520" times="1" />
+		<goods />
+		<dialog s="虽然是表演赛，但是还是要小心哦，输掉比赛会很丢脸的。" sr="他们和我差远了。" m="赶紧结束比赛吧。" mr="了解，这就过去！" e="表演结束了，该到我们的计划了。">
+			<ers>
+				<er id="1" d="接下来要做什么？" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜交谈。" desc="前往忠诚试练(二)击败比赛的对手。" over="与麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="忠诚试练" lv="71" accept="2" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="106810" exp="38900" exp_c="0" gold="46680" ext_id="0" ext_v="0" id="106710" country="0">
+		<target_7 copy_id="20530" times="1" />
+		<goods />
+		<dialog s="我在表演赛之后安排了一场和麦卓的比赛，我们就看看她在比赛中的态度吧。" sr="我会出全力和她打的。" m="赶紧去吧，麦卓在等着呢。" mr="了解，这就过去！" e="果然还是白费力气了，她即使有什么企图，还是不会随便露出尾巴的。大门来对京说了一些事，我们去问问吧。">
+			<ers>
+				<er id="1" d="现在过去吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜交谈。" desc="去忠诚试练(三)击败麦卓。" over="与麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="黑道头目" lv="72" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="106910" exp="39600" exp_c="0" gold="47520" ext_id="0" ext_v="0" id="106810" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="大门被主办方邀请去当解说员，他在参赛名单中看到了吉斯和克劳萨这几个黑道头目，麦卓对他们比较了解，你去问一下吧。" sr="好的！" m="赶紧去找麦卓问一下吧。" mr="了解，这就过去！" e="这队人的核心是吉斯，他的实力不可忽视，但是有可能是其他人冒名参赛的，看来我们有必要去确认一下他们的身份。">
+			<ers>
+				<er id="1" d="应该怎么样确认?" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京交谈。" desc="向麦卓咨询吉斯。" over="与麦卓交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10161" />
+		</npc>
+	</task>
+	<task name="鉴别真伪" lv="73" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="107010" exp="40200" exp_c="0" gold="48240" ext_id="0" ext_v="0" id="106910" country="0">
+		<target_7 copy_id="20540" times="1" />
+		<goods />
+		<dialog s="吉斯入住了附近的一座别墅，只要确定了他是否是本人，就可以确定另外两人的真伪了。" sr="那我们去吉斯的别墅吧。" m="方向错了吗？点击任务追踪点就能找到黑道霸主(一)。" mr="了解，这就过去！" e="我介绍一下，这位是我们的新队员莉安娜。">
+			<ers>
+				<er id="1" d="你们为什么在这里？" />
+			</ers>
+		</dialog>
+		<tip pre="与麦卓交谈。" desc="通关黑道霸主(一)1次。" over="与拉尔夫交谈。" />
+		<npc>
+			<s scene="10200" npc="10161" />
+			<e scene="10200" npc="10146" />
+		</npc>
+	</task>
+	<task name="化友为敌" lv="74" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="107110" exp="40900" exp_c="0" gold="49080" ext_id="0" ext_v="0" id="107010" country="0">
+		<target_7 copy_id="20550" times="1" />
+		<goods />
+		<dialog s="我们是来查看吉斯身份的真伪，监视这些黑帮人物的动向也是我们的任务。" sr="看来我们的目的是一致的，那就一起行动吧。" m="让我们去看看这些家伙的真面目吧。" mr="了解，这就过去！" e="比利在这里，看来这个吉斯是真的。">
+			<ers>
+				<er id="1" d="让我们去见见他吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与拉尔夫交谈。" desc="通关黑道霸主(二)1次。" over="与拉尔夫交谈。" />
+		<npc>
+			<s scene="10200" npc="10146" />
+			<e scene="10200" npc="10146" />
+		</npc>
+	</task>
+	<task name="黑道霸主" lv="75" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="107210" exp="41500" exp_c="0" gold="49800" ext_id="0" ext_v="0" id="107110" country="0">
+		<target_7 copy_id="20560" times="1" />
+		<goods />
+		<dialog s="吉斯住的地方就在前面，我们过去吧，不过千万别掉以轻心，他的实力不比卢卡尔差。" sr="我们已经变强了很多了。" m="方向错了吗？在任务追踪点就能找到黑道霸主(三)。" mr="了解，这就过去！" e="如果不是麦卓帮我挡下了攻击，后果就不堪设想了。但是我在她的血里，感觉到了和打伤京的那个男人一样的气息。">
+			<ers>
+				<er id="1" d="谢谢！我一定加倍努力学习。" />
+			</ers>
+		</dialog>
+		<tip pre="与拉尔夫交谈。" desc="通关黑道霸主(三)1次。" over="与麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10146" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="新的比赛" lv="76" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="107310" exp="42200" exp_c="0" gold="50640" ext_id="0" ext_v="0" id="107210" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="我们第一个对手是新女性格斗家队，比赛之前我们先看看八神队的比赛吧。" sr="我也想看看红丸的表现。" m="去问问京对这场比赛有什么看法吧。" mr="了解，这就过去！" e="红丸竟然想一个人打赢三个人，他输给特瑞是注定的了，但也能看出他没把八神当伙伴。">
+			<ers>
+				<er id="1" d="其实红丸还是把京你当朋友的吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜交谈。" desc="询问草薙京对比赛的看法。" over="与草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="赛前遇袭" lv="77" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="107410" exp="42800" exp_c="0" gold="51360" ext_id="0" ext_v="0" id="107310" country="0">
+		<target_7 copy_id="20570" times="1" />
+		<goods />
+		<dialog s="想不到八神竟然击败了特瑞，准备到我们的比赛了，我们回去准备一下吧。" sr="真期待和红丸他们交手。" m="方向错了吗？在任务追踪就能找到心灵缺口(一)。" mr="了解，这就过去！" e="这些是什么人，竟然埋伏在休息室通道。">
+			<ers>
+				<er id="1" d="新女子格斗家队的休息室就在前面，我们去问一下她们是否知道些什么吧。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京交谈。" desc="通关心灵缺口(一) 1次。" over="与草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="熟悉气息" lv="78" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="107510" exp="43500" exp_c="0" gold="52200" ext_id="0" ext_v="0" id="107410" country="0">
+		<target_7 copy_id="20580" times="1" />
+		<goods />
+		<dialog s="舞刚才看到安迪他们输掉了比赛之后心情很不好，出去之后很久没有回来了，我担心她出了什么意外，麻烦你们一起找一下。" sr="难道被刚才那帮人袭击了。" m="方向错了吗？在任务追踪就能找到心灵缺口(二)。" mr="了解，这就过去！" e="我感觉到了袭击你和京的那个人的气息，就在前面，快去看看吧。">
+			<ers>
+				<er id="1" d="是那家伙派来的人啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与金交谈。" desc="通关心灵缺口(二)1次" over="与麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10166" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="心灵缺口" lv="79" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="107610" exp="44100" exp_c="0" gold="52920" ext_id="0" ext_v="0" id="107510" country="0">
+		<target_7 copy_id="20590" times="1" />
+		<goods />
+		<dialog s="是舞，她怎么在这里。她眼神好像有点怪怪的。" sr="小心，她打过来了。" m="方向错了吗？在任务追踪就能找到心灵缺口(三)。" mr="了解，这就过去！" e="刚刚女子格斗家队的金和香澄准备去比赛的时候，在休息通道被人袭击受伤了，现在正在医院里面，你们快去看看吧。">
+			<ers>
+				<er id="1" d="可恶，也是那家伙做的吗？" />
+			</ers>
+		</dialog>
+		<tip pre="与麻宫雅典娜交谈。" desc="击败不知火舞。" over="与特瑞交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10156" />
+		</npc>
+	</task>
+	<task name="幕后主办" lv="80" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="1" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="0" exp="44800" exp_c="0" gold="53760" ext_id="0" ext_v="0" id="107610" country="0">
+		<target_1 />
+		<goods />
+		<dialog s="我是这次比赛的主办人神乐千鹤，根据救她们两个回来的椎拳崇所说，金选手在昏迷之前说出了她们是被麦卓袭击的。" sr="什么，怪不得刚才一直没见到她。" m="" mr="" e="你们被袭击的事我也知道了，袭击你们的人是“大蛇四天王”之一的“息吹暴风”，一个会给世界带来恐惧的人，我们真正的敌人。">
+			<ers>
+				<er id="1" d="这个就是柴舟先生叫我们调查大蛇之力的原因啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与神乐千鹤交谈。" desc="向神乐千鹤询问袭击人的信息。" over="与神乐千鹤交谈。" />
+		<npc>
+			<s scene="10200" npc="10151" />
+			<e scene="10200" npc="10151" />
+		</npc>
+	</task>
+	<task name="佣兵试练(一)" lv="34" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="300110" exp="19360" exp_c="0" gold="25168" ext_id="0" ext_v="0" id="300010" country="0">
+		<target_7 copy_id="20270" times="3" />
+		<goods />
+		<dialog s="去击败这些烦人的雇佣兵，让他们看看我们的厉害吧。" sr="好的。" m="快出发去通关通缉密令(一)3次吧。
+" mr="好的，我这就去！！" e="现在他们知道我们的厉害了吧。">
+			<ers>
+				<er id="1" d="肯定是的。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="通关通缉密令(一)3次。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="佣兵试练(二)" lv="35" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="300210" exp="20080" exp_c="0" gold="26104" ext_id="0" ext_v="0" id="300110" country="0">
+		<target_7 copy_id="20280" times="3" />
+		<goods />
+		<dialog s="去击败这些烦人的雇佣兵，让他们看看我们的厉害吧。" sr="好的。" m="快出发去通关通缉密令(二)3次吧。
+" mr="好的，我这就去！！" e="现在他们知道我们的厉害了吧。">
+			<ers>
+				<er id="1" d="肯定是的。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="通关通缉密令(二)3次。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="天赐神器" lv="35" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="1" next="0" exp="0" exp_c="0" gold="0" ext_id="0" ext_v="0" id="300120" country="0">
+		<target_1 />
+		<goods>
+			<good pro="0" sex="0" id="13001" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="神器蕴藏着巨大的力量，运用得当会得到很大提升。" sr="怎么得到神器呢?" m="" mr="" e="我们关系这么好，就送你一个神器，希望对你有帮助。">
+			<ers>
+				<er id="1" d="谢谢！" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京交谈。" desc="与草薙京交谈。" over="与草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="佣兵试练(三)" lv="36" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="300310" exp="20800" exp_c="0" gold="27040" ext_id="0" ext_v="0" id="300210" country="0">
+		<target_7 copy_id="20290" times="3" />
+		<goods />
+		<dialog s="去击败这些烦人的雇佣兵，让他们看看我们的厉害吧。" sr="好的。" m="快出发去通关通缉密令(三)3次吧。
+" mr="好的，我这就去！！" e="现在他们知道我们的厉害了吧。">
+			<ers>
+				<er id="1" d="肯定是的。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="通关通缉密令(三)3次。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="幽冥试练(一)" lv="38" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="300410" exp="22360" exp_c="0" gold="29068" ext_id="0" ext_v="0" id="300310" country="0">
+		<target_7 copy_id="20300" times="3" />
+		<goods />
+		<dialog s="去打倒这帮来路不明的人吧，让他们知道他们的举动是多么不明智的。" sr="好的。" m="快出发去通关幽冥之焰(一)3次吧。
+" mr="了解！" e="下次他们会学乖了吧。">
+			<ers>
+				<er id="1" d="他们不会再来的了。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵对话。" desc="通关幽冥之焰(一)3次。" over="与八神庵对话。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="幽冥试练(二)" lv="39" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="300510" exp="23080" exp_c="0" gold="30004" ext_id="0" ext_v="0" id="300410" country="0">
+		<target_7 copy_id="20310" times="3" />
+		<goods />
+		<dialog s="八神庵：去打倒这帮来路不明的人吧，让他们知道他们的举动是多么不明智的。" sr="好的。" m="快出发去通关幽冥之焰(二)3次吧。
+" mr="了解！" e="下次他们会学乖了吧。">
+			<ers>
+				<er id="1" d="他们不会再来的了。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵对话。" desc="通关幽冥之焰(二)3次。" over="与八神庵对话。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="幽冥试练(三)" lv="40" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="300610" exp="23920" exp_c="0" gold="31096" ext_id="0" ext_v="0" id="300510" country="0">
+		<target_7 copy_id="20320" times="3" />
+		<goods />
+		<dialog s="去打倒这帮来路不明的人吧，让他们知道他们的举动是多么不明智的。" sr="好的。" m="快出发去通关幽冥之焰(三)3次吧。
+" mr="了解！" e="下次他们会学乖了吧。">
+			<ers>
+				<er id="1" d="他们不会再来的了。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵对话。" desc="通关幽冥之焰(三)3次。" over="与八神庵对话。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="实力展示(一)" lv="42" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="300710" exp="25360" exp_c="0" gold="32968" ext_id="0" ext_v="0" id="300610" country="0">
+		<target_7 copy_id="20330" times="3" />
+		<goods />
+		<dialog s="去打倒这帮来路不明的人吧，让他们知道他们的举动是多么不明智的。" sr="好的。" m="快出发去通关神秘之人(一)3次吧。" mr="了解！" e="下次他们会学乖了吧。">
+			<ers>
+				<er id="1" d="他们不会再来的了。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵对话。" desc="通关神秘之人(一) 3次。" over="与八神庵对话。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="实力展示(二)" lv="43" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="300810" exp="26080" exp_c="0" gold="33904" ext_id="0" ext_v="0" id="300710" country="0">
+		<target_7 copy_id="20340" times="3" />
+		<goods />
+		<dialog s="既然他们想我和组队，那就去试试他们的实力吧。" sr="好的。" m="快出发去通关神秘之人(二)3次吧。" mr="我现在就去。" e="实力还算可以，他们可以和我组队了。">
+			<ers>
+				<er id="1" d="和你差远了。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵对话。" desc="通关神秘之人(二)3次 。" over="与八神庵对话。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="实力展示(三)" lv="44" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="300910" exp="26920" exp_c="0" gold="34996" ext_id="0" ext_v="0" id="300810" country="0">
+		<target_7 copy_id="20350" times="3" />
+		<goods />
+		<dialog s="既然他们想我和组队，那就去试试他们的实力吧。
+" sr="好的。" m="快出发去通关神秘之人(三)3次吧。" mr="我现在就去。" e="实力还算可以，他们可以和我组队了。">
+			<ers>
+				<er id="1" d="和你差远了。" />
+			</ers>
+		</dialog>
+		<tip pre="与八神庵对话。" desc="通关神秘之人(三) 3次。" over="与八神庵对话。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="再度决战(一)" lv="46" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="301010" exp="28480" exp_c="0" gold="37024" ext_id="0" ext_v="0" id="300910" country="0">
+		<target_7 copy_id="20360" times="3" />
+		<goods />
+		<dialog s="去和其他格斗家比试一下吧，通过和高手交手，可以更好的提升自己的实力。" sr="这个是个锻炼的好机会。" m="快出发去通关荣耀再临(一)3次吧。" mr="了解，这就过去！" e="比试之后深有体会吧。">
+			<ers>
+				<er id="1" d="还有很多不足的地方可以提升。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话获取线索。" desc="通关荣耀再临(一) 3次。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="再度决战(二)" lv="47" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="301110" exp="29200" exp_c="0" gold="37960" ext_id="0" ext_v="0" id="301010" country="0">
+		<target_7 copy_id="20370" times="3" />
+		<goods />
+		<dialog s="去和其他格斗家比试一下吧，通过和高手交手，可以更好的提升自己的实力。" sr="这个是个锻炼的好机会。" m="快出发去通关荣耀再临(二)3次吧。" mr="了解，这就过去！" e="比试之后深有体会吧。">
+			<ers>
+				<er id="1" d="还有很多不足的地方可以提升。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="通关荣耀再临(二)3次。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="再度决战(三)" lv="48" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="301210" exp="29920" exp_c="0" gold="38896" ext_id="0" ext_v="0" id="301110" country="0">
+		<target_7 copy_id="20380" times="3" />
+		<goods />
+		<dialog s="去和其他格斗家比试一下吧，通过和高手交手，可以更好的提升自己的实力。" sr="这个是个锻炼的好机会。" m="快出发去通关荣耀再临(三)3次吧。" mr="了解，这就过去！" e="比试之后深有体会吧。">
+			<ers>
+				<er id="1" d="还有很多不足的地方可以提升。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="通关荣耀再临(三)3次。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="烈焰试练(一)" lv="49" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="301310" exp="30760" exp_c="0" gold="39988" ext_id="0" ext_v="0" id="301210" country="0">
+		<target_7 copy_id="20390" times="3" />
+		<goods />
+		<dialog s="去把这些守卫都打倒，救出其他人吧。" sr="好的。" m="快出发去通关烈焰大师(一)3次吧。" mr="我这就去！" e="辛苦你了，大家都平安无事。">
+			<ers>
+				<er id="1" d="举手之劳。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="通关烈焰大师(一)3次。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="烈焰试练(二)" lv="50" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="301410" exp="31480" exp_c="0" gold="40924" ext_id="0" ext_v="0" id="301310" country="0">
+		<target_7 copy_id="20400" times="3" />
+		<goods />
+		<dialog s="去把这些守卫都打倒，救出其他人吧。" sr="好的。" m="快出发去通关烈焰大师(二)3次吧。" mr="我这就去！" e="辛苦你了，大家都平安无事。">
+			<ers>
+				<er id="1" d="举手之劳。" />
+			</ers>
+		</dialog>
+		<tip pre="与草薙京对话。" desc="通关烈焰大师(二)3次。" over="与草薙京对话。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="烈焰试练(三)" lv="51" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="301510" exp="32200" exp_c="0" gold="41860" ext_id="0" ext_v="0" id="301410" country="0">
+		<target_7 copy_id="20410" times="3" />
+		<goods />
+		<dialog s="去把这些守卫都打倒，救出其他人吧。" sr="好的。" m="快出发去通关烈焰大师(三)3次吧。" mr="我这就去！" e="辛苦你了，大家都平安无事。">
+			<ers>
+				<er id="1" d="举手之劳。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关烈焰大师(三)3次。" over="与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="清理余孽(一)" lv="53" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="301610" exp="33760" exp_c="0" gold="43888" ext_id="0" ext_v="0" id="301510" country="0">
+		<target_7 copy_id="20420" times="3" />
+		<goods />
+		<dialog s="把这些人都打倒吧，绝对不能让他们再危害其他人了。" sr="好的。" m="快出发去通关大蛇之力(一)3次吧。" mr="你想多了，我现在就去干掉他们！" e="这样就不必担心其他人受到伤害了。">
+			<ers>
+				<er id="1" d="大家也能安心了。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的特瑞交谈。" desc="通关大蛇之力(一)3次。" over="与南镇的特瑞交谈。" />
+		<npc>
+			<s scene="10200" npc="10156" />
+			<e scene="10200" npc="10156" />
+		</npc>
+	</task>
+	<task name="清理余孽(二)" lv="54" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="301710" exp="34600" exp_c="0" gold="44980" ext_id="0" ext_v="0" id="301610" country="0">
+		<target_7 copy_id="20430" times="3" />
+		<goods />
+		<dialog s="把这些人都打倒吧，绝对不能让他们再危害其他人了。" sr="好的。" m="快出发去通关大蛇之力(二)3次吧。" mr="你想多了，我现在就去干掉他们！" e="这样就不必担心其他人受到伤害了。">
+			<ers>
+				<er id="1" d="大家也能安心了。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的特瑞交谈。" desc="通关大蛇之力(二)3次。" over="与南镇的特瑞交谈。" />
+		<npc>
+			<s scene="10200" npc="10156" />
+			<e scene="10200" npc="10156" />
+		</npc>
+	</task>
+	<task name="清理余孽(三)" lv="55" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="301810" exp="35320" exp_c="0" gold="45916" ext_id="0" ext_v="0" id="301710" country="0">
+		<target_7 copy_id="20440" times="3" />
+		<goods />
+		<dialog s="把这些人都打倒吧，绝对不能让他们再危害其他人了。" sr="好的。" m="快出发去通关大蛇之力(三)3次吧。" mr="你想多了，我现在就去干掉他们！" e="这样就不必担心其他人受到伤害了。">
+			<ers>
+				<er id="1" d="大家也能安心了。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的特瑞交谈。" desc="通关大蛇之力(三)3次。" over="与南镇的特瑞交谈。" />
+		<npc>
+			<s scene="10200" npc="10156" />
+			<e scene="10200" npc="10156" />
+		</npc>
+	</task>
+	<task name="密林试练(一)" lv="59" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="301910" exp="38440" exp_c="0" gold="49972" ext_id="0" ext_v="0" id="301810" country="0">
+		<target_7 copy_id="20450" times="3" />
+		<goods />
+		<dialog s="要继续多锻炼才可以变得更强的！" sr="知道了，我们继续锻炼吧。" m="快出发去通关密林袭击(一)3次吧。" mr="了解！" e="感觉自己的拳头更有力量了。">
+			<ers>
+				<er id="1" d="我也觉得全身充满了力量。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关密林袭击(一)3次。" over="与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="密林试练(二)" lv="61" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="305010" exp="39160" exp_c="0" gold="50908" ext_id="0" ext_v="0" id="301910" country="0">
+		<target_7 copy_id="20460" times="3" />
+		<goods />
+		<dialog s="把埋伏在这里的人都清理掉吧。" sr="好的，这也算是一种练习。" m="快出发去通关密林袭击(二)3次吧。" mr="了解！" e="干得好，现在他们知道我们的厉害了吧。">
+			<ers>
+				<er id="1" d="他们肯定心惊胆颤的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关密林袭击(二)3次。" over="与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="精英黑帮头目" lv="20" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="302110" exp="3000" exp_c="0" gold="15000" ext_id="0" ext_v="0" id="302010" country="0">
+		<target_7 copy_id="30010" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="23001" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●黑帮头目吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●黑帮头目吧！" mr="现在就去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关精英●黑帮头目 。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="精英大门五郎" lv="20" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="302210" exp="6000" exp_c="0" gold="20000" ext_id="0" ext_v="0" id="302110" country="0">
+		<target_7 copy_id="30020" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="28001" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●大门五郎吧！
+" sr="好的，现在就去！" m="还没去吗？快去去通关精英●大门五郎吧！
+" mr="现在就去！" e="你已经有很大的进步了，但还需要继续努力。
+">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关精英●大门五郎 。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="精英金家潘" lv="20" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="302310" exp="10000" exp_c="0" gold="25000" ext_id="0" ext_v="0" id="302210" country="0">
+		<target_7 copy_id="30030" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="20021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●金家潘吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●金家潘吧！" mr="现在就去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关精英●金家潘 。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="精英陈国汉" lv="20" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="302410" exp="15000" exp_c="0" gold="30000" ext_id="0" ext_v="0" id="302310" country="0">
+		<target_7 copy_id="30040" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●陈国汉吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●陈国汉吧！" mr="现在就去！" e="你已经有很大的进步了，但还需要继续努力。
+">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关精英●陈国汉 。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="精英蔡宝健" lv="20" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="302510" exp="20000" exp_c="0" gold="40000" ext_id="0" ext_v="0" id="302410" country="0">
+		<target_7 copy_id="30050" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●蔡宝健吧！
+" sr="好的，现在就去！" m="还没去吗？快去去通关精英●蔡宝健吧！" mr="现在就去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关精英●蔡宝健 。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="精英红丸" lv="30" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="302610" exp="25000" exp_c="0" gold="30000" ext_id="0" ext_v="0" id="302510" country="0">
+		<target_7 copy_id="30060" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●二阶堂红丸吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●二阶堂红丸吧！" mr="现在就去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关精英●二阶堂红丸 。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="精英巴特勒" lv="30" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="302710" exp="30000" exp_c="0" gold="35000" ext_id="0" ext_v="0" id="302610" country="0">
+		<target_7 copy_id="30070" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●巴特勒吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●巴特勒吧！" mr="现在就去！" e="你已经有很大的进步了，但还需要继续努力。
+">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关精英●巴特勒 。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="精英洛奇" lv="30" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="302810" exp="35000" exp_c="0" gold="40000" ext_id="0" ext_v="0" id="302710" country="0">
+		<target_7 copy_id="30080" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●洛奇吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●洛奇吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。 
+">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关精英●洛奇 。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="精英哈维D" lv="30" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="302910" exp="40000" exp_c="0" gold="45000" ext_id="0" ext_v="0" id="302810" country="0">
+		<target_7 copy_id="30090" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●哈维D吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●哈维D吧！
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。 ">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关精英●哈维D 。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="精英卢卡尔" lv="30" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303010" exp="45000" exp_c="0" gold="50000" ext_id="0" ext_v="0" id="302910" country="0">
+		<target_7 copy_id="30100" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●卢卡尔吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●卢卡尔吧！
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关精英●卢卡尔 。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="精英镇元斋" lv="40" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303110" exp="50000" exp_c="0" gold="60000" ext_id="0" ext_v="0" id="303010" country="0">
+		<target_7 copy_id="30110" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●镇元斋吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●镇元斋吧！
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●镇元斋 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英椎拳崇" lv="40" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303210" exp="55000" exp_c="0" gold="65000" ext_id="0" ext_v="0" id="303110" country="0">
+		<target_7 copy_id="30120" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●椎拳崇吧！
+" sr="好的，现在就去！" m="还没去吗？快去去通关精英●椎拳崇吧！
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。
+">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●椎拳崇 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英雅典娜" lv="40" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303310" exp="60000" exp_c="0" gold="70000" ext_id="0" ext_v="0" id="303210" country="0">
+		<target_7 copy_id="30130" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●麻宫雅典娜吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●麻宫雅典娜吧！
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●麻宫雅典娜 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英坂崎由莉" lv="40" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303410" exp="65000" exp_c="0" gold="75000" ext_id="0" ext_v="0" id="303310" country="0">
+		<target_7 copy_id="30140" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●坂崎由莉吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●坂崎由莉吧！
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●坂崎由莉 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英不知火舞" lv="40" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303510" exp="75000" exp_c="0" gold="80000" ext_id="0" ext_v="0" id="303410" country="0">
+		<target_7 copy_id="30150" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●不知火舞吧！
+" sr="好的，现在就去！" m="还没去吗？快去去通关精英●不知火舞吧！
+
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。
+">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●不知火舞 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英金" lv="50" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303520" exp="80000" exp_c="0" gold="90000" ext_id="0" ext_v="0" id="303510" country="0">
+		<target_7 copy_id="30160" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●金吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●金吧！
+ " mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●金 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英哈迪伦" lv="50" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303530" exp="85000" exp_c="0" gold="95000" ext_id="0" ext_v="0" id="303520" country="0">
+		<target_7 copy_id="30170" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●哈迪伦吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●哈迪伦吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●哈迪伦 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英特工头子" lv="50" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303540" exp="90000" exp_c="0" gold="100000" ext_id="0" ext_v="0" id="303530" country="0">
+		<target_7 copy_id="30180" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●特工头子吧！
+" sr="好的，现在就去！" m="还没去吗？快去去通关精英●特工头子吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●特工头子 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英比利" lv="50" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303550" exp="95000" exp_c="0" gold="115000" ext_id="0" ext_v="0" id="303540" country="0">
+		<target_7 copy_id="30190" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●比利吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●比利吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●比利 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英八神庵" lv="50" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="306310" exp="100000" exp_c="0" gold="120000" ext_id="0" ext_v="0" id="303550" country="0">
+		<target_7 copy_id="30200" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41021" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关精英●八神庵吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●八神庵吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●八神庵 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="魔王大门五郎" lv="25" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303710" exp="30000" exp_c="0" gold="50000" ext_id="0" ext_v="0" id="303610" country="0">
+		<target_7 copy_id="32010" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●大门五郎吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●大门五郎吧！
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的大门五郎交谈。" desc="通关魔王●大门五郎 。" over="与东京的大门五郎交谈。" />
+		<npc>
+			<s scene="10100" npc="10111" />
+			<e scene="10100" npc="10111" />
+		</npc>
+	</task>
+	<task name="魔王金家潘" lv="25" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="303810" exp="35000" exp_c="0" gold="55000" ext_id="0" ext_v="0" id="303710" country="0">
+		<target_7 copy_id="32020" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●金家潘吧！
+" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●金家潘吧！
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的大门五郎交谈。" desc="通关魔王●金家潘 。" over="与东京的大门五郎交谈。" />
+		<npc>
+			<s scene="10100" npc="10111" />
+			<e scene="10100" npc="10111" />
+		</npc>
+	</task>
+	<task name="魔王陈国汉" lv="25" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="304010" exp="40000" exp_c="0" gold="60000" ext_id="0" ext_v="0" id="303810" country="0">
+		<target_7 copy_id="32030" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●陈国汉吧！ 
+" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●陈国汉吧！
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="谢谢！我一定加倍努力学习。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的大门五郎交谈。" desc="通关魔王●陈国汉 。" over="与东京的大门五郎交谈。" />
+		<npc>
+			<s scene="10100" npc="10111" />
+			<e scene="10100" npc="10111" />
+		</npc>
+	</task>
+	<task name="魔王蔡宝健" lv="25" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="304110" exp="45000" exp_c="0" gold="65000" ext_id="0" ext_v="0" id="304010" country="0">
+		<target_7 copy_id="32040" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●蔡宝健吧！
+" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●蔡宝健吧！
+
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。
+">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的大门五郎交谈。" desc="通关魔王●蔡宝健 。" over="与东京的大门五郎交谈。" />
+		<npc>
+			<s scene="10100" npc="10111" />
+			<e scene="10100" npc="10111" />
+		</npc>
+	</task>
+	<task name="魔王巴特勒" lv="35" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="304210" exp="50000" exp_c="0" gold="80000" ext_id="0" ext_v="0" id="304110" country="0">
+		<target_7 copy_id="32050" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●巴特勒吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●巴特勒吧！
+
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。
+">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●巴特勒 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="魔王洛奇" lv="35" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="304310" exp="55000" exp_c="0" gold="85000" ext_id="0" ext_v="0" id="304210" country="0">
+		<target_7 copy_id="32060" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●洛奇吧！
+" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●洛奇吧！
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。
+">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●洛奇 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="魔王哈维D" lv="35" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="304510" exp="60000" exp_c="0" gold="90000" ext_id="0" ext_v="0" id="304310" country="0">
+		<target_7 copy_id="32070" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●哈维D吧！
+" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●哈维D吧！
+
+" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。
+">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●哈维D 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="加入社团" lv="24" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="6" next="0" exp="10000" exp_c="0" gold="0" ext_id="0" ext_v="0" id="304410" country="0">
+		<target_6 id="3" v1="0" v2="0" v3="0" v4="0" v5="0" />
+		<goods />
+		<dialog s="去试试加入社团认识更多的小伙伴吧！" sr="好的！" m="社团按钮就在下方的工具栏哦。" mr="了解！" e="希望你能认识到更多好朋友。">
+			<ers>
+				<er id="1" d="谢谢！" />
+			</ers>
+		</dialog>
+		<tip pre="与不知火舞交谈。" desc="创建或加入一个社团。" over="与不知火舞交谈。" />
+		<npc>
+			<s scene="10100" npc="10116" />
+			<e scene="10100" npc="10116" />
+		</npc>
+	</task>
+	<task name="魔王卢卡尔" lv="35" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="304610" exp="65000" exp_c="0" gold="95000" ext_id="0" ext_v="0" id="304510" country="0">
+		<target_7 copy_id="32080" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●卢卡尔吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●卢卡尔吧！ " mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●卢卡尔 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="魔王椎拳崇" lv="45" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="304710" exp="80000" exp_c="0" gold="100000" ext_id="0" ext_v="0" id="304610" country="0">
+		<target_7 copy_id="32090" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●椎拳崇吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●椎拳崇吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●椎拳崇 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="魔王雅典娜" lv="45" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="304810" exp="85000" exp_c="0" gold="110000" ext_id="0" ext_v="0" id="304710" country="0">
+		<target_7 copy_id="32100" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●麻宫雅典娜吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●麻宫雅典娜吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●麻宫雅典娜 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="魔王坂崎由莉" lv="45" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="304910" exp="90000" exp_c="0" gold="120000" ext_id="0" ext_v="0" id="304810" country="0">
+		<target_7 copy_id="32110" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●坂崎由莉吧！ " sr="好的，现在就去！" m="还没去吗？快去去通关魔王●坂崎由莉吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●坂崎由莉 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="魔王不知火舞" lv="45" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="307310" exp="100000" exp_c="0" gold="130000" ext_id="0" ext_v="0" id="304910" country="0">
+		<target_7 copy_id="32120" times="1" />
+		<goods>
+			<good pro="0" sex="0" id="41031" count="1" streng="0" bind="1" name_color="1" expiry_type="0" expiry="0" />
+		</goods>
+		<dialog s="为了检验你的实力，去通关魔王●不知火舞吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●不知火舞吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●不知火舞 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="密林试练(三)" lv="62" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="305110" exp="40720" exp_c="0" gold="52930" ext_id="0" ext_v="0" id="305010" country="0">
+		<target_7 copy_id="20470" times="3" />
+		<goods />
+		<dialog s="要继续多锻炼才可以变得更强的！" sr="知道了，我们继续锻炼吧。" m="快出发去通关密林袭击(三)3次吧。" mr="了解！" e="感觉自己的拳头更有力量了。">
+			<ers>
+				<er id="1" d="我也觉得全身充满了力量。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关密林袭击(三)3次。" over="与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="惩戒试练(一)" lv="65" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="305210" exp="43000" exp_c="0" gold="55900" ext_id="0" ext_v="0" id="305110" country="0">
+		<target_7 copy_id="20480" times="3" />
+		<goods />
+		<dialog s="去惩罚一下这些外来者吧！" sr="好的，现在就去！" m="他们就在意外来客(一)。" mr="了解，这就过去！" e="这下他们知道我们的厉害了吧。">
+			<ers>
+				<er id="1" d="肯定是的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关意外来客(一)3次。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="惩戒试练(二)" lv="66" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="305310" exp="43840" exp_c="0" gold="56990" ext_id="0" ext_v="0" id="305210" country="0">
+		<target_7 copy_id="20490" times="3" />
+		<goods />
+		<dialog s="去惩罚一下这些外来者吧！" sr="好的，现在就去！" m="他们就在意外来客(二)。" mr="了解，这就过去！" e="这下他们知道我们的厉害了吧。">
+			<ers>
+				<er id="1" d="肯定是的。 " />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关意外来客(二)3次。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="惩戒试练(三)" lv="67" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="305410" exp="44560" exp_c="0" gold="57900" ext_id="0" ext_v="0" id="305310" country="0">
+		<target_7 copy_id="20500" times="3" />
+		<goods />
+		<dialog s="去惩罚一下这些外来者吧！" sr="好的，现在就去！" m="他们就在意外来客(三)。" mr="了解，这就过去！" e="这下他们知道我们的厉害了吧。">
+			<ers>
+				<er id="1" d="肯定是的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关意外来客(三)3次。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="忠诚试练(一)" lv="69" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="305510" exp="46120" exp_c="0" gold="59900" ext_id="0" ext_v="0" id="305410" country="0">
+		<target_7 copy_id="20510" times="3" />
+		<goods />
+		<dialog s="赶紧打败这些人吧，我们还有正事要做！" sr="好的，现在就去！" m="赶紧去吧，他们就在忠诚试练(一)。" mr="了解，这就过去！" e="这些人根本不是我们对手嘛。">
+			<ers>
+				<er id="1" d="那是肯定的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关忠诚试练(一)3次。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="忠诚试练(二)" lv="70" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="305610" exp="46960" exp_c="0" gold="61800" ext_id="0" ext_v="0" id="305510" country="0">
+		<target_7 copy_id="20520" times="3" />
+		<goods />
+		<dialog s="赶紧打败这些人吧，我们还有正事要做！" sr="好的，现在就去！" m="赶紧去吧，他们就在忠诚试练(二)。" mr="了解，这就过去！" e="这些人根本不是我们对手嘛。">
+			<ers>
+				<er id="1" d="那是肯定的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关忠诚试练(二)3次。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="忠诚试练(三)" lv="71" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="305710" exp="47680" exp_c="0" gold="62000" ext_id="0" ext_v="0" id="305610" country="0">
+		<target_7 copy_id="20530" times="3" />
+		<goods />
+		<dialog s="赶紧打败这些人吧，我们还有正事要做！" sr="好的，现在就去！" m="赶紧去吧，他们就在忠诚试练(三)。" mr="了解，这就过去！" e="这些人根本不是我们对手嘛。">
+			<ers>
+				<er id="1" d="那是肯定的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关忠诚试练(三)3次。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="黑道试练(一)" lv="73" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="305810" exp="49240" exp_c="0" gold="64000" ext_id="0" ext_v="0" id="305710" country="0">
+		<target_7 copy_id="20540" times="3" />
+		<goods />
+		<dialog s="前往黑道霸主(一)可能会得到一些关于吉斯的消息！" sr="好的，现在就去！" m="方向错了吗？在任务追踪就能找到黑道霸主(一)。" mr="了解，这就过去！" e="这次可以确定吉斯的身份了吧。">
+			<ers>
+				<er id="1" d="是的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麦卓交谈。" desc="通关黑道霸主(一)3次。" over="与南镇的麦卓交谈。" />
+		<npc>
+			<s scene="10200" npc="10161" />
+			<e scene="10200" npc="10161" />
+		</npc>
+	</task>
+	<task name="黑道试练(二)" lv="74" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="305910" exp="50000" exp_c="0" gold="65000" ext_id="0" ext_v="0" id="305810" country="0">
+		<target_7 copy_id="20550" times="3" />
+		<goods />
+		<dialog s="前往黑道霸主(二)可能会得到一些关于吉斯的消息！" sr="好的，现在就去！" m="方向错了吗？在任务追踪就能找到黑道霸主(二)。" mr="了解，这就过去！" e="这次可以确定吉斯的身份了吧。">
+			<ers>
+				<er id="1" d="是的。 " />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麦卓交谈。" desc="通关黑道霸主(二)3次。" over="与南镇的麦卓交谈。" />
+		<npc>
+			<s scene="10200" npc="10161" />
+			<e scene="10200" npc="10161" />
+		</npc>
+	</task>
+	<task name="黑道试练(三)" lv="75" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="306010" exp="51000" exp_c="0" gold="66000" ext_id="0" ext_v="0" id="305910" country="0">
+		<target_7 copy_id="20560" times="3" />
+		<goods />
+		<dialog s="前往黑道霸主(三)可能会得到一些关于吉斯的消息！" sr="好的，现在就去！" m="方向错了吗？在任务追踪就能找到黑道霸主(三)。" mr="了解，这就过去！" e="这次可以确定吉斯的身份了吧。">
+			<ers>
+				<er id="1" d="是的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麦卓交谈。" desc="通关黑道霸主(三)3次。" over="与南镇的麦卓交谈。" />
+		<npc>
+			<s scene="10200" npc="10161" />
+			<e scene="10200" npc="10161" />
+		</npc>
+	</task>
+	<task name="心灵试练(一)" lv="77" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="306110" exp="52670" exp_c="0" gold="68000" ext_id="0" ext_v="0" id="306010" country="0">
+		<target_7 copy_id="20570" times="3" />
+		<goods />
+		<dialog s="麻烦你们帮忙寻找一下舞，我们很担心她的安危！" sr="好的，现在就去！" m="快点去吧，我怕舞会出事。" mr="了解，现在就去！" e="劳烦你们走一趟了。">
+			<ers>
+				<er id="1" d="举手之劳。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的金交谈。" desc="通关心灵缺口(一)3次。" over="与南镇的金交谈。" />
+		<npc>
+			<s scene="10200" npc="10166" />
+			<e scene="10200" npc="10166" />
+		</npc>
+	</task>
+	<task name="心灵试练(二)" lv="78" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="306210" exp="54000" exp_c="0" gold="70000" ext_id="0" ext_v="0" id="306110" country="0">
+		<target_7 copy_id="20580" times="3" />
+		<goods />
+		<dialog s="麻烦你们帮忙寻找一下舞，我们很担心她的安危！" sr="好的，现在就去！" m="快点去吧，我怕舞会出事。" mr="了解，现在就去！" e="劳烦你们走一趟了。">
+			<ers>
+				<er id="1" d="举手之劳。 " />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的金交谈。" desc="通关心灵缺口(二)3次。" over="与南镇的金交谈。" />
+		<npc>
+			<s scene="10200" npc="10166" />
+			<e scene="10200" npc="10166" />
+		</npc>
+	</task>
+	<task name="心灵试练(三)" lv="79" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="0" exp="54500" exp_c="0" gold="71000" ext_id="0" ext_v="0" id="306210" country="0">
+		<target_7 copy_id="20590" times="3" />
+		<goods />
+		<dialog s="麻烦你们帮忙寻找一下舞，我们很担心她的安危！" sr="好的，现在就去！" m="快点去吧，我怕舞会出事。" mr="了解，现在就去！" e="劳烦你们走一趟了。">
+			<ers>
+				<er id="1" d="举手之劳。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的金交谈。" desc="通关心灵缺口(三)3次。" over="与南镇的金交谈。" />
+		<npc>
+			<s scene="10200" npc="10166" />
+			<e scene="10200" npc="10166" />
+		</npc>
+	</task>
+	<task name="精英如月影二" lv="60" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="306410" exp="150000" exp_c="0" gold="200000" ext_id="0" ext_v="0" id="306310" country="0">
+		<target_7 copy_id="30210" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关精英●如月影二吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●如月影二吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●如月影二 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英草薙柴舟" lv="60" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="306510" exp="150000" exp_c="0" gold="200000" ext_id="0" ext_v="0" id="306410" country="0">
+		<target_7 copy_id="30220" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关精英●草薙柴舟吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●草薙柴舟吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●草薙柴舟 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英麦卓" lv="60" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="306610" exp="150000" exp_c="0" gold="200000" ext_id="0" ext_v="0" id="306510" country="0">
+		<target_7 copy_id="30230" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关精英●麦卓吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●麦卓吧！" mr="我会继续努力的。" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●麦卓 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英高尼茨" lv="60" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="306710" exp="150000" exp_c="0" gold="200000" ext_id="0" ext_v="0" id="306610" country="0">
+		<target_7 copy_id="30240" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关精英●高尼茨吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●高尼茨吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。
+ ">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●高尼茨 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英薇思" lv="60" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="306810" exp="150000" exp_c="0" gold="200000" ext_id="0" ext_v="0" id="306710" country="0">
+		<target_7 copy_id="30250" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关精英●薇思吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●薇思吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的八神庵交谈。" desc="通关精英●薇思 。" over="与南镇的八神庵交谈。" />
+		<npc>
+			<s scene="10200" npc="10136" />
+			<e scene="10200" npc="10136" />
+		</npc>
+	</task>
+	<task name="精英矢吹真吾" lv="70" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="306910" exp="200000" exp_c="0" gold="250000" ext_id="0" ext_v="0" id="306810" country="0">
+		<target_7 copy_id="30260" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关精英●矢吹真吾吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●矢吹真吾吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关精英●矢吹真吾 。" over="与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="精英吉斯" lv="70" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="307010" exp="200000" exp_c="0" gold="250000" ext_id="0" ext_v="0" id="306910" country="0">
+		<target_7 copy_id="30270" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关精英●吉斯吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●吉斯吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关精英●吉斯 。" over="与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="精英莉安娜" lv="70" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="307110" exp="200000" exp_c="0" gold="250000" ext_id="0" ext_v="0" id="307010" country="0">
+		<target_7 copy_id="30280" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关精英●莉安娜吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●莉安娜吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关精英●莉安娜 。 " over="与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="精英山崎龙二" lv="70" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="307210" exp="200000" exp_c="0" gold="250000" ext_id="0" ext_v="0" id="307110" country="0">
+		<target_7 copy_id="30290" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关精英●山崎龙二吧！" sr="好的，现在就去！" m="还没去吗？快去去通关精英●山崎龙二吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关精英●山崎龙二 。" over="与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="精英特瑞" lv="70" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="0" exp="200000" exp_c="0" gold="250000" ext_id="0" ext_v="0" id="307210" country="0">
+		<target_7 copy_id="30290" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关精英●山崎龙二吧！" sr="好的，现在就去！" m="为了检验你的实力，去通关精英●山崎龙二吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关精英●山崎龙二 。" over="与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="魔王哈迪伦" lv="55" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="307410" exp="150000" exp_c="0" gold="200000" ext_id="0" ext_v="0" id="307310" country="0">
+		<target_7 copy_id="32130" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●哈迪伦吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●哈迪伦吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●哈迪伦 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="魔王特工头子" lv="55" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="307510" exp="150000" exp_c="0" gold="200000" ext_id="0" ext_v="0" id="307410" country="0">
+		<target_7 copy_id="32140" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●特工头子吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●特工头子吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●特工头子 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="魔王比利" lv="55" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="307610" exp="150000" exp_c="0" gold="200000" ext_id="0" ext_v="0" id="307510" country="0">
+		<target_7 copy_id="32150" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●比利吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●比利吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●比利 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="魔王八神庵" lv="55" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="307710" exp="150000" exp_c="0" gold="200000" ext_id="0" ext_v="0" id="307610" country="0">
+		<target_7 copy_id="32160" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●八神庵吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●八神庵吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的麻宫雅典娜交谈。" desc="通关魔王●八神庵 。" over="与南镇的麻宫雅典娜交谈。" />
+		<npc>
+			<s scene="10200" npc="10141" />
+			<e scene="10200" npc="10141" />
+		</npc>
+	</task>
+	<task name="魔王草薙柴舟" lv="65" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="307810" exp="200000" exp_c="0" gold="250000" ext_id="0" ext_v="0" id="307710" country="0">
+		<target_7 copy_id="32170" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●草薙柴舟吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●草薙柴舟吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的金交谈。" desc="通关魔王●草薙柴舟 。" over="与南镇的金交谈。" />
+		<npc>
+			<s scene="10200" npc="10166" />
+			<e scene="10200" npc="10166" />
+		</npc>
+	</task>
+	<task name="魔王麦卓" lv="65" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="307910" exp="200000" exp_c="0" gold="250000" ext_id="0" ext_v="0" id="307810" country="0">
+		<target_7 copy_id="32180" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●麦卓吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●麦卓吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的金交谈。" desc="通关魔王●麦卓 。" over="与南镇的金交谈。" />
+		<npc>
+			<s scene="10200" npc="10166" />
+			<e scene="10200" npc="10166" />
+		</npc>
+	</task>
+	<task name="魔王高尼茨" lv="65" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="308010" exp="200000" exp_c="0" gold="250000" ext_id="0" ext_v="0" id="307910" country="0">
+		<target_7 copy_id="32190" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●高尼茨吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●高尼茨吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的金交谈。" desc="通关魔王●高尼茨 。" over="与南镇的金交谈。" />
+		<npc>
+			<s scene="10200" npc="10166" />
+			<e scene="10200" npc="10166" />
+		</npc>
+	</task>
+	<task name="魔王薇思" lv="65" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="308110" exp="200000" exp_c="0" gold="250000" ext_id="0" ext_v="0" id="308010" country="0">
+		<target_7 copy_id="32200" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●薇思吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●薇思吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的金交谈。" desc="通关魔王●薇思 。" over="与南镇的金交谈。" />
+		<npc>
+			<s scene="10200" npc="10166" />
+			<e scene="10200" npc="10166" />
+		</npc>
+	</task>
+	<task name="魔王吉斯" lv="75" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="308210" exp="250000" exp_c="0" gold="300000" ext_id="0" ext_v="0" id="308110" country="0">
+		<target_7 copy_id="32210" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●吉斯吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●吉斯吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的特瑞交谈。" desc="通关魔王●吉斯 。" over="与南镇的特瑞交谈。" />
+		<npc>
+			<s scene="10200" npc="10156" />
+			<e scene="10200" npc="10156" />
+		</npc>
+	</task>
+	<task name="魔王莉安娜" lv="75" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="308310" exp="250000" exp_c="0" gold="300000" ext_id="0" ext_v="0" id="308210" country="0">
+		<target_7 copy_id="32220" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●莉安娜吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●莉安娜吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的特瑞交谈。" desc="通关魔王●莉安娜 。" over="与南镇的特瑞交谈。" />
+		<npc>
+			<s scene="10200" npc="10156" />
+			<e scene="10200" npc="10156" />
+		</npc>
+	</task>
+	<task name="魔王山崎龙二" lv="75" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="308410" exp="250000" exp_c="0" gold="300000" ext_id="0" ext_v="0" id="308310" country="0">
+		<target_7 copy_id="32230" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●山崎龙二吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●山崎龙二吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的特瑞交谈。" desc="通关魔王●山崎龙二 。" over="与南镇的特瑞交谈。" />
+		<npc>
+			<s scene="10200" npc="10156" />
+			<e scene="10200" npc="10156" />
+		</npc>
+	</task>
+	<task name="魔王特瑞" lv="75" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="0" exp="250000" exp_c="0" gold="300000" ext_id="0" ext_v="0" id="308410" country="0">
+		<target_7 copy_id="32240" times="1" />
+		<goods />
+		<dialog s="为了检验你的实力，去通关魔王●特瑞吧！" sr="好的，现在就去！" m="还没去吗？快去去通关魔王●特瑞吧！" mr="了解，这就过去！" e="你已经有很大的进步了，但还需要继续努力。">
+			<ers>
+				<er id="1" d="我会继续努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的拉尔夫交谈。" desc="通关魔王●特瑞 。" over="与南镇的拉尔夫交谈。" />
+		<npc>
+			<s scene="10200" npc="10146" />
+			<e scene="10200" npc="10146" />
+		</npc>
+	</task>
+	<task name="再闯深居(二)" lv="20" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="400110" exp="8540" exp_c="0" gold="11430" ext_id="0" ext_v="0" id="400010" country="0">
+		<target_7 copy_id="20160" times="3" />
+		<goods />
+		<dialog s="我们再去大楼里查探一下，可能会发现秘密！" sr="好的，现在就去！" m="快出发去通关夜闯深居(二)3次吧。" mr="了解！" e="看来这里的主人藏得很深啊。">
+			<ers>
+				<er id="1" d="是啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的草薙京交谈。" desc="通关夜闯深居(二)3次。" over="与东京的草薙京交谈。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="再闯深居(三)" lv="21" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="400120" exp="9640" exp_c="0" gold="12532" ext_id="0" ext_v="0" id="400110" country="0">
+		<target_7 copy_id="20170" times="3" />
+		<goods />
+		<dialog s="我们再去大楼里查探一下，可能会发现秘密！" sr="好的，现在就去！" m="快出发去通关夜闯深居(三)3次吧。" mr="了解！" e="看来这里的主人藏得很深啊。">
+			<ers>
+				<er id="1" d="是啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的草薙京交谈。" desc="通关夜闯深居(三)3次。" over="与东京的草薙京交谈。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="再闯深居(四)" lv="22" accept="0" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="400130" exp="10880" exp_c="0" gold="13470" ext_id="0" ext_v="0" id="400120" country="0">
+		<target_7 copy_id="20171" times="3" />
+		<goods />
+		<dialog s="我们再去大楼里查探一下，可能会发现秘密！！" sr="好的，现在就去！" m="快出发去通关夜闯深居(四)3次吧。" mr="了解！" e="看来这里的主人藏得很深啊。">
+			<ers>
+				<er id="1" d="是啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的草薙京交谈。" desc="通关夜闯深居(四)3次。" over="与东京的草薙京交谈。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="再闯深居(五)" lv="23" accept="0" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="400210" exp="11200" exp_c="0" gold="14560" ext_id="0" ext_v="0" id="400130" country="0">
+		<target_7 copy_id="20172" times="3" />
+		<goods />
+		<dialog s="我们再去大楼里查探一下，可能会发现秘密！！" sr="好的，现在就去！" m="快出发去通关夜闯深居(五)3次吧。" mr="了解！" e="看来这里的主人藏得很深啊。">
+			<ers>
+				<er id="1" d="是啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的草薙京交谈。" desc="通关夜闯深居(五)3次。" over="与东京的草薙京交谈。" />
+		<npc>
+			<s scene="10100" npc="10101" />
+			<e scene="10100" npc="10101" />
+		</npc>
+	</task>
+	<task name="决战东方(一)" lv="24" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="400310" exp="11920" exp_c="0" gold="15496" ext_id="0" ext_v="0" id="400210" country="0">
+		<target_7 copy_id="20180" times="3" />
+		<goods />
+		<dialog s="这些来自中国的选手都拥有出色的实力，和他们比试肯定会变强！" sr="好的，我去和他们切磋一下！" m="他们就在东方之队(一)，快去吧。" mr="了解，这就过去！" e="常和有实力的人交手才能增强实力。">
+			<ers>
+				<er id="1" d="我一定会加倍努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关东方之队(一)3次。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="决战东方(二)" lv="25" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="400410" exp="12640" exp_c="0" gold="16432" ext_id="0" ext_v="0" id="400310" country="0">
+		<target_7 copy_id="20190" times="3" />
+		<goods />
+		<dialog s="这些来自中国的选手都拥有出色的实力，和他们比试肯定会变强！" sr="好的，我去和他们切磋一下！" m="他们就在东方之队(二)，快去吧。" mr="了解，这就过去！" e="常和有实力的人交手才能增强实力。">
+			<ers>
+				<er id="1" d="我一定会加倍努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关东方之队(二)3次。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="决战东方(三)" lv="26" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="400510" exp="13360" exp_c="0" gold="17368" ext_id="0" ext_v="0" id="400410" country="0">
+		<target_7 copy_id="20200" times="3" />
+		<goods />
+		<dialog s="这些来自中国的选手都拥有出色的实力，和他们比试肯定会变强！" sr="好的，我去和他们切磋一下！" m="他们就在东方之队(三)，快去吧。" mr="了解，这就过去！" e="常和有实力的人交手才能增强实力。">
+			<ers>
+				<er id="1" d="我一定会加倍努力的。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关东方之队(三)3次。" over="与东京的二阶堂红丸交谈。 " />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="女格斗家(一)" lv="27" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="400610" exp="14080" exp_c="0" gold="18304" ext_id="0" ext_v="0" id="400510" country="0">
+		<target_7 copy_id="20210" times="3" />
+		<goods />
+		<dialog s="英国队的格斗家虽然都是女性，但是实力超群，和她们交手可以让你适应各种对手！" sr="好的，我去和他们切磋一下！" m="他们就在荣耀之战(一)，快去吧。" mr="了解，这就过去！" e="和不同风格的对手切磋会让你能适应各种战斗。">
+			<ers>
+				<er id="1" d="是啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关荣耀之战(一)3次。" over="与东京的二阶堂红丸交谈。 " />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="女格斗家(二)" lv="28" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="400710" exp="14800" exp_c="0" gold="19430" ext_id="0" ext_v="0" id="400610" country="0">
+		<target_7 copy_id="20220" times="3" />
+		<goods />
+		<dialog s="英国队的格斗家虽然都是女性，但是实力超群，和她们交手可以让你适应各种对手！
+" sr="好的，我去和他们切磋一下！" m="他们就在荣耀之战(二)，快去吧。" mr="了解，这就过去！" e="和不同风格的对手切磋会让你能适应各种战斗。">
+			<ers>
+				<er id="1" d="是啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关荣耀之战(二)3次。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="女格斗家(三)" lv="29" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="400810" exp="15640" exp_c="0" gold="20332" ext_id="0" ext_v="0" id="400710" country="0">
+		<target_7 copy_id="20230" times="3" />
+		<goods />
+		<dialog s="英国队的格斗家虽然都是女性，但是实力超群，和她们交手可以让你适应各种对手！ " sr="好的，我去和他们切磋一下！" m="他们就在荣耀之战(三)，快去吧。" mr="了解，这就过去！" e="和不同风格的对手切磋会让你能适应各种战斗。">
+			<ers>
+				<er id="1" d="是啊。" />
+			</ers>
+		</dialog>
+		<tip pre="与东京的二阶堂红丸交谈。" desc="通关荣耀之战(三)3次。" over="与东京的二阶堂红丸交谈。" />
+		<npc>
+			<s scene="10100" npc="10106" />
+			<e scene="10100" npc="10106" />
+		</npc>
+	</task>
+	<task name="扫荡黑暗(一)" lv="30" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="400910" exp="16360" exp_c="0" gold="21268" ext_id="0" ext_v="0" id="400810" country="0">
+		<target_7 copy_id="20240" times="3" />
+		<goods />
+		<dialog s="绝对不能让这些人再作恶了，去收拾他们吧！" sr="好的，现在就去！" m="他们就在幕后真相(一)，快去吧。" mr="了解，这就过去！" e="这样他们就不能再作恶了。">
+			<ers>
+				<er id="1" d="恶有恶报而已。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关幕后真相(一)3次。" over=" 与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="扫荡黑暗(二)" lv="31" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="401010" exp="17080" exp_c="0" gold="22204" ext_id="0" ext_v="0" id="400910" country="0">
+		<target_7 copy_id="20250" times="3" />
+		<goods />
+		<dialog s="绝对不能让这些人再作恶了，去收拾他们吧！" sr="好的，现在就去！" m="他们就在幕后真相(二)，快去吧。" mr="了解，这就过去！" e="这样他们就不能再作恶了。">
+			<ers>
+				<er id="1" d="恶有恶报而已。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关幕后真相(二)3次。" over="与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+	<task name="扫荡黑暗(三)" lv="32" accept="1" submit="0" is_give_up="0" is_skip="0" is_quick="0" is_guide="1" type="2" loop="1" drama_id="0" pop="0" accept_id="0" accept_v="0" target_t="7" next="300010" exp="17800" exp_c="0" gold="23140" ext_id="0" ext_v="0" id="401010" country="0">
+		<target_7 copy_id="20260" times="3" />
+		<goods />
+		<dialog s="绝对不能让这些人再作恶了，去收拾他们吧！" sr="好的，现在就去！" m="他们就在幕后真相(三)，快去吧。" mr="了解，这就过去！" e="这样他们就不能再作恶了。">
+			<ers>
+				<er id="1" d="恶有恶报而已。" />
+			</ers>
+		</dialog>
+		<tip pre="与南镇的草薙京交谈。" desc="通关幕后真相(三)3次。" over="与南镇的草薙京交谈。" />
+		<npc>
+			<s scene="10200" npc="10131" />
+			<e scene="10200" npc="10131" />
+		</npc>
+	</task>
+</tasks>

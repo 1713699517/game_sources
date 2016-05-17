@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skill_collider>
+    <!--id为0的是无碰撞范围-->
+	<collider id="0" offsetX="0" offsetY="0" offsetZ="0" vWidth="0" vHeight="0" vRange="0"/>
+    
+    <!--id为1的是人形角色被碰范围-->
+	<collider id="1" offsetX="-60" offsetY="0" offsetZ="0" vWidth="120" vHeight="200" vRange="30"/>
+    <!--大体型角色（陈国汉）-->
+	<collider id="2" offsetX="-80" offsetY="0" offsetZ="0" vWidth="160" vHeight="250" vRange="30"/>
+
+    <!--id为1X的是小怪近战近距攻击范围-->
+	<collider id="11" offsetX="-60" offsetY="0" offsetZ="0" vWidth="150" vHeight="230" vRange="25"/>
+	<collider id="12" offsetX="-60" offsetY="0" offsetZ="0" vWidth="200" vHeight="230" vRange="25"/>
+	<collider id="13" offsetX="-60" offsetY="0" offsetZ="0" vWidth="250" vHeight="230" vRange="25"/>
+	<collider id="14" offsetX="-60" offsetY="0" offsetZ="0" vWidth="300" vHeight="230" vRange="25"/>
+	<collider id="15" offsetX="-60" offsetY="0" offsetZ="0" vWidth="350" vHeight="230" vRange="25"/>
+	<collider id="16" offsetX="-60" offsetY="0" offsetZ="0" vWidth="400" vHeight="200" vRange="25"/>
+
+    <!--id为21的是小怪远程近距攻击范围-->
+	<collider id="21" offsetX="0" offsetY="0" offsetZ="0" vWidth="650" vHeight="200" vRange="25"/>
+    <!--id为22的是小怪远程中距攻击范围-->
+	<collider id="22" offsetX="0" offsetY="0" offsetZ="0" vWidth="850" vHeight="200" vRange="25"/>
+    <!--id为23的是小怪远程中距攻击范围-->
+	<collider id="23" offsetX="0" offsetY="0" offsetZ="0" vWidth="1050" vHeight="200" vRange="25"/>
+
+	<collider id="10010" offsetX="-200" offsetY="0" offsetZ="0" vWidth="360" vHeight="200" vRange="30"/>
+	<collider id="10011" offsetX="-100" offsetY="0" offsetZ="0" vWidth="280" vHeight="300" vRange="30"/>
+	<collider id="10012" offsetX="-200" offsetY="0" offsetZ="0" vWidth="360" vHeight="250" vRange="30"/>
+	<collider id="10013" offsetX="-60" offsetY="0" offsetZ="0" vWidth="250" vHeight="200" vRange="30"/>
+	<collider id="10014" offsetX="-100" offsetY="0" offsetZ="0" vWidth="390" vHeight="230" vRange="30"/>
+	<collider id="10015" offsetX="-220" offsetY="0" offsetZ="0" vWidth="500" vHeight="250" vRange="30"/>
+	<collider id="10016" offsetX="-50" offsetY="0" offsetZ="0" vWidth="360" vHeight="260" vRange="30"/>
+
+	<collider id="10020" offsetX="-100" offsetY="0" offsetZ="0" vWidth="300" vHeight="200" vRange="30"/>
+	<collider id="10021" offsetX="-100" offsetY="0" offsetZ="0" vWidth="300" vHeight="200" vRange="30"/>
+	<collider id="10022" offsetX="-170" offsetY="0" offsetZ="0" vWidth="370" vHeight="200" vRange="30"/>
+	<collider id="10023" offsetX="-60" offsetY="0" offsetZ="0" vWidth="250" vHeight="200" vRange="30"/>
+	<collider id="10024" offsetX="-100" offsetY="0" offsetZ="0" vWidth="420" vHeight="160" vRange="30"/>
+	<collider id="10025" offsetX="-160" offsetY="0" offsetZ="0" vWidth="420" vHeight="280" vRange="30"/>
+	<collider id="10026" offsetX="-180" offsetY="0" offsetZ="0" vWidth="420" vHeight="210" vRange="30"/>
+
+	<collider id="10030" offsetX="-70" offsetY="0" offsetZ="0" vWidth="300" vHeight="200" vRange="30"/>
+	<collider id="10031" offsetX="-180" offsetY="0" offsetZ="0" vWidth="440" vHeight="200" vRange="30"/>
+	<collider id="10032" offsetX="-170" offsetY="0" offsetZ="0" vWidth="430" vHeight="250" vRange="30"/>
+	<collider id="10033" offsetX="-60" offsetY="0" offsetZ="0" vWidth="250" vHeight="200" vRange="30"/>
+	<collider id="10034" offsetX="-30" offsetY="0" offsetZ="0" vWidth="680" vHeight="230" vRange="30"/>
+	<collider id="10035" offsetX="-150" offsetY="0" offsetZ="0" vWidth="400" vHeight="230" vRange="30"/>
+	<collider id="10036" offsetX="-140" offsetY="0" offsetZ="0" vWidth="350" vHeight="310" vRange="30"/>
+
+	<collider id="10040" offsetX="-150" offsetY="0" offsetZ="0" vWidth="400" vHeight="200" vRange="30"/>
+	<collider id="10041" offsetX="-160" offsetY="0" offsetZ="0" vWidth="360" vHeight="350" vRange="30"/>
+	<collider id="10042" offsetX="-100" offsetY="0" offsetZ="0" vWidth="420" vHeight="250" vRange="30"/>
+	<collider id="10043" offsetX="-60" offsetY="0" offsetZ="0" vWidth="250" vHeight="200" vRange="30"/>
+	<collider id="10044" offsetX="-60" offsetY="0" offsetZ="0" vWidth="370" vHeight="200" vRange="30"/>
+	<collider id="10045" offsetX="-180" offsetY="0" offsetZ="0" vWidth="360" vHeight="300" vRange="30"/>
+	<collider id="10046" offsetX="-180" offsetY="0" offsetZ="0" vWidth="360" vHeight="300" vRange="30"/>
+
+	<collider id="13010" offsetX="-80" offsetY="0" offsetZ="0" vWidth="200" vHeight="200" vRange="30"/>
+	<collider id="13030" offsetX="-200" offsetY="0" offsetZ="0" vWidth="400" vHeight="320" vRange="30"/>
+	<collider id="13040" offsetX="-150" offsetY="0" offsetZ="0" vWidth="350" vHeight="320" vRange="30"/>
+	<collider id="13050" offsetX="-100" offsetY="0" offsetZ="0" vWidth="400" vHeight="270" vRange="30"/>
+	<collider id="13060" offsetX="-180" offsetY="0" offsetZ="0" vWidth="360" vHeight="230" vRange="40"/>
+	<collider id="13070" offsetX="-250" offsetY="0" offsetZ="0" vWidth="450" vHeight="280" vRange="30"/>
+	<collider id="13100" offsetX="-180" offsetY="0" offsetZ="0" vWidth="330" vHeight="250" vRange="30"/>
+	<collider id="13110" offsetX="0" offsetY="0" offsetZ="0" vWidth="270" vHeight="180" vRange="30"/>
+	<collider id="13150" offsetX="-140" offsetY="0" offsetZ="0" vWidth="380" vHeight="260" vRange="30"/>
+	
+
+	<collider id="13170" offsetX="-180" offsetY="0" offsetZ="0" vWidth="360" vHeight="270" vRange="30"/>
+	<collider id="13190" offsetX="-100" offsetY="0" offsetZ="0" vWidth="320" vHeight="350" vRange="30"/>
+	<collider id="13230" offsetX="-180" offsetY="0" offsetZ="0" vWidth="360" vHeight="280" vRange="30"/>
+
+	<collider id="13251" offsetX="-150" offsetY="0" offsetZ="0" vWidth="260" vHeight="180" vRange="30"/>
+	<collider id="13260" offsetX="-100" offsetY="0" offsetZ="0" vWidth="330" vHeight="180" vRange="30"/>
+
+	<collider id="13310" offsetX="0" offsetY="0" offsetZ="0" vWidth="250" vHeight="180" vRange="30"/>
+
+	<collider id="13350" offsetX="-60" offsetY="0" offsetZ="0" vWidth="530" vHeight="200" vRange="30"/>    
+	<collider id="13360" offsetX="-60" offsetY="0" offsetZ="0" vWidth="310" vHeight="200" vRange="30"/>
+	<collider id="13381" offsetX="-170" offsetY="0" offsetZ="0" vWidth="340" vHeight="270" vRange="30"/>
+
+	<collider id="13410" offsetX="-190" offsetY="0" offsetZ="0" vWidth="420" vHeight="240" vRange="30"/>
+
+	<collider id="14350" offsetX="-48" offsetY="0" offsetZ="0" vWidth="424" vHeight="160" vRange="30"/>
+    
+	<collider id="15160" offsetX="0" offsetY="0" offsetZ="0" vWidth="100" vHeight="100" vRange="30"/>
+
+	<collider id="50001" offsetX="-40" offsetY="0" offsetZ="-6" vWidth="80" vHeight="12" vRange="30"/>
+	<collider id="50002" offsetX="-150" offsetY="0" offsetZ="-160" vWidth="200" vHeight="320" vRange="30"/>
+	<collider id="50003" offsetX="-200" offsetY="0" offsetZ="0" vWidth="300" vHeight="110" vRange="30"/>
+	<collider id="50004" offsetX="-115" offsetY="0" offsetZ="-35" vWidth="230" vHeight="70" vRange="30"/>
+	<collider id="50005" offsetX="-140" offsetY="0" offsetZ="0" vWidth="190" vHeight="120" vRange="30"/>
+	<collider id="50006" offsetX="-130" offsetY="0" offsetZ="-135" vWidth="160" vHeight="170" vRange="30"/>
+	<collider id="50007" offsetX="-85" offsetY="0" offsetZ="-15" vWidth="150" vHeight="30" vRange="30"/>
+	<collider id="50008" offsetX="-40" offsetY="0" offsetZ="-40" vWidth="80" vHeight="80" vRange="30"/>
+	<collider id="50009" offsetX="-100" offsetY="0" offsetZ="0" vWidth="200" vHeight="300" vRange="30"/>
+	<collider id="50010" offsetX="-100" offsetY="0" offsetZ="-60" vWidth="250" vHeight="130" vRange="30"/>
+	<collider id="50011" offsetX="-120" offsetY="0" offsetZ="-90" vWidth="250" vHeight="180" vRange="30"/>
+	<collider id="50012" offsetX="-90" offsetY="0" offsetZ="-50" vWidth="180" vHeight="100" vRange="30"/>
+	<collider id="50013" offsetX="-100" offsetY="0" offsetZ="-90" vWidth="200" vHeight="180" vRange="30"/>
+	<collider id="50014" offsetX="-100" offsetY="0" offsetZ="-40" vWidth="200" vHeight="80" vRange="30"/>
+	<collider id="50015" offsetX="-150" offsetY="0" offsetZ="0" vWidth="300" vHeight="150" vRange="30"/>
+
+	<collider id="53081" offsetX="-50" offsetY="0" offsetZ="-50" vWidth="100" vHeight="100" vRange="30"/>
+	<collider id="53100" offsetX="-100" offsetY="0" offsetZ="0" vWidth="270" vHeight="120" vRange="30"/>
+	<collider id="53121" offsetX="-70" offsetY="0" offsetZ="-70" vWidth="140" vHeight="140" vRange="30"/>
+	<collider id="53131" offsetX="-80" offsetY="0" offsetZ="-110" vWidth="170" vHeight="220" vRange="30"/>
+	<collider id="53140" offsetX="-80" offsetY="0" offsetZ="-110" vWidth="170" vHeight="220" vRange="30"/>
+	<collider id="53151" offsetX="-88" offsetY="0" offsetZ="-53" vWidth="175" vHeight="105" vRange="30"/>
+	<collider id="53161" offsetX="-90" offsetY="0" offsetZ="-40" vWidth="180" vHeight="80" vRange="30"/>
+	<collider id="53170" offsetX="-80" offsetY="0" offsetZ="-140" vWidth="180" vHeight="280" vRange="30"/>
+	<collider id="53180" offsetX="-70" offsetY="0" offsetZ="-40" vWidth="140" vHeight="80" vRange="30"/>
+	<collider id="53181" offsetX="-75" offsetY="0" offsetZ="-35" vWidth="150" vHeight="70" vRange="30"/>
+	<collider id="53190" offsetX="-180" offsetY="0" offsetZ="0" vWidth="330" vHeight="250" vRange="30"/>
+	<collider id="53210" offsetX="-80" offsetY="0" offsetZ="-140" vWidth="180" vHeight="280" vRange="30"/>
+	<collider id="53220" offsetX="-100" offsetY="0" offsetZ="0" vWidth="230" vHeight="130" vRange="30"/>
+	<collider id="53230" offsetX="-80" offsetY="0" offsetZ="-140" vWidth="180" vHeight="280" vRange="30"/>
+	<collider id="53240" offsetX="-100" offsetY="0" offsetZ="0" vWidth="200" vHeight="300" vRange="30"/>
+    <collider id="53291" offsetX="-50" offsetY="0" offsetZ="-50" vWidth="180" vHeight="120" vRange="30"/>
+    <collider id="53340" offsetX="-90" offsetY="0" offsetZ="-75" vWidth="170" vHeight="150" vRange="30"/>
+    <collider id="53370" offsetX="-90" offsetY="0" offsetZ="-50" vWidth="180" vHeight="100" vRange="30"/>
+    <collider id="53401" offsetX="-100" offsetY="0" offsetZ="0" vWidth="220" vHeight="180" vRange="30"/>    
+    
+	<collider id="54140" offsetX="-60" offsetY="0" offsetZ="-95" vWidth="140" vHeight="190" vRange="30"/>
+	<collider id="54161" offsetX="-70" offsetY="0" offsetZ="-30" vWidth="140" vHeight="60" vRange="30"/>
+
+	<collider id="55130" offsetX="-135" offsetY="0" offsetZ="-30" vWidth="260" vHeight="175" vRange="30"/>
+	<!--collider id="50001" offsetX="-40" offsetY="-6" offsetZ="0" vWidth="80" vHeight="12" vRange="30"/-->
+</skill_collider>

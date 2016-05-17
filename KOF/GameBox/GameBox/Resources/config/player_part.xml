@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player_parts>
+	<player_part type="10001">
+		<a attack="4" defense="3" skill="5" describe="使用炎之格斗术的热血青年，正在以站在格斗届顶端的那个格斗家为目标前进。" />
+	</player_part>
+	<player_part type="10002">
+		<a attack="4" defense="4" skill="4" describe="使用棍术的少年，如果你因为他的年轻而小看了他，那肯定会大吃苦头。" />
+	</player_part>
+	<player_part type="10003">
+		<a attack="4" defense="3" skill="5" describe="拥有与她使用的寒冰格斗技一样的冷漠外表，似乎要把每个对手都冻结成寒冰。" />
+	</player_part>
+	<player_part type="10004">
+		<a attack="5" defense="4" skill="3" describe="外表穿着艳丽，能使用扇子等多种忍术进行攻击，身法轻盈飘逸。" />
+	</player_part>
+</player_parts>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arrow_daily_items>
+	<arrow_daily_itemss>
+		<arrow_daily_items items_id="100" items_name="至尊大奖" items_dec="可获得奖励池金额的100%" items_icon="43001" />
+		<arrow_daily_items items_id="101" items_name="至尊大奖*5%" items_dec="可获得奖励池金额的5%" items_icon="43001" />
+		<arrow_daily_items items_id="102" items_name="至尊大奖*10%" items_dec="可获得奖励池金额的10%" items_icon="43001" />
+		<arrow_daily_items items_id="103" items_name="高级宝石" items_dec="可获得各种高级宝石" items_icon="26181" />
+		<arrow_daily_items items_id="104" items_name="美刀" items_dec="可获得大量美刀" items_icon="43001" />
+		<arrow_daily_items items_id="105" items_name="合成卷轴" items_dec="可获得宝石合成卷轴和珍宝卷轴" items_icon="36001" />
+		<arrow_daily_items items_id="106" items_name="各种合成材料" items_dec="可获得珍宝合成材料" items_icon="103" />
+		<arrow_daily_items items_id="107" items_name="钻石" items_dec="可获得钻石" items_icon="43101" />
+	</arrow_daily_itemss>
+</arrow_daily_items>

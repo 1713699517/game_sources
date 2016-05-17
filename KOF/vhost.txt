@@ -1,0 +1,58 @@
+<VirtualHost *:89>
+    ServerName  jjapi.gamecore.cn
+    ServerAlias jjapi2.gamecore.cn jjapi.7pk.cn jjapi2.7pk.cn
+    DocumentRoot "/Users/dreamxyp/Desktop/jjxy/php/jj.jjapi/xy_api/"
+    RewriteEngine On
+    RewriteRule  ^/r/(.*)$  /Users/dreamxyp/Desktop/jjxy/php/jj.jjapi/xy_res/$1 [L]
+    RewriteCond   /Users/dreamxyp/Desktop/jjxy/php/jj.jjapi/xy_api%{REQUEST_FILENAME}  !-f
+    RewriteCond   %{REQUEST_FILENAME} (/api/)
+    RewriteRule   .* /api/index.php     [L]
+    RewriteCond   /Users/dreamxyp/Desktop/jjxy/php/jj.jjapi/xy_api%{REQUEST_FILENAME}  !-f
+    RewriteCond   %{REQUEST_FILENAME} (/cp/)
+    RewriteRule   .* /cp/index.php      [L]
+    RewriteCond   /Users/dreamxyp/Desktop/jjxy/php/jj.jjapi/xy_api%{REQUEST_FILENAME}  !-f
+    RewriteCond   %{REQUEST_FILENAME} (/doc/)
+    RewriteRule   .* /doc/index.php     [L]
+    RewriteCond   /Users/dreamxyp/Desktop/jjxy/php/jj.jjapi/xy_api%{REQUEST_FILENAME}  !-f
+    RewriteRule   .* /index.php         [L]
+</VirtualHost>
+
+
+# -------- 下面是可选 ----------
+<VirtualHost *:89>
+    ServerName    s1.jj.gamecore.cn
+    ServerAlias   s*.jj.gamecore.cn
+    DocumentRoot  "/Users/dreamxyp/Desktop/jjxy/php/jj.jjapi/xy_site/"
+    RewriteEngine On
+    RewriteCond   /Users/dreamxyp/Desktop/jjxy/php/jj.jjapi/xy_site%{REQUEST_FILENAME}  !-f
+    RewriteRule   .* /index.php
+</VirtualHost>
+<VirtualHost *:89>
+    ServerName  jj.gamecore.cn
+    ServerAlias jj2.gamecore.cn jj.7pk.cn jj2.7pk.cn
+    DocumentRoot "/Users/dreamxyp/Desktop/jjxy/php/jj.jjapi/xy_res/"
+    RewriteEngine On
+    # ---- release
+    RewriteRule ^/(\d*)ua/(.*)/(.*)$ /Users/dreamxyp/Desktop/jjxy/cpp/code/update/android_$2/$3 [L]
+    RewriteRule ^/(\d*)ui/(.*)/(.*)$ /Users/dreamxyp/Desktop/jjxy/cpp/code/update/ios_$2/$3 [L]
+    RewriteRule ^/(\d*)s(\d*)/(.*)/(.*)$ /Users/dreamxyp/Desktop/jjxy/cpp/code/material/Sound@$3/$4 [L]
+    RewriteRule ^/(\d*)r(\d*)/(.*)/(.*)$ /Users/dreamxyp/Desktop/jjxy/cpp/code/material/Image@$3/$4 [L]
+    # ---- debug
+    RewriteRule ^/update/(.*)$ /Users/dreamxyp/Desktop/jjxy/cpp/code/update/$1 [L]
+    RewriteRule ^/lua/(.*)$    /Users/dreamxyp/Desktop/jjxy/cpp/code/GameBox/GameBox/Resources/common/$1 [L]
+    RewriteRule ^/xml/(.*)$    /Users/dreamxyp/Desktop/jjxy/cpp/code/GameBox/GameBox/Resources/config/$1 [L]
+    RewriteRule ^/logs/(.*)$   /Users/dreamxyp/Desktop/jjxy/erl/dir.jjxy.logs/$1 [L]
+</VirtualHost>
+
+<VirtualHost *:89>
+    ServerName jjgm.gamecore.cn
+    ServerAlias jjgm2.gamecore.cn
+    DocumentRoot "/Users/dreamxyp/Desktop/jjxy/php/jj.tools/www/"
+    RewriteEngine On
+    RewriteRule ^/r/(.*)$  /Users/dreamxyp/Desktop/jjxy/php/jj.tools/www.res/$1 [L]
+    # ---- release
+    RewriteRule ^/(\d*)ua/(.*)/(.*)$ /Users/dreamxyp/Desktop/jjxy/cpp/code/update/android_$2/$3 [L]
+    RewriteRule ^/(\d*)ui/(.*)/(.*)$ /Users/dreamxyp/Desktop/jjxy/cpp/code/update/ios_$2/$3 [L]
+    RewriteRule ^/(\d*)s(\d*)/(.*)/(.*)$ /Users/dreamxyp/Desktop/jjxy/cpp/code/material/Sound@$3/$4 [L]
+    RewriteRule ^/(\d*)r(\d*)/(.*)/(.*)$ /Users/dreamxyp/Desktop/jjxy/cpp/code/material/Image@$3/$4 [L]
+</VirtualHost>

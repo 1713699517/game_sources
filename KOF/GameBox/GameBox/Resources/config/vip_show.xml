@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vip_shows>
+	<vip_show lv="1" sum="6" count="1" id="1_1">
+		<a begin="累计充值 100钻石 即可成为VIP1" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="1" sum="6" count="2" id="1_2">
+		<a begin="挂机任何副本可获得“S”级奖励" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="1" sum="6" count="3" id="1_3">
+		<a begin="普通关卡挂机立即完成" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="1" sum="6" count="4" id="1_4">
+		<a begin="每日可招财10次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="1" sum="6" count="5" id="1_5">
+		<a begin="每日可刷新魔王副本" mid_1="fiend_times" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="1" sum="6" count="6" id="1_6">
+		<a begin="日常任务可刷新" mid_1="daily_tim" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="2" sum="6" count="1" id="2_1">
+		<a begin="累计充值 500钻石 即可成为VIP2" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="2" sum="6" count="2" id="2_2">
+		<a begin="永久增加体力值上限" mid_1="energy_max" mid_1_word="-1" mid_2="-1" end="点" />
+	</vip_show>
+	<vip_show lv="2" sum="6" count="3" id="2_3">
+		<a begin="永久增加背包10个" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="2" sum="6" count="4" id="2_4">
+		<a begin="每日可购买体力" mid_1="energy_buys" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="2" sum="6" count="5" id="2_5">
+		<a begin="每日可招财12次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="2" sum="6" count="6" id="2_6">
+		<a begin="包含VIP1所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="3" sum="7" count="1" id="3_1">
+		<a begin="累计充值 1000钻石 即可成为VIP3" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="3" sum="7" count="2" id="3_2">
+		<a begin="开启斗气一键觉醒功能" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="3" sum="7" count="3" id="3_3">
+		<a begin="开启斗气钻石觉醒功能" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="3" sum="7" count="4" id="3_4">
+		<a begin="每日可购买精英副本" mid_1="tran_buy" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="3" sum="7" count="5" id="3_5">
+		<a begin="每日可购买体力" mid_1="energy_buys" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="3" sum="7" count="6" id="3_6">
+		<a begin="每日可招财16次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="3" sum="7" count="7" id="3_7">
+		<a begin="包含VIP2所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="4" sum="7" count="1" id="4_1">
+		<a begin="累计充值 2000钻石 即可成为VIP4" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="4" sum="7" count="2" id="4_2">
+		<a begin="精英副本挂机立即完成" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="4" sum="7" count="3" id="4_3">
+		<a begin="开启一键完成日常任务功能" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="4" sum="7" count="4" id="4_4">
+		<a begin="每日可购买体力" mid_1="energy_buys" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="4" sum="7" count="5" id="4_5">
+		<a begin="每日可招财25次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="4" sum="7" count="6" id="4_6">
+		<a begin="每日可购买精英副本" mid_1="tran_buy" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="4" sum="7" count="7" id="4_7">
+		<a begin="包含VIP3所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="5" sum="5" count="1" id="5_1">
+		<a begin="累计充值 5000钻石 即可成为VIP5" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="5" sum="5" count="2" id="5_2">
+		<a begin="永久增加背包10个" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="5" sum="5" count="3" id="5_3">
+		<a begin="每日可购买体力" mid_1="energy_buys" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="5" sum="5" count="4" id="5_4">
+		<a begin="每日可招财40次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="5" sum="5" count="5" id="5_5">
+		<a begin="包含VIP4所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="6" sum="6" count="1" id="6_1">
+		<a begin="累计充值 10000 钻石即可成为VIP6" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="6" sum="6" count="2" id="6_2">
+		<a begin="开启珍宝一键制作功能" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="6" sum="6" count="3" id="6_3">
+		<a begin="每日可购买体力" mid_1="energy_buys" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="6" sum="6" count="4" id="6_4">
+		<a begin="每日可招财50次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="6" sum="6" count="5" id="6_5">
+		<a begin="每日可购买精英副本" mid_1="tran_buy" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="6" sum="6" count="6" id="6_6">
+		<a begin="包含VIP5所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="7" sum="5" count="1" id="7_1">
+		<a begin="累计充值 30000 钻石即可成为VIP7" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="7" sum="5" count="2" id="7_2">
+		<a begin="永久增加背包10个" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="7" sum="5" count="3" id="7_3">
+		<a begin="每日可购买体力" mid_1="energy_buys" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="7" sum="5" count="4" id="7_4">
+		<a begin="每日可招财70次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="7" sum="5" count="5" id="7_5">
+		<a begin="包含VIP6所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="8" sum="5" count="1" id="8_1">
+		<a begin="累计充值 50000 钻石即可成为VIP8" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="8" sum="5" count="2" id="8_2">
+		<a begin="日常任务可刷新" mid_1="daily_tim" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="8" sum="5" count="3" id="8_3">
+		<a begin="每日可招财90次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="8" sum="5" count="4" id="8_4">
+		<a begin="每日可购买精英副本" mid_1="tran_buy" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="8" sum="5" count="5" id="8_5">
+		<a begin="包含VIP7所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="9" sum="5" count="1" id="9_1">
+		<a begin="累计充值 100000 钻石即可成为VIP9" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="9" sum="5" count="2" id="9_2">
+		<a begin="每日可购买体力" mid_1="energy_buys" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="9" sum="5" count="3" id="9_3">
+		<a begin="每日可招财120次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="9" sum="5" count="4" id="9_4">
+		<a begin="每日可购买精英副本" mid_1="tran_buy" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="9" sum="5" count="5" id="9_5">
+		<a begin="包含VIP8所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="10" sum="4" count="1" id="10_1">
+		<a begin="累计充值 200000 钻石即可成为VIP10" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="10" sum="4" count="2" id="10_2">
+		<a begin="每日可招财200次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="10" sum="4" count="3" id="10_3">
+		<a begin="每日可购买精英副本" mid_1="tran_buy" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="10" sum="4" count="4" id="10_4">
+		<a begin="包含VIP9所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="11" sum="4" count="1" id="11_1">
+		<a begin="累计充值 500000 钻石即可成为VIP11" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="11" sum="4" count="2" id="11_2">
+		<a begin="每日可招财400次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="11" sum="4" count="3" id="11_3">
+		<a begin="每日可购买精英副本" mid_1="tran_buy" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="11" sum="4" count="4" id="11_4">
+		<a begin="包含VIP10所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="12" sum="4" count="1" id="12_1">
+		<a begin="累计充值 1000000 钻石即可成为VIP12" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="12" sum="4" count="2" id="12_2">
+		<a begin="每日可购买体力" mid_1="energy_buys" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="12" sum="4" count="3" id="12_3">
+		<a begin="每日可招财600次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="12" sum="4" count="4" id="12_4">
+		<a begin="包含VIP11所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="13" sum="4" count="1" id="13_1">
+		<a begin="累计充值 2000000 钻石即可成为VIP13" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="13" sum="4" count="2" id="13_2">
+		<a begin="每日可购买体力" mid_1="energy_buys" mid_1_word="-1" mid_2="-1" end="次" />
+	</vip_show>
+	<vip_show lv="13" sum="4" count="3" id="13_3">
+		<a begin="每日可招财750次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="13" sum="4" count="4" id="13_4">
+		<a begin="包含VIP12所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="14" sum="4" count="1" id="14_1">
+		<a begin="累计充值 3000000 钻石即可成为VIP14" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="14" sum="4" count="2" id="14_2">
+		<a begin="每日可招财900次" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="14" sum="4" count="3" id="14_3">
+		<a begin="永久增加背包10个" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+	<vip_show lv="14" sum="4" count="4" id="14_4">
+		<a begin="包含VIP13所有特权" mid_1="-1" mid_1_word="-1" mid_2="-1" end="-1" />
+	</vip_show>
+</vip_shows>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logss>
+	<logs id="1001" title="15级礼包" open="113" describe="恭喜你达到15级{nn}赶紧去使用15级礼包吧" arg="Array" />
+	<logs id="1002" title="20级礼包" open="113" describe="恭喜你达到20级{nn}赶紧去使用20级礼包吧" arg="Array" />
+	<logs id="1003" title="25级礼包" open="113" describe="恭喜你达到25级{nn}赶紧去使用25级礼包吧" arg="Array" />
+	<logs id="1004" title="30级礼包" open="113" describe="恭喜你达到30级{nn}赶紧去使用30级礼包吧" arg="Array" />
+	<logs id="1005" title="40级礼包" open="113" describe="恭喜你达到40级{nn}赶紧去使用40级礼包吧" arg="Array" />
+	<logs id="1006" title="50级礼包" open="113" describe="恭喜你达到50级{nn}赶紧去使用50级礼包吧" arg="Array" />
+	<logs id="1101" title="整点体力赠送" open="0" describe="每天12点、18点赠送50额外体力{nn}赶紧去领取吧" arg="Array" />
+	<logs id="1106" title="精英副本开启" open="114" describe="接受精英副本任务{nn}迎接更强挑战吧！" arg="Array" />
+	<logs id="1111" title="社团申请" open="115" describe="有伙伴加入社团，赶快去审核吧！" arg="Array" />
+	<logs id="7000" title="我要变强" open="122" describe="战斗失败，赶紧去增强实力吧" arg="Array" />
+	<logs id="8001" title="竞技挑战" open="106" describe="{$}在竞技场挑战你失败{nn}你的排名不变" arg="Array" />
+	<logs id="8002" title="竞技挑战" open="106" describe="{$}在竞技场挑战你成功{nn}你的排名下降到第{#}名" arg="Array" />
+	<logs id="8005" title="加入社团" open="115" describe="恭喜，{$}社团已通过你的申请！" arg="Array" />
+</logss>

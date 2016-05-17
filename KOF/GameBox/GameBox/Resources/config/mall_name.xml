@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mall_ids>
+	<mall_id mall_id="10" mall_name="商店" vip="6" vip_discount="9000" open_lv="10" open_type="0" open_arg="[]" open_start="0:00" open_end="23:59" explain="商店">
+		<c1 class1_id="1000" class1_name="装备" open1_lv="1" is1_discount="1" />
+		<c2 class2_id="1010" class2_name="宝石卷轴" open2_lv="1" is2_discount="1" />
+		<c3 class3_id="0" class3_name="0" open3_lv="0" is3_discount="0" />
+	</mall_id>
+	<mall_id mall_id="20" mall_name="优惠商店" vip="0" vip_discount="10000" open_lv="1" open_type="0" open_arg="[]" open_start="0:00" open_end="23:59" explain="优惠商店">
+		<c1 class1_id="2000" class1_name="等级优惠" open1_lv="1" is1_discount="1" />
+		<c2 class2_id="2010" class2_name="VIP优惠" open2_lv="1" is2_discount="1" />
+		<c3 class3_id="2020" class3_name="每日特惠" open3_lv="1" is3_discount="1" />
+	</mall_id>
+	<mall_id mall_id="30" mall_name="开服商城" vip="0" vip_discount="10000" open_lv="20" open_type="2" open_arg="[1,2,3,7]" open_start="0:00" open_end="23:59" explain="开服商城">
+		<c1 class1_id="0" class1_name="0" open1_lv="0" is1_discount="0" />
+		<c2 class2_id="0" class2_name="0" open2_lv="0" is2_discount="0" />
+		<c3 class3_id="0" class3_name="0" open3_lv="0" is3_discount="0" />
+	</mall_id>
+	<mall_id mall_id="40" mall_name="装备店铺" vip="0" vip_discount="10000" open_lv="30" open_type="0" open_arg="[]" open_start="0:00" open_end="23:59" explain="装备店铺">
+		<c1 class1_id="0" class1_name="0" open1_lv="0" is1_discount="0" />
+		<c2 class2_id="0" class2_name="0" open2_lv="0" is2_discount="0" />
+		<c3 class3_id="0" class3_name="0" open3_lv="0" is3_discount="0" />
+	</mall_id>
+	<mall_id mall_id="50" mall_name="玉清阁" vip="0" vip_discount="10000" open_lv="30" open_type="0" open_arg="[]" open_start="0:00" open_end="23:59" explain="玉清阁">
+		<c1 class1_id="0" class1_name="0" open1_lv="0" is1_discount="0" />
+		<c2 class2_id="0" class2_name="0" open2_lv="0" is2_discount="0" />
+		<c3 class3_id="0" class3_name="0" open3_lv="0" is3_discount="0" />
+	</mall_id>
+	<mall_id mall_id="60" mall_name="藏宝阁" vip="0" vip_discount="10000" open_lv="30" open_type="0" open_arg="[]" open_start="0:00" open_end="23:59" explain="藏宝阁">
+		<c1 class1_id="0" class1_name="0" open1_lv="0" is1_discount="0" />
+		<c2 class2_id="0" class2_name="0" open2_lv="0" is2_discount="0" />
+		<c3 class3_id="0" class3_name="0" open3_lv="0" is3_discount="0" />
+	</mall_id>
+	<mall_id mall_id="70" mall_name="卡片店铺" vip="0" vip_discount="10000" open_lv="30" open_type="0" open_arg="[]" open_start="0:00" open_end="23:59" explain="卡片店铺">
+		<c1 class1_id="0" class1_name="0" open1_lv="0" is1_discount="0" />
+		<c2 class2_id="0" class2_name="0" open2_lv="0" is2_discount="0" />
+		<c3 class3_id="0" class3_name="0" open3_lv="0" is3_discount="0" />
+	</mall_id>
+	<mall_id mall_id="80" mall_name="积分店铺" vip="0" vip_discount="10000" open_lv="30" open_type="0" open_arg="[]" open_start="0:00" open_end="23:59" explain="积分店铺">
+		<c1 class1_id="0" class1_name="0" open1_lv="0" is1_discount="0" />
+		<c2 class2_id="0" class2_name="0" open2_lv="0" is2_discount="0" />
+		<c3 class3_id="0" class3_name="0" open3_lv="0" is3_discount="0" />
+	</mall_id>
+</mall_ids>

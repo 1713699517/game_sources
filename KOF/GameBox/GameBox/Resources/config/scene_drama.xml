@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene_dramas>
+	<scene_drama id="4001" name="雷鸣闪电" touch="2" arg="20050" touch_arg="2_20050" x="0" y="0">
+		<items>
+			<item id="10302" hand="0" act="1" x="800" y="160" dir="1" name="二阶堂红丸" type="3" />
+			<item id="10302" hand="1" act="2" type="3" dir="4" msg="除了京之外，我还是第一次见到有这样格斗天赋的人，我和大门会一起参加比赛的，我们去酒吧庆祝一下交到你这个朋友吧。" />
+			<item id="-1" hand="0" act="2" type="1" dir="6" msg="两位多多指教了。" />
+			<item id="10302" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4011" name="跆拳大师" touch="2" arg="20110" touch_arg="2_20110" x="0" y="0">
+		<items>
+			<item id="10304" hand="0" act="1" x="800" y="160" dir="1" name="金家潘" type="3" />
+			<item id="10304" hand="1" act="2" type="3" dir="4" msg="我们已经没有必要在打下去了，我宣布我们队正式放弃比赛。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="金家潘，你这是干什么？" />
+			<item id="10304" hand="1" act="2" type="3" dir="4" msg="参加比赛我是想让通过比赛来严格训练他们两个，让他们开辟新的人生道路的。" />
+			<item id="10304" hand="1" act="2" type="3" dir="4" msg="但是通过和你的比赛，他们两个似乎已经了解到了格斗不只是破坏，还有其他更美好的东西。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="没想到你是这样的用心良苦。" />
+			<item id="10304" hand="1" act="2" type="3" dir="4" msg="我们的胜负就留到下次再见面吧，我会让他们两个变强的，下次你就不会这么轻松了。" />
+			<item id="10304" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4021" name="拳击天皇01" touch="1" arg="20140" touch_arg="1_20140" x="0" y="0">
+		<items>
+			<item id="10309" hand="0" act="1" x="800" y="160" dir="1" name="哈维D" type="3" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="听说你打死的汤普森之后，就没人敢再向你提出挑战。" />
+			<item id="10309" hand="1" act="2" type="3" dir="4" msg="游戏已经结束了，不会有出乎意料的结果出现的，我会在1分24秒内解决你的。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="你这句话我已经听腻了，有本事就放马过来吧。" />
+			<item id="10309" hand="1" act="2" type="3" dir="4" msg="汤普森，你在看着吗？这个世界找不到比你更强的对手了。" />
+			<item id="10309" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4031" name="拳击天皇02" touch="2" arg="20140" touch_arg="2_20140" x="0" y="0">
+		<items>
+			<item id="10309" hand="0" act="1" x="800" y="160" dir="1" name="哈维D" type="3" />
+			<item id="10309" hand="1" act="2" type="3" dir="4" msg="输了啊。。。玛丽安、尼克原谅我，没想到输给了你们哥哥以外的对手。" />
+			<item id="10309" hand="1" act="2" type="3" dir="4" msg="你们的哥哥死得非常光荣，这一点希望你们能了解。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="你真的很强，想必那位桑普森也是非常强大，他的家人也不会怨恨你的，希望还有机会和你交手。" />
+			<item id="10309" hand="1" act="2" type="3" dir="4" msg="巴特勒、洛奇我们走吧，要抬起头来，我们不会成为丧家之犬，因为我们是超级巨星！！！" />
+			<item id="10309" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4041" name="深入探秘" touch="1" arg="20150" touch_arg="1_20150" x="0" y="0">
+		<items>
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="9" name="草薙京" type="3" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="这个地方似乎不一般啊，我们到处走走看吧。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="这次似乎可以找到揭开秘密的线索了。" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="看来我们被发现了啊。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="没想到这里竟然有这么多保镖，看来只好打倒他们了。" />
+			<item id="10341" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4051" name="神秘之敌" touch="1" arg="20160" touch_arg="1_20160" x="0" y="0">
+		<items>
+			<item id="10323" hand="0" act="1" x="800" y="160" dir="1" name="麦卓" type="3" />
+			<item id="10323" hand="1" act="2" type="3" dir="4" msg="两位，这里是禁止进入区哦。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="你是什么人？" />
+			<item id="10323" hand="1" act="2" type="3" dir="4" msg="这个问题我没有必要回答，请你们回到宴会现场吧。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="拉尔夫他们到底在哪里？" />
+			<item id="10323" hand="1" act="2" type="3" dir="4" msg="看来又有老鼠溜进来了，请原谅我的无礼，我先行离去了。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="站住。" />
+			<item id="10323" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4061" name="幕后黑手01" touch="1" arg="20170" touch_arg="1_20170" x="0" y="0">
+		<items>
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="9" name="草薙京" type="3" />
+			<item id="10310" hand="0" act="1" x="800" y="160" dir="1" name="卢卡尔" type="3" />
+			<item id="10316" hand="0" act="1" x="880" y="220" dir="1" name="不知火舞" type="3" />
+			<item id="10314" hand="1" act="1" x="880" y="100" dir="1" name="坂崎由莉" type="3" />
+			<item id="10341" hand="0" act="2" type="3" dir="6" msg="舞！！！由莉！！！还有拉尔夫、克拉克。。你们怎么样了。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="那个人是谁！！！" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="今天的客人真不少啊，看来带过来的警卫兵也没什么用，等下全部都解决掉好了。" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="混蛋，你是什么人，快把她们两个放开！！！！" />
+			<item id="10314" hand="0" act="2" type="3" dir="6" msg="不行啊，你们俩个快逃。。。" />
+			<item id="10316" hand="1" act="2" type="3" dir="6" msg="那家伙是个怪物。" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="两位小姐发话了，你们两个打算怎么办呢？" />
+			<item id="-1" hand="0" act="2" type="1" dir="6" msg="闭嘴，我绝对不会就这样放过你的。" />
+			<item id="10341" hand="0" act="4" />
+			<item id="10310" hand="0" act="4" />
+			<item id="10316" hand="0" act="4" />
+			<item id="10314" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4071" name="幕后黑手02" touch="2" arg="20170" touch_arg="2_20170" x="0" y="0">
+		<items>
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="9" name="草薙京" type="3" />
+			<item id="10310" hand="0" act="1" x="800" y="160" dir="1" name="卢卡尔" type="3" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="看你们两个年纪轻轻，身手还不赖，我倒是很期待你们在擂台上的表现。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="好强的人啊。。。" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="你们4个人应该好好感谢他们两个年轻人，今天就先留着你们的命。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="站住！！！！" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="身体就像被扣了一个大铁锁一样动也动不了。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="难道这家伙的存在已经令我们感到恐惧了吗？" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="我的名字叫卢卡尔，我们会再见面的。" />
+			<item id="10310" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4081" name="超能少女" touch="1" arg="20180" touch_arg="1_20180" x="0" y="0">
+		<items>
+			<item id="10313" hand="0" act="1" x="800" y="160" dir="1" name="麻宫雅典娜" type="3" />
+			<item id="10303" hand="0" act="1" x="250" y="160" dir="9" name="大门五郎" type="3" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="大门竟然输给了雅典娜这个小女生了？" />
+			<item id="10313" hand="1" act="2" type="3" dir="4" msg="你们队的实力也就这样吗？" />
+			<item id="10303" hand="1" act="2" type="3" dir="6" msg="一定要小心，她会像仙术之类的“超能力”。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="“超能力”？大门你不会是没睡醒吧。雅典娜，我让你看看主角和配角之间的差距吧。" />
+			<item id="10313" hand="0" act="4" />
+			<item id="10303" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4091" name="醉拳宗师" touch="1" arg="20190" touch_arg="1_20190" x="0" y="0">
+		<items>
+			<item id="10311" hand="0" act="1" x="800" y="160" dir="1" name="镇元斋" type="3" />
+			<item id="10311" hand="1" act="2" type="1" dir="4" msg="年轻人虽然你很厉害，但是这场比赛胜利不属于你的，“轰欄炎炮”！！！！" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="哇啊！！！！！！！" />
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="9" name="草薙京" type="3" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="你先下去吧，让我来吧。老爷爷，很抱歉，我们不能把胜利让给你。因为我必须获得优胜向大会主办人打招呼。" />
+			<item id="10311" hand="1" act="2" type="3" dir="4" msg="呵呵，看来你大概知道幕后黑手的身份了吧。" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="大概吧，接招吧！！！草薙流奥义•大蛇薙！！！！" />
+			<item id="10311" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4101" name="困兽之斗" touch="2" arg="20230" touch_arg="2_20230" x="0" y="0">
+		<items>
+			<item id="10315" hand="0" act="1" x="800" y="160" dir="1" name="金" type="3" />
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="9" name="草薙京" type="3" />
+			<item id="10315" hand="1" act="2" type="1" dir="4" msg="是我输了，这样就结束了吗？" />
+			<item id="10310" hand="0" act="1" x="480" y="160" dir="1" name="卢卡尔" type="3" />
+			<item id="10310" hand="0" act="2" type="3" dir="4" msg="这样可不行哦，你们给我在这里战斗到有一方断气为止吧，都别想逃走。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="你凭什么阻止我们呢？" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="看看你们周围的围栏吧，都是通了高压电的，你以为你们可以逃出去吗?" />
+			<item id="10315" hand="1" act="2" type="3" dir="6" msg="笑话！我们一路来到这里，可不是为了莫名其妙的厮杀的！" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="你们现在落在我的手里，还有反抗的能耐吗？" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="卢卡尔，看来并没有人把你的话当一回事。" />
+			<item id="10302" hand="0" act="1" x="380" y="160" dir="9" name="二阶堂红丸" type="3" />
+			<item id="10302" hand="1" act="2" type="3" dir="6" msg="你以为这样就能困住我们吗？看着吧！！！雷光拳！！！" />
+			<item id="10315" hand="1" act="2" type="3" dir="6" msg="好厉害啊！！" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="别以为你们破坏了围栏就可以逃出这里，你们是绝对逃不掉的。" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4111" name="京的父亲" touch="2" arg="20240" touch_arg="2_20240" x="0" y="0">
+		<items>
+			<item id="10322" hand="0" act="1" x="800" y="160" dir="1" name="草薙柴舟" type="3" />
+			<item id="10302" hand="0" act="1" x="250" y="160" dir="9" name="二阶堂红丸" type="3" />
+			<item id="10341" hand="0" act="1" x="480" y="160" dir="9" name="草薙京" type="3" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="前面那里似乎有一个人。" />
+			<item id="10302" hand="1" act="2" type="3" dir="4" msg="是卢卡尔吗？" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="！！！！爸爸？" />
+			<item id="10322" hand="1" act="2" type="3" dir="4" msg="是京吗？" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="你怎么会在这里？" />
+			<item id="10322" hand="1" act="2" type="3" dir="4" msg="我感觉到了卢卡尔的邪恶气息和知道他的所作所为，想来阻止他，可以他实在是太强了。" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="爸爸，你没事吧，振作点！！！！" />
+			<item id="10322" hand="1" act="2" type="3" dir="4" msg="。。。。。。。" />
+			<item id="10302" hand="1" act="2" type="3" dir="6" msg="京我们先走了，找到离开这里的办法，我们会来找你的。" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4121" name="再会强敌01" touch="1" arg="20250" touch_arg="1_20250" x="0" y="0">
+		<items>
+			<item id="10302" hand="0" act="1" x="250" y="160" dir="9" name="二阶堂红丸" type="3" />
+			<item id="10310" hand="0" act="1" x="800" y="160" dir="1" name="卢卡尔" type="3" />
+			<item id="10302" hand="1" act="2" type="3" dir="6" msg="看来有人可以解答你这个疑问了。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="卢卡尔！！！！" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="欢迎来到我的美术馆，这些都是败在我手下的格斗家，喜欢吗？" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="你这个变态，你就是为了增加收藏品才举办这次大赛的吗？" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="确实如此，那边的几位小姐，我会把你们做成更加美丽的标本的。" />
+			<item id="10302" hand="1" act="2" type="3" dir="6" msg="开什么玩笑，谁会乖乖的去做标本。" />
+			<item id="10323" hand="0" act="1" x="600" y="160" dir="1" name="麦卓" type="3" />
+			<item id="10323" hand="1" act="2" type="3" dir="4" msg="想和卢卡尔先生交手，先过了我这一关吧。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="那时候的那个女人？上次让你逃走了，这次别想跑！" />
+			<item id="10323" hand="0" act="4" />
+			<item id="10310" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4131" name="再会强敌02" touch="2" arg="20250" touch_arg="2_20250" x="0" y="0">
+		<items>
+			<item id="10323" hand="0" act="1" x="800" y="160" dir="1" name="麦卓" type="3" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="你就束手就擒吧。" />
+			<item id="10323" hand="1" act="2" type="3" dir="4" msg="一群笨蛋，真正的恐怖现在才开始呢，后会有期了！" />
+			<item id="10323" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4141" name="恶有恶报01" touch="1" arg="20260" touch_arg="1_20260" x="0" y="0">
+		<items>
+			<item id="10310" hand="0" act="1" x="800" y="160" dir="1" name="卢卡尔" type="3" />
+			<item id="10302" hand="0" act="1" x="450" y="160" dir="9" name="二阶堂红丸" type="3" />
+			<item id="10316" hand="0" act="1" x="250" y="160" dir="9" name="不知火舞" type="3" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="哈哈哈，怎么样，你们就知道这点能耐吗？" />
+			<item id="10316" hand="1" act="2" type="3" dir="6" msg="实在是太强了。" />
+			<item id="10316" hand="1" act="2" type="3" dir="6" msg="难道就这样结束了吗。。。。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="大家别放弃啊。" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="那就来给你们最后一击吧。" />
+			<item id="10341" hand="0" act="1" x="600" y="160" dir="9" name="草薙京" type="3" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="卢卡尔！！！你别把我给忘了。" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="哦,和你爸爸道别过了吗?不过好快你们就会在黄泉路上相见了。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="京，你终于来了啊。" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="真正的战斗现在才开始。" />
+			<item id="10341" hand="0" act="4" />
+			<item id="10310" hand="0" act="4" />
+			<item id="10302" hand="0" act="4" />
+			<item id="10316" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4151" name="恶有恶报02" touch="2" arg="20260" touch_arg="2_20260" x="0" y="0">
+		<items>
+			<item id="10310" hand="0" act="1" x="800" y="160" dir="1" name="卢卡尔" type="3" />
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="9" name="草薙京" type="3" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="你们都别想打败我！！！帝王波！！！！！" />
+			<item id="10313" hand="0" act="1" x="350" y="160" dir="9" name="麻宫雅典娜" type="3" />
+			<item id="10313" hand="1" act="2" type="3" dir="6" msg="京，小心！！！！" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="雅典娜？？？你怎么在这里。" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="你以为这种程度的障壁可以挡住我吗？" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="还有我们呢！！！！！" />
+			<item id="10302" hand="0" act="1" x="350" y="250" dir="9" name="二阶堂红丸" type="3" />
+			<item id="10316" hand="0" act="1" x="350" y="60" dir="9" name="不知火舞" type="3" />
+			<item id="10314" hand="0" act="1" x="250" y="250" dir="9" name="坂崎由莉" type="3" />
+			<item id="10302" hand="1" act="2" type="3" dir="6" msg="雷光拳！！！" />
+			<item id="10316" hand="1" act="2" type="3" dir="6" msg="忍蜂！！！" />
+			<item id="10314" hand="1" act="2" type="3" dir="6" msg="霸王翔吼拳！！！" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="卢卡尔，你输定了！！！里八百式•大蛇薙！！！" />
+			<item id="10310" hand="0" act="2" type="3" dir="4" msg="不可能，我不可能会输的，我一定会复活的。" />
+			<item id="10317" hand="0" act="1" x="900" y="160" dir="1" name="哈迪伦" type="3" />
+			<item id="10317" hand="1" act="2" type="3" dir="6" msg="一切都结束了，卢卡尔，到地狱去偿还你的罪孽吧。" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="你们都别想活着离开，我要和你们同归于尽！！" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4161" name="特种刀锋" touch="1" arg="20280" touch_arg="1_20280" x="0" y="0">
+		<items>
+			<item id="10317" hand="0" act="1" x="800" y="160" dir="1" name="哈迪伦" type="3" />
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="9" name="草薙京" type="3" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="哈迪伦，你们这是什么意思？" />
+			<item id="10317" hand="1" act="2" type="3" dir="4" msg="草薙京，一年没见了，让我看看你是不是沦落成一个暗杀者了。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="暗杀者？你在胡说什么？" />
+			<item id="10341" hand="0" act="4" />
+			<item id="10317" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4171" name="京的宿敌" touch="2" arg="20320" touch_arg="2_20320" x="0" y="0">
+		<items>
+			<item id="10319" hand="0" act="1" x="800" y="160" dir="1" name="八神庵" type="3" />
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="9" name="草薙京" type="3" />
+			<item id="10319" hand="1" act="2" type="3" dir="4" msg="虽然你还不赖，但是游戏到此为止了。" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="先吃我这招。" />
+			<item id="10319" hand="1" act="2" type="3" dir="4" msg="京，你也来送死了吗？" />
+			<item id="10317" hand="0" act="1" x="480" y="160" dir="9" name="哈迪伦" type="3" />
+			<item id="10317" hand="1" act="2" type="3" dir="6" msg="你们两个都停手吧，犯人不是他，八神你也停手吧。" />
+			<item id="10319" hand="1" act="2" type="3" dir="4" msg="哼，不和你们闹了，我先走了。" />
+			<item id="10319" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4181" name="棍王比利" touch="2" arg="20340" touch_arg="2_20340" x="0" y="0">
+		<items>
+			<item id="10320" hand="0" act="1" x="800" y="160" dir="1" name="比利" type="3" />
+			<item id="10319" hand="0" act="1" x="250" y="160" dir="9" name="八神庵" type="3" />
+			<item id="10320" hand="1" act="2" type="3" dir="4" msg="不愧是八神流的传人和格斗之王大赛的冠军，实力果然强劲。" />
+			<item id="10319" hand="1" act="2" type="3" dir="6" msg="有什么事赶紧说。" />
+			<item id="10320" hand="1" act="2" type="3" dir="4" msg="其实我是想邀请两位组队参加格斗之王大赛，有两位在，我们肯定可以拿到冠军的。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="不好意思，我已经有队友了。" />
+			<item id="10320" hand="1" act="2" type="3" dir="4" msg="我还邀请了这个叫如月影二的忍者一起组队。" />
+			<item id="10319" hand="1" act="2" type="3" dir="6" msg="和我比一场吧，让我看看到底够不够资格和我组队。" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4191" name="疾风黑影" touch="2" arg="20350" touch_arg="2_20350" x="0" y="0">
+		<items>
+			<item id="10321" hand="0" act="1" x="800" y="160" dir="1" name="如月影二" type="3" />
+			<item id="10319" hand="0" act="1" x="250" y="160" dir="9" name="八神庵" type="3" />
+			<item id="10321" hand="1" act="2" type="3" dir="4" msg="果然厉害，和你这样的人组队去参赛，我应该可以和极限流那帮人决一胜负了。" />
+			<item id="10319" hand="1" act="2" type="3" dir="6" msg="你们还不赖，我决定和你们组队参赛了，这样就可以和京那家伙好好打一场了。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="你这是什么意思？" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4201" name="两条道路" touch="2" arg="20370" touch_arg="2_20370" x="0" y="0">
+		<items>
+			<item id="10317" hand="0" act="1" x="800" y="160" dir="1" name="哈迪伦" type="3" />
+			<item id="10317" hand="1" act="2" type="3" dir="4" msg="事到如此，后面的事就只好交给你们了，如果出现什么情况，我们会出手帮你们的。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="放心吧，我们可不是那种能被轻易击败的人。" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4211" name="决赛遇险" touch="2" arg="20380" touch_arg="2_20380" x="0" y="0">
+		<items>
+			<item id="10319" hand="0" act="1" x="800" y="160" dir="1" name="八神庵" type="3" />
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="1" name="草薙京" type="3" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="这个人到底是怎么回事，在他身上感受到的气与众不同。" />
+			<item id="10319" hand="1" act="2" type="3" dir="4" msg="哈哈哈，除了京之外竟然还有如此有趣的人，别停手啊。" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="外面好像有什么飞进来了？炸弹？" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="好困。。。。是催眠瓦斯。。。。" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4221" name="地下牢狱" touch="2" arg="20390" touch_arg="2_20390" x="0" y="0">
+		<items>
+			<item id="10339" hand="0" act="1" x="800" y="160" dir="1" name="拉尔夫" type="3" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="是拉尔夫吗？你怎么在这里？" />
+			<item id="10339" hand="1" act="2" type="3" dir="4" msg="在你们比赛的时候，我们在休息室里中了催眠瓦斯，醒来就在这里地方了。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="哈迪伦呢？" />
+			<item id="10339" hand="1" act="2" type="3" dir="4" msg="醒来的时候队长已经不在了，可能被关押到了其他地方。" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4231" name="解救众人" touch="2" arg="20400" touch_arg="2_20400" x="0" y="0">
+		<items>
+			<item id="10330" hand="0" act="1" x="800" y="160" dir="1" name="特瑞" type="3" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="竟然连“传说中的饿狼”都被捉了。" />
+			<item id="10330" hand="1" act="2" type="3" dir="4" msg="我们在观看你们的比赛的时候，中了催眠瓦斯，醒来的时候就被关在这里了。" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4241" name="意外真相" touch="1" arg="20410" touch_arg="1_20410" x="0" y="0">
+		<items>
+			<item id="10322" hand="0" act="1" x="800" y="160" dir="1" name="草薙柴舟" type="3" />
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="9" name="草薙京" type="3" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="前面有两个人在打斗，那个是哈迪伦，他也逃出来了啊，还有一个人是？" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="父亲！！！？？？" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="京的父亲不是应该和卢卡尔一起在航母。。。。。" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="父亲，我是京啊，你在干什么？" />
+			<item id="10322" hand="1" act="2" type="3" dir="4" msg="........" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="看来他是被控制了，现在只有把他打倒一条路了。" />
+			<item id="10322" hand="0" act="4" />
+			<item id="10341" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4251" name="黑暗狂徒01" touch="1" arg="20440" touch_arg="1_20440" x="0" y="0">
+		<items>
+			<item id="10310" hand="0" act="1" x="800" y="160" dir="1" name="卢卡尔" type="3" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="哈哈哈，很久不见了，上次被你们打败的痛楚现在还记忆犹新啊。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="你不是应该在航母爆炸中死掉了吗？你的身体怎么变成机械了？" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="为了向你们复仇，我获得了新的力量，你们不可能再打败我了。" />
+			<item id="10310" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4261" name="黑暗狂徒02" touch="2" arg="20440" touch_arg="2_20440" x="0" y="0">
+		<items>
+			<item id="10310" hand="0" act="1" x="800" y="160" dir="1" name="卢卡尔" type="3" />
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="9" name="草薙京" type="3" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="你们以为这样就可以打败我了吗？太天真了！！！！！" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="这股力量是什么，太强大了。我的身体竟然恐惧得动都不能动。" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="你们就乖乖的受死吧，我会把你们都变成我的收藏品的。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="难道这次真的完了吗？" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="啊~~~~~~~~这是怎么回事，我的身体！！！" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="看来他的身体承受不了这么强大的力量，被这股力量反噬了。" />
+			<item id="10310" hand="1" act="2" type="3" dir="4" msg="你们别以为我死了一切都结束了，给我这股力量的人，会给你们带来更大的噩梦，你们是逃不了的。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="卢卡尔！！！！告诉我，我父亲去哪里了！！！！" />
+			<item id="10310" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4271" name="新手操作指引1" touch="1" arg="50001" touch_arg="1_50001" x="0" y="0">
+		<items>
+			<item id="10341" hand="0" act="1" x="800" y="160" dir="1" name="草薙京" type="3" />
+			<item id="10341" hand="1" act="2" type="3" dir="4" msg="没想到我们两个也会面对面站在这里啊。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="你一直是我的目标，憧憬着有一天会超越你，现在就是机会了，来一决胜负吧。" />
+			<item id="10341" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4281" name="新手操作指引2" touch="2" arg="50001" touch_arg="2_50001" x="0" y="0">
+		<items>
+			<item id="10341" hand="0" act="1" x="800" y="160" dir="1" name="草薙京" type="3" />
+			<item id="10341" hand="1" act="2" type="3" dir="4" msg="没想到你已经变得这么强了，看来只有你可以对付那帮从过去来的人了。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="来自过去的人？" />
+			<item id="10341" hand="1" act="2" type="3" dir="4" msg="他们是一个自称“遥远彼之地”的神秘种族，企图复活大蛇。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="不管是谁，我都不会让他的阴谋得逞的。" />
+			<item id="10341" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4291" name="密林袭击" touch="2" arg="20470" touch_arg="2_20470" x="0" y="0">
+		<items>
+			<item id="10324" hand="0" act="1" x="800" y="160" dir="1" name="高尼茨" type="3" />
+			<item id="10341" hand="0" act="1" x="250" y="160" dir="9" name="草薙京" type="3" />
+			<item id="10324" hand="1" act="2" type="3" dir="4" msg="这就是守护者家族的力量？太不堪一击了。" />
+			<item id="10341" hand="1" act="2" type="3" dir="6" msg="你到底是什么人？" />
+			<item id="10324" hand="1" act="2" type="3" dir="4" msg="想知道就击败我吧，但是对你们来说，这是根本不可能的。暂时留着你们的性命，再见。" />
+			<item id="10324" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4301" name="意外来客" touch="2" arg="20500" touch_arg="2_20500" x="0" y="0">
+		<items>
+			<item id="10325" hand="0" act="1" x="800" y="160" dir="1" name="薇思" type="3" />
+			<item id="10319" hand="0" act="1" x="250" y="160" dir="9" name="八神庵" type="3" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="我记得你是卢卡尔的秘书。" />
+			<item id="10319" hand="1" act="2" type="3" dir="6" msg="说吧，有什么事？" />
+			<item id="10325" hand="1" act="2" type="1" dir="4" msg="我是来邀请八神你一起组队参加格斗之王大赛的" />
+			<item id="10319" hand="0" act="2" type="3" dir="6" msg="我为什么要答应你呢？" />
+			<item id="10325" hand="0" act="2" type="3" dir="4" msg="我可以协助你打败草薙京，我也邀请草薙京的前队友红丸，他为了向草薙京证明自己，接受了我的邀请。" />
+			<item id="10319" hand="0" act="2" type="3" dir="6" msg="打败京吗？这个理由我可以接受，而且有红丸加入，一定会在比赛中遇到京的。" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4311" name="黑道霸主(一)" touch="2" arg="20540" touch_arg="2_20540" x="0" y="0">
+		<items>
+			<item id="10339" hand="0" act="1" x="800" y="160" dir="1" name="拉尔夫" type="3" />
+			<item id="10339" hand="1" act="2" type="3" dir="4" msg="莉安娜住手，他们不是敌人。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="拉尔夫？还有克拉克也在啊。" />
+			<item id="10339" hand="1" act="2" type="3" dir="4" msg="哟，好久不见了。" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4321" name="黑道霸主(二)" touch="1" arg="20550" touch_arg="1_20550" x="0" y="0">
+		<items>
+			<item id="10320" hand="0" act="1" x="800" y="160" dir="1" name="比利" type="3" />
+			<item id="10320" hand="1" act="2" type="3" dir="4" msg="躲在那里的人出来吧，我已经看到你们了。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="原来你是吉斯的手下啊，看来上次比赛你找我们组队也有另有目的。" />
+			<item id="10320" hand="1" act="2" type="3" dir="4" msg="你们来干什么？" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="我们是来你老大的。" />
+			<item id="10320" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4331" name="黑道霸主(三)" touch="1" arg="20560" touch_arg="1_20560" x="0" y="0">
+		<items>
+			<item id="10327" hand="0" act="1" x="800" y="160" dir="1" name="吉斯" type="3" />
+			<item id="10327" hand="1" act="2" type="3" dir="4" msg="我好像不记得今天有邀请这么多客人。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="我们听说你参加了格斗之王大赛，特意前来拜访的。" />
+			<item id="10327" hand="1" act="2" type="3" dir="4" msg="竟敢找上门来，看来是有备而来啊。" />
+			<item id="10327" hand="0" act="4" />
+		</items>
+	</scene_drama>
+	<scene_drama id="4351" name="心灵缺口" touch="2" arg="20590" touch_arg="2_20590" x="0" y="0">
+		<items>
+			<item id="10316" hand="0" act="1" x="800" y="160" dir="1" name="不知火舞" type="3" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="舞，你怎么突然攻击我们了？" />
+			<item id="10316" hand="1" act="2" type="3" dir="4" msg="刚刚我出来的时候遇到了一个穿着神父装束的男人，之后发生了什么，我全都忘记了。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="果然是那个男人啊，但这是什么力量呢。" />
+			<item id="10330" hand="0" act="1" x="500" y="160" dir="9" name="特瑞" type="3" />
+			<item id="10330" hand="1" act="2" type="3" dir="6" msg="舞原来你在这里，京你们也在啊，出事了。" />
+		</items>
+	</scene_drama>
+	<scene_drama id="40172" name="黑道霸主(四)" touch="2" arg="20560" touch_arg="2_20560" x="0" y="0">
+		<items>
+			<item id="10327" hand="0" act="1" x="800" y="160" dir="1" name="吉斯" type="3" />
+			<item id="10313" hand="0" act="1" x="450" y="160" dir="1" name="麻宫雅典娜" type="3" />
+			<item id="10327" hand="1" act="2" type="3" dir="4" msg="看来有两下子，吃我这招。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="雅典娜，小心后面！！！" />
+			<item id="10323" hand="0" act="1" x="550" y="160" dir="9" name="麦卓" type="3" />
+			<item id="10323" hand="1" act="2" type="3" dir="6" msg="啊。。。。" />
+			<item id="10313" hand="1" act="2" type="3" dir="6" msg="麦卓，你没事吧。" />
+			<item id="-1" hand="1" act="2" type="1" dir="6" msg="已经确定了他是本人了，我们先撤退吧。" />
+		</items>
+	</scene_drama>
+</scene_dramas>

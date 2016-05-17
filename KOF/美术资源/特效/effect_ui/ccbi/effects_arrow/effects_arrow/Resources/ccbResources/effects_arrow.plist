@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>effects_arrow_00.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{106,116}}</string>
+                <key>offset</key>
+                <string>{5,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{12,2},{106,116}}</string>
+                <key>sourceSize</key>
+                <string>{120,120}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>effects_arrow.pvr.ccz</string>
+            <key>size</key>
+            <string>{110,120}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:95262d66231aa4f94203d55570ee8102$</string>
+            <key>textureFileName</key>
+            <string>effects_arrow.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fight_gas_opens>
+	<fight_gas_open seal_id="1" open_lv="1" set_x="172" set_y="412" />
+	<fight_gas_open seal_id="2" open_lv="1" set_x="365" set_y="412" />
+	<fight_gas_open seal_id="3" open_lv="1" set_x="424" set_y="228" />
+	<fight_gas_open seal_id="4" open_lv="30" set_x="270" set_y="115" />
+	<fight_gas_open seal_id="5" open_lv="40" set_x="117" set_y="228" />
+	<fight_gas_open seal_id="6" open_lv="50" set_x="18" set_y="360" />
+	<fight_gas_open seal_id="7" open_lv="60" set_x="269" set_y="545" />
+	<fight_gas_open seal_id="8" open_lv="60" set_x="520" set_y="360" />
+</fight_gas_opens>

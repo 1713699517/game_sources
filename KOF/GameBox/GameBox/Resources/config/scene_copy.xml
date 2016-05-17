@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene_copys>
+	<scene_copy copy_id="20010" copy_name="初次试练(一)" img="10102" powerful_boss="300" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11100" key_id="20010" pre_copy_id="0" next_copy_id="20020" lv="1" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20010" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20020" copy_name="初次试练(二)" img="10102" powerful_boss="301" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11100" key_id="20020" pre_copy_id="20010" next_copy_id="20030" lv="2" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20020" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20030" copy_name="初次试练(三)" img="10102" powerful_boss="302" powerful="1" desc="10301" copy_type="1" type_sub="1" belong_id="11100" key_id="20030" pre_copy_id="20020" next_copy_id="20040" lv="3" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20030" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20040" copy_name="宿命之友(一)" img="10103" powerful_boss="303" powerful="1" desc="10303" copy_type="1" type_sub="1" belong_id="11100" key_id="20040" pre_copy_id="20030" next_copy_id="20050" lv="5" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20040" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20050" copy_name="宿命之友(二)" img="10103" powerful_boss="304" powerful="1" desc="10302" copy_type="1" type_sub="1" belong_id="11100" key_id="20050" pre_copy_id="20040" next_copy_id="20060" lv="6" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20050" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20060" copy_name="劫持事件(一)" img="10104" powerful_boss="305" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11200" key_id="20060" pre_copy_id="0" next_copy_id="20070" lv="8" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20060" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20070" copy_name="劫持事件(二)" img="10104" powerful_boss="306" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11200" key_id="20070" pre_copy_id="20060" next_copy_id="20080" lv="9" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20070" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20080" copy_name="劫持事件(三)" img="10104" powerful_boss="307" powerful="1" desc="10318" copy_type="1" type_sub="1" belong_id="11200" key_id="20080" pre_copy_id="20070" next_copy_id="20090" lv="10" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20080" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20090" copy_name="初次出战(一)" img="10107" powerful_boss="300" powerful="1" desc="10305" copy_type="1" type_sub="1" belong_id="11200" key_id="20090" pre_copy_id="20080" next_copy_id="20100" lv="12" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20090" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20100" copy_name="初次出战(二)" img="10107" powerful_boss="301" powerful="1" desc="10306" copy_type="1" type_sub="1" belong_id="11200" key_id="20100" pre_copy_id="20090" next_copy_id="20110" lv="13" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20100" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20110" copy_name="初次出战(三)" img="10107" powerful_boss="302" powerful="1" desc="10304" copy_type="1" type_sub="1" belong_id="11200" key_id="20110" pre_copy_id="20100" next_copy_id="20120" lv="14" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20110" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20120" copy_name="巨星之战(一)" img="10105" powerful_boss="303" powerful="1" desc="10307" copy_type="1" type_sub="1" belong_id="11200" key_id="20120" pre_copy_id="20110" next_copy_id="20130" lv="15" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20120" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20130" copy_name="巨星之战(二)" img="10105" powerful_boss="304" powerful="1" desc="10308" copy_type="1" type_sub="1" belong_id="11200" key_id="20130" pre_copy_id="20120" next_copy_id="20140" lv="16" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20130" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20140" copy_name="巨星之战(三)" img="10105" powerful_boss="305" powerful="1" desc="10309" copy_type="1" type_sub="1" belong_id="11200" key_id="20140" pre_copy_id="20130" next_copy_id="20150" lv="17" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20140" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20150" copy_name="夜闯深居(一)" img="10110" powerful_boss="306" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11300" key_id="20150" pre_copy_id="0" next_copy_id="20160" lv="18" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20150" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20160" copy_name="夜闯深居(二)" img="10110" powerful_boss="307" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11300" key_id="20160" pre_copy_id="20150" next_copy_id="20170" lv="20" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20160" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20170" copy_name="夜闯深居(三)" img="10110" powerful_boss="300" powerful="1" desc="10310" copy_type="1" type_sub="1" belong_id="11300" key_id="20170" pre_copy_id="20160" next_copy_id="20171" lv="21" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20170" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20180" copy_name="东方之队(一)" img="10111" powerful_boss="301" powerful="1" desc="10313" copy_type="1" type_sub="1" belong_id="11300" key_id="20180" pre_copy_id="20172" next_copy_id="20190" lv="24" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20180" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20190" copy_name="东方之队(二)" img="10111" powerful_boss="302" powerful="1" desc="10311" copy_type="1" type_sub="1" belong_id="11300" key_id="20190" pre_copy_id="20180" next_copy_id="20200" lv="25" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20190" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20200" copy_name="东方之队(三)" img="10111" powerful_boss="303" powerful="1" desc="10312" copy_type="1" type_sub="1" belong_id="11300" key_id="20200" pre_copy_id="20190" next_copy_id="20210" lv="26" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20200" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20210" copy_name="荣耀之战(一)" img="10108" powerful_boss="304" powerful="1" desc="10314" copy_type="1" type_sub="1" belong_id="11300" key_id="20210" pre_copy_id="20200" next_copy_id="20220" lv="27" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20210" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20220" copy_name="荣耀之战(二)" img="10108" powerful_boss="305" powerful="1" desc="10316" copy_type="1" type_sub="1" belong_id="11300" key_id="20220" pre_copy_id="20210" next_copy_id="20230" lv="28" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20220" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20230" copy_name="荣耀之战(三)" img="10108" powerful_boss="306" powerful="1" desc="10315" copy_type="1" type_sub="1" belong_id="11300" key_id="20230" pre_copy_id="20220" next_copy_id="20240" lv="29" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20230" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20240" copy_name="幕后真相(一)" img="10109" powerful_boss="307" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11300" key_id="20240" pre_copy_id="20230" next_copy_id="20250" lv="30" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20240" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20250" copy_name="幕后真相(二)" img="10109" powerful_boss="304" powerful="1" desc="10323" copy_type="1" type_sub="1" belong_id="11300" key_id="20250" pre_copy_id="20240" next_copy_id="20260" lv="31" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20250" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20260" copy_name="幕后真相(三)" img="10109" powerful_boss="305" powerful="1" desc="10310" copy_type="1" type_sub="1" belong_id="11300" key_id="20260" pre_copy_id="20250" next_copy_id="20270" lv="32" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20260" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20270" copy_name="通缉密令(一)" img="10106" powerful_boss="306" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11400" key_id="20270" pre_copy_id="0" next_copy_id="20280" lv="34" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20270" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20280" copy_name="通缉密令(二)" img="10106" powerful_boss="307" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11400" key_id="20280" pre_copy_id="20270" next_copy_id="20290" lv="35" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20280" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20290" copy_name="通缉密令(三)" img="10106" powerful_boss="304" powerful="1" desc="10317" copy_type="1" type_sub="1" belong_id="11400" key_id="20290" pre_copy_id="20280" next_copy_id="20300" lv="36" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20290" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20300" copy_name="幽冥之焰(一)" img="10112" powerful_boss="305" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11400" key_id="20300" pre_copy_id="20290" next_copy_id="20310" lv="38" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20300" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20310" copy_name="幽冥之焰(二)" img="10112" powerful_boss="306" powerful="1" desc="10318" copy_type="1" type_sub="1" belong_id="11400" key_id="20310" pre_copy_id="20300" next_copy_id="20320" lv="39" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20310" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20320" copy_name="幽冥之焰(三)" img="10112" powerful_boss="307" powerful="1" desc="10319" copy_type="1" type_sub="1" belong_id="11400" key_id="20320" pre_copy_id="20310" next_copy_id="20330" lv="40" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20320" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20330" copy_name="神秘之人(一)" img="10113" powerful_boss="308" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11400" key_id="20330" pre_copy_id="20320" next_copy_id="20340" lv="42" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20330" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20340" copy_name="神秘之人(二)" img="10113" powerful_boss="309" powerful="1" desc="10320" copy_type="1" type_sub="1" belong_id="11400" key_id="20340" pre_copy_id="20330" next_copy_id="20350" lv="43" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20340" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20350" copy_name="神秘之人(三)" img="10113" powerful_boss="310" powerful="1" desc="10321" copy_type="1" type_sub="1" belong_id="11400" key_id="20350" pre_copy_id="20340" next_copy_id="20360" lv="44" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20350" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20360" copy_name="荣耀再临(一)" img="10107" powerful_boss="311" powerful="1" desc="10304" copy_type="1" type_sub="1" belong_id="11500" key_id="20360" pre_copy_id="0" next_copy_id="20370" lv="46" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20360" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20370" copy_name="荣耀再临(二)" img="10107" powerful_boss="312" powerful="1" desc="10317" copy_type="1" type_sub="1" belong_id="11500" key_id="20370" pre_copy_id="20360" next_copy_id="20380" lv="47" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20370" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20380" copy_name="荣耀再临(三)" img="10107" powerful_boss="313" powerful="1" desc="10319" copy_type="1" type_sub="1" belong_id="11500" key_id="20380" pre_copy_id="20370" next_copy_id="20390" lv="48" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20380" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20390" copy_name="烈焰大师(一)" img="10122" powerful_boss="314" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11500" key_id="20390" pre_copy_id="20380" next_copy_id="20400" lv="49" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20390" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20400" copy_name="烈焰大师(二)" img="10122" powerful_boss="315" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11500" key_id="20400" pre_copy_id="20390" next_copy_id="20410" lv="50" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20400" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20410" copy_name="烈焰大师(三)" img="10122" powerful_boss="316" powerful="1" desc="10322" copy_type="1" type_sub="1" belong_id="11500" key_id="20410" pre_copy_id="20400" next_copy_id="20420" lv="51" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20410" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20420" copy_name="大蛇之力(一)" img="10114" powerful_boss="317" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11500" key_id="20420" pre_copy_id="20410" next_copy_id="20430" lv="53" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20420" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20430" copy_name="大蛇之力(二)" img="10114" powerful_boss="318" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11500" key_id="20430" pre_copy_id="20420" next_copy_id="20440" lv="54" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20430" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20440" copy_name="大蛇之力(三)" img="10114" powerful_boss="319" powerful="1" desc="10310" copy_type="1" type_sub="1" belong_id="11500" key_id="20440" pre_copy_id="20430" next_copy_id="20450" lv="55" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20440" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20450" copy_name="密林袭击(一)" img="10115" powerful_boss="320" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11600" key_id="20450" pre_copy_id="0" next_copy_id="20460" lv="59" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20450" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20460" copy_name="密林袭击(二)" img="10115" powerful_boss="321" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11600" key_id="20460" pre_copy_id="20450" next_copy_id="20470" lv="61" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20460" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30010" copy_name="精英●黑帮头目" img="10102" powerful_boss="314" powerful="1" desc="10301" copy_type="2" type_sub="1" belong_id="13100" key_id="30010" pre_copy_id="0" next_copy_id="30020" lv="20" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30010" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30020" copy_name="精英●大门五郎" img="10103" powerful_boss="315" powerful="1" desc="10303" copy_type="2" type_sub="1" belong_id="13100" key_id="30020" pre_copy_id="30010" next_copy_id="30030" lv="20" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30020" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30030" copy_name="精英●金家潘" img="10107" powerful_boss="314" powerful="1" desc="10304" copy_type="2" type_sub="1" belong_id="13100" key_id="30030" pre_copy_id="30020" next_copy_id="30040" lv="20" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30030" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30040" copy_name="精英●陈国汉" img="10107" powerful_boss="315" powerful="1" desc="10305" copy_type="2" type_sub="1" belong_id="13100" key_id="30040" pre_copy_id="30030" next_copy_id="30050" lv="20" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30040" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30050" copy_name="精英●蔡宝健" img="10107" powerful_boss="314" powerful="1" desc="10306" copy_type="2" type_sub="1" belong_id="13100" key_id="30050" pre_copy_id="30040" next_copy_id="0" lv="20" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30050" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30060" copy_name="精英●二阶堂红丸" img="10103" powerful_boss="315" powerful="1" desc="10302" copy_type="2" type_sub="1" belong_id="13200" key_id="30060" pre_copy_id="0" next_copy_id="30070" lv="30" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30060" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30070" copy_name="精英●巴特勒" img="10105" powerful_boss="315" powerful="1" desc="10307" copy_type="2" type_sub="1" belong_id="13200" key_id="30070" pre_copy_id="30060" next_copy_id="30080" lv="30" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30070" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32010" copy_name="魔王●大门五郎" img="10103" powerful_boss="318" powerful="1" desc="10303" copy_type="3" type_sub="1" belong_id="15100" key_id="32010" pre_copy_id="0" next_copy_id="32020" lv="25" lv_max="999" fast_lv="45" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32010" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32020" copy_name="魔王●金家潘" img="10107" powerful_boss="319" powerful="1" desc="10304" copy_type="3" type_sub="1" belong_id="15100" key_id="32020" pre_copy_id="32010" next_copy_id="32030" lv="25" lv_max="999" fast_lv="45" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32020" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32030" copy_name="魔王●陈国汉" img="10107" powerful_boss="318" powerful="1" desc="10305" copy_type="3" type_sub="1" belong_id="15100" key_id="32030" pre_copy_id="32020" next_copy_id="32040" lv="25" lv_max="999" fast_lv="45" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32030" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32040" copy_name="魔王●蔡宝健" img="10107" powerful_boss="319" powerful="1" desc="10306" copy_type="3" type_sub="1" belong_id="15100" key_id="32040" pre_copy_id="32030" next_copy_id="0" lv="25" lv_max="999" fast_lv="45" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32040" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32050" copy_name="魔王●巴特勒" img="10105" powerful_boss="318" powerful="1" desc="10307" copy_type="3" type_sub="1" belong_id="15200" key_id="32050" pre_copy_id="0" next_copy_id="32060" lv="35" lv_max="999" fast_lv="55" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32050" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32060" copy_name="魔王●洛奇" img="10105" powerful_boss="319" powerful="1" desc="10308" copy_type="3" type_sub="1" belong_id="15200" key_id="32060" pre_copy_id="32050" next_copy_id="32070" lv="35" lv_max="999" fast_lv="55" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32060" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32070" copy_name="魔王●哈维D" img="10105" powerful_boss="319" powerful="1" desc="10309" copy_type="3" type_sub="1" belong_id="15200" key_id="32070" pre_copy_id="32060" next_copy_id="32080" lv="35" lv_max="999" fast_lv="55" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32070" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40100" copy_name="决斗祭坛1" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40100" pre_copy_id="0" next_copy_id="40110" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40100" />
+			<scene id="40101" />
+			<scene id="40102" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40110" copy_name="决斗祭坛2" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40110" pre_copy_id="40100" next_copy_id="40120" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40110" />
+			<scene id="40111" />
+			<scene id="40112" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40120" copy_name="决斗祭坛3" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40120" pre_copy_id="40110" next_copy_id="40130" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40120" />
+			<scene id="40121" />
+			<scene id="40122" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40130" copy_name="决斗祭坛4" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40130" pre_copy_id="40120" next_copy_id="40140" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40130" />
+			<scene id="40131" />
+			<scene id="40132" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40140" copy_name="决斗祭坛5" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40140" pre_copy_id="40130" next_copy_id="40150" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40140" />
+			<scene id="40141" />
+			<scene id="40142" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40150" copy_name="决斗祭坛6" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40150" pre_copy_id="40140" next_copy_id="40160" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40150" />
+			<scene id="40151" />
+			<scene id="40152" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40160" copy_name="决斗祭坛7" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40160" pre_copy_id="40150" next_copy_id="40170" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40160" />
+			<scene id="40161" />
+			<scene id="40162" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40170" copy_name="决斗祭坛8" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40170" pre_copy_id="40160" next_copy_id="40180" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40170" />
+			<scene id="40171" />
+			<scene id="40172" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30080" copy_name="精英●洛奇" img="10105" powerful_boss="315" powerful="1" desc="10308" copy_type="2" type_sub="1" belong_id="13200" key_id="30080" pre_copy_id="30070" next_copy_id="30090" lv="30" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30080" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40180" copy_name="决斗祭坛9" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40180" pre_copy_id="40170" next_copy_id="40190" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40180" />
+			<scene id="40181" />
+			<scene id="40182" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40190" copy_name="决斗祭坛10" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40190" pre_copy_id="40180" next_copy_id="40200" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40190" />
+			<scene id="40191" />
+			<scene id="40192" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40200" copy_name="决斗祭坛11" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40200" pre_copy_id="40190" next_copy_id="40210" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40200" />
+			<scene id="40201" />
+			<scene id="40202" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40210" copy_name="决斗祭坛12" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40210" pre_copy_id="40200" next_copy_id="40220" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40210" />
+			<scene id="40211" />
+			<scene id="40212" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="50001" copy_name="初次战斗副本" img="0" powerful_boss="0" powerful="0" desc="10310" copy_type="1" type_sub="1" belong_id="0" key_id="0" pre_copy_id="40200" next_copy_id="0" lv="1" lv_max="999" fast_lv="0" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="0">
+		<scenes>
+			<scene id="50001" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="34010" copy_name="社团副本1" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="5" type_sub="1" belong_id="34010" key_id="34010" pre_copy_id="0" next_copy_id="0" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="34010" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="34020" copy_name="社团副本2" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="5" type_sub="1" belong_id="34020" key_id="34020" pre_copy_id="0" next_copy_id="0" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="34020" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="34030" copy_name="社团副本3" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="5" type_sub="1" belong_id="34030" key_id="34030" pre_copy_id="0" next_copy_id="0" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="34030" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20171" copy_name="夜闯深居(四)" img="10110" powerful_boss="300" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11300" key_id="20171" pre_copy_id="20170" next_copy_id="20172" lv="22" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20171" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30090" copy_name="精英●哈维D" img="10105" powerful_boss="315" powerful="1" desc="10309" copy_type="2" type_sub="1" belong_id="13200" key_id="30090" pre_copy_id="30080" next_copy_id="30100" lv="30" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30090" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30100" copy_name="精英●卢卡尔" img="10109" powerful_boss="315" powerful="1" desc="10310" copy_type="2" type_sub="1" belong_id="13200" key_id="30100" pre_copy_id="30090" next_copy_id="0" lv="30" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30100" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30110" copy_name="精英●镇元斋" img="10111" powerful_boss="315" powerful="1" desc="10311" copy_type="2" type_sub="1" belong_id="13300" key_id="30110" pre_copy_id="0" next_copy_id="30120" lv="40" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30110" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30120" copy_name="精英●椎拳崇" img="10111" powerful_boss="315" powerful="1" desc="10312" copy_type="2" type_sub="1" belong_id="13300" key_id="30120" pre_copy_id="30110" next_copy_id="30130" lv="40" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30120" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30130" copy_name="精英●麻宫雅典娜" img="10111" powerful_boss="315" powerful="1" desc="10313" copy_type="2" type_sub="1" belong_id="13300" key_id="30130" pre_copy_id="30120" next_copy_id="30140" lv="40" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30130" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30140" copy_name="精英●坂崎由莉" img="10108" powerful_boss="315" powerful="1" desc="10314" copy_type="2" type_sub="1" belong_id="13300" key_id="30140" pre_copy_id="30130" next_copy_id="30150" lv="40" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30140" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30150" copy_name="精英●不知火舞" img="10108" powerful_boss="315" powerful="1" desc="10316" copy_type="2" type_sub="1" belong_id="13300" key_id="30150" pre_copy_id="30140" next_copy_id="0" lv="40" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30150" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30160" copy_name="精英●金" img="10108" powerful_boss="315" powerful="1" desc="10315" copy_type="2" type_sub="1" belong_id="13400" key_id="30160" pre_copy_id="0" next_copy_id="30170" lv="50" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30160" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="34040" copy_name="社团副本4" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="5" type_sub="1" belong_id="34040" key_id="34040" pre_copy_id="0" next_copy_id="0" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="34040" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="34050" copy_name="社团副本5" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="5" type_sub="1" belong_id="34050" key_id="34050" pre_copy_id="0" next_copy_id="0" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="34050" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="34060" copy_name="社团副本6" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="5" type_sub="1" belong_id="34060" key_id="34060" pre_copy_id="0" next_copy_id="0" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="34060" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="34070" copy_name="社团副本7" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="5" type_sub="1" belong_id="34070" key_id="34070" pre_copy_id="0" next_copy_id="0" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="34070" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="34080" copy_name="社团副本8" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="5" type_sub="1" belong_id="34080" key_id="34080" pre_copy_id="0" next_copy_id="0" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="34080" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="34090" copy_name="社团副本9" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="5" type_sub="1" belong_id="34090" key_id="34090" pre_copy_id="0" next_copy_id="0" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="34090" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="34100" copy_name="社团副本10" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="5" type_sub="1" belong_id="34100" key_id="34100" pre_copy_id="0" next_copy_id="0" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="34100" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20172" copy_name="夜闯深居(五)" img="10110" powerful_boss="300" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11300" key_id="20172" pre_copy_id="20171" next_copy_id="20180" lv="23" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20172" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20470" copy_name="密林袭击(三)" img="10115" powerful_boss="321" powerful="1" desc="10324" copy_type="1" type_sub="1" belong_id="11600" key_id="20470" pre_copy_id="20460" next_copy_id="20480" lv="62" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20470" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20480" copy_name="意外来客(一)" img="10116" powerful_boss="322" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11600" key_id="20480" pre_copy_id="20470" next_copy_id="20490" lv="65" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20480" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20490" copy_name="意外来客(二)" img="10116" powerful_boss="323" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11600" key_id="20490" pre_copy_id="20480" next_copy_id="20500" lv="66" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20490" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20500" copy_name="意外来客(三)" img="10116" powerful_boss="324" powerful="1" desc="10325" copy_type="1" type_sub="1" belong_id="11600" key_id="20500" pre_copy_id="20490" next_copy_id="20510" lv="67" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20500" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20510" copy_name="忠诚试练(一)" img="10111" powerful_boss="325" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11600" key_id="20510" pre_copy_id="20500" next_copy_id="20520" lv="69" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20510" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20520" copy_name="忠诚试练(二)" img="10111" powerful_boss="326" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11600" key_id="20520" pre_copy_id="20510" next_copy_id="20530" lv="70" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20520" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20530" copy_name="忠诚试练(三)" img="10111" powerful_boss="327" powerful="1" desc="10323" copy_type="1" type_sub="1" belong_id="11600" key_id="20530" pre_copy_id="20520" next_copy_id="20540" lv="71" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20530" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20540" copy_name="黑道霸主(一)" img="10104" powerful_boss="328" powerful="1" desc="10328" copy_type="1" type_sub="1" belong_id="11600" key_id="20540" pre_copy_id="20530" next_copy_id="20550" lv="72" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20540" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20550" copy_name="黑道霸主(二)" img="10104" powerful_boss="329" powerful="1" desc="10320" copy_type="1" type_sub="1" belong_id="11600" key_id="20550" pre_copy_id="20540" next_copy_id="20560" lv="73" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20550" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20560" copy_name="黑道霸主(三)" img="10104" powerful_boss="330" powerful="1" desc="10327" copy_type="1" type_sub="1" belong_id="11600" key_id="20560" pre_copy_id="20550" next_copy_id="20570" lv="74" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20560" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20570" copy_name="心灵缺口(一)" img="10117" powerful_boss="331" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11700" key_id="20570" pre_copy_id="0" next_copy_id="20580" lv="76" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20570" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20580" copy_name="心灵缺口(二)" img="10117" powerful_boss="332" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11700" key_id="20580" pre_copy_id="20570" next_copy_id="20590" lv="77" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20580" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20590" copy_name="心灵缺口(三)" img="10117" powerful_boss="333" powerful="1" desc="10316" copy_type="1" type_sub="1" belong_id="11700" key_id="20590" pre_copy_id="20580" next_copy_id="20600" lv="78" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20590" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="20600" copy_name="暴走之风(一)" img="10118" powerful_boss="334" powerful="1" desc="0" copy_type="1" type_sub="1" belong_id="11700" key_id="20600" pre_copy_id="20590" next_copy_id="0" lv="80" lv_max="999" fast_lv="0" fast_vip="1" is_team="0" time="0" use_energy="5" times_max_day="0">
+		<scenes>
+			<scene id="20600" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30210" copy_name="精英●如月影二" img="10113" powerful_boss="315" powerful="1" desc="10321" copy_type="2" type_sub="1" belong_id="13500" key_id="30210" pre_copy_id="0" next_copy_id="30220" lv="60" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30210" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30170" copy_name="精英●哈迪伦" img="10106" powerful_boss="315" powerful="1" desc="10317" copy_type="2" type_sub="1" belong_id="13400" key_id="30170" pre_copy_id="30160" next_copy_id="30180" lv="50" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30170" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30180" copy_name="精英●特工头子" img="10112" powerful_boss="315" powerful="1" desc="10318" copy_type="2" type_sub="1" belong_id="13400" key_id="30180" pre_copy_id="30170" next_copy_id="30190" lv="50" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30180" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30190" copy_name="精英●比利" img="10113" powerful_boss="315" powerful="1" desc="10320" copy_type="2" type_sub="1" belong_id="13400" key_id="30190" pre_copy_id="30180" next_copy_id="30200" lv="50" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30190" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30200" copy_name="精英●八神庵" img="10112" powerful_boss="315" powerful="1" desc="10319" copy_type="2" type_sub="1" belong_id="13400" key_id="30200" pre_copy_id="30190" next_copy_id="0" lv="50" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30200" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32080" copy_name="魔王●卢卡尔" img="10109" powerful_boss="319" powerful="1" desc="10310" copy_type="3" type_sub="1" belong_id="15200" key_id="32080" pre_copy_id="32070" next_copy_id="0" lv="35" lv_max="999" fast_lv="55" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32080" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32090" copy_name="魔王●椎拳崇" img="10111" powerful_boss="319" powerful="1" desc="10312" copy_type="3" type_sub="1" belong_id="15300" key_id="32090" pre_copy_id="0" next_copy_id="32100" lv="45" lv_max="999" fast_lv="65" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32090" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32100" copy_name="魔王●麻宫雅典娜" img="10111" powerful_boss="319" powerful="1" desc="10313" copy_type="3" type_sub="1" belong_id="15300" key_id="32100" pre_copy_id="32090" next_copy_id="32110" lv="45" lv_max="999" fast_lv="65" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32100" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32110" copy_name="魔王●坂崎由莉" img="10108" powerful_boss="319" powerful="1" desc="10314" copy_type="3" type_sub="1" belong_id="15300" key_id="32110" pre_copy_id="32100" next_copy_id="32120" lv="45" lv_max="999" fast_lv="65" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32110" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32120" copy_name="魔王●不知火舞" img="10108" powerful_boss="319" powerful="1" desc="10316" copy_type="3" type_sub="1" belong_id="15300" key_id="32120" pre_copy_id="32110" next_copy_id="0" lv="45" lv_max="999" fast_lv="65" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32120" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30220" copy_name="精英●草薙柴舟" img="10122" powerful_boss="315" powerful="1" desc="10322" copy_type="2" type_sub="1" belong_id="13500" key_id="30220" pre_copy_id="30210" next_copy_id="30230" lv="60" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30220" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30230" copy_name="精英●麦卓" img="10114" powerful_boss="315" powerful="1" desc="10323" copy_type="2" type_sub="1" belong_id="13500" key_id="30230" pre_copy_id="30220" next_copy_id="30240" lv="60" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30230" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30240" copy_name="精英●高尼茨" img="10119" powerful_boss="315" powerful="1" desc="10324" copy_type="2" type_sub="1" belong_id="13500" key_id="30240" pre_copy_id="30230" next_copy_id="30250" lv="60" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30240" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30250" copy_name="精英●薇思" img="10116" powerful_boss="315" powerful="1" desc="10325" copy_type="2" type_sub="1" belong_id="13500" key_id="30250" pre_copy_id="30240" next_copy_id="0" lv="60" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30250" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30260" copy_name="精英●矢吹真吾" img="10115" powerful_boss="315" powerful="1" desc="10326" copy_type="2" type_sub="1" belong_id="13600" key_id="30260" pre_copy_id="0" next_copy_id="30270" lv="70" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30260" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30270" copy_name="精英●吉斯" img="10119" powerful_boss="315" powerful="1" desc="10327" copy_type="2" type_sub="1" belong_id="13600" key_id="30270" pre_copy_id="30260" next_copy_id="30280" lv="70" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30270" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30280" copy_name="精英●莉安娜" img="10119" powerful_boss="315" powerful="1" desc="10328" copy_type="2" type_sub="1" belong_id="13600" key_id="30280" pre_copy_id="30270" next_copy_id="30290" lv="70" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30280" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30290" copy_name="精英●山崎龙二" img="10105" powerful_boss="315" powerful="1" desc="10329" copy_type="2" type_sub="1" belong_id="13600" key_id="30290" pre_copy_id="30280" next_copy_id="30300" lv="70" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30290" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="30300" copy_name="精英●特瑞" img="10105" powerful_boss="315" powerful="1" desc="10330" copy_type="2" type_sub="1" belong_id="13600" key_id="30300" pre_copy_id="30290" next_copy_id="0" lv="70" lv_max="999" fast_lv="0" fast_vip="3" is_team="1" time="0" use_energy="10" times_max_day="0">
+		<scenes>
+			<scene id="30300" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32130" copy_name="魔王●哈迪伦" img="10106" powerful_boss="319" powerful="1" desc="10317" copy_type="3" type_sub="1" belong_id="15400" key_id="32130" pre_copy_id="0" next_copy_id="32140" lv="55" lv_max="999" fast_lv="75" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32130" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32140" copy_name="魔王●特工头子" img="10112" powerful_boss="319" powerful="1" desc="10318" copy_type="3" type_sub="1" belong_id="15400" key_id="32140" pre_copy_id="32130" next_copy_id="32150" lv="55" lv_max="999" fast_lv="75" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32140" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32150" copy_name="魔王●比利" img="10113" powerful_boss="319" powerful="1" desc="10320" copy_type="3" type_sub="1" belong_id="15400" key_id="32150" pre_copy_id="32140" next_copy_id="32160" lv="55" lv_max="999" fast_lv="75" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32150" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32160" copy_name="魔王●八神庵" img="10112" powerful_boss="319" powerful="1" desc="10319" copy_type="3" type_sub="1" belong_id="15400" key_id="32160" pre_copy_id="32150" next_copy_id="0" lv="55" lv_max="999" fast_lv="75" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32160" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32170" copy_name="魔王●草薙柴舟" img="10122" powerful_boss="319" powerful="1" desc="10322" copy_type="3" type_sub="1" belong_id="15500" key_id="32170" pre_copy_id="0" next_copy_id="32180" lv="65" lv_max="999" fast_lv="85" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32170" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32180" copy_name="魔王●麦卓" img="10114" powerful_boss="319" powerful="1" desc="10323" copy_type="3" type_sub="1" belong_id="15500" key_id="32180" pre_copy_id="32170" next_copy_id="32190" lv="65" lv_max="999" fast_lv="85" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32180" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32190" copy_name="魔王●高尼茨" img="10119" powerful_boss="319" powerful="1" desc="10324" copy_type="3" type_sub="1" belong_id="15500" key_id="32190" pre_copy_id="32180" next_copy_id="32200" lv="65" lv_max="999" fast_lv="85" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32190" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32200" copy_name="魔王●薇思" img="10116" powerful_boss="319" powerful="1" desc="10325" copy_type="3" type_sub="1" belong_id="15500" key_id="32200" pre_copy_id="32190" next_copy_id="0" lv="65" lv_max="999" fast_lv="85" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32200" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32210" copy_name="魔王●吉斯" img="10119" powerful_boss="319" powerful="1" desc="10327" copy_type="3" type_sub="1" belong_id="15600" key_id="32210" pre_copy_id="0" next_copy_id="32220" lv="75" lv_max="999" fast_lv="95" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32210" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32220" copy_name="魔王●莉安娜" img="10119" powerful_boss="319" powerful="1" desc="10328" copy_type="3" type_sub="1" belong_id="15600" key_id="32220" pre_copy_id="32210" next_copy_id="32230" lv="75" lv_max="999" fast_lv="95" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32220" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32230" copy_name="魔王●山崎龙二" img="10105" powerful_boss="319" powerful="1" desc="10329" copy_type="3" type_sub="1" belong_id="15600" key_id="32230" pre_copy_id="32220" next_copy_id="32240" lv="75" lv_max="999" fast_lv="95" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32230" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="32240" copy_name="魔王●特瑞" img="10105" powerful_boss="319" powerful="1" desc="10330" copy_type="3" type_sub="1" belong_id="15600" key_id="32240" pre_copy_id="32230" next_copy_id="0" lv="75" lv_max="999" fast_lv="95" fast_vip="1" is_team="1" time="0" use_energy="15" times_max_day="1">
+		<scenes>
+			<scene id="32240" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40220" copy_name="决斗祭坛13" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40220" pre_copy_id="40210" next_copy_id="40230" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40213" />
+			<scene id="40214" />
+			<scene id="40215" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40230" copy_name="决斗祭坛14" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40230" pre_copy_id="40220" next_copy_id="40240" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40216" />
+			<scene id="40217" />
+			<scene id="40218" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40240" copy_name="决斗祭坛15" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40240" pre_copy_id="40230" next_copy_id="40250" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40219" />
+			<scene id="40220" />
+			<scene id="40221" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40250" copy_name="决斗祭坛16" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40250" pre_copy_id="40240" next_copy_id="40260" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40222" />
+			<scene id="40223" />
+			<scene id="40224" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40260" copy_name="决斗祭坛17" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40260" pre_copy_id="40250" next_copy_id="40270" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40225" />
+			<scene id="40226" />
+			<scene id="40227" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40270" copy_name="决斗祭坛18" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40270" pre_copy_id="40260" next_copy_id="40280" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40228" />
+			<scene id="40229" />
+			<scene id="40230" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40280" copy_name="决斗祭坛19" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40280" pre_copy_id="40270" next_copy_id="40290" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40231" />
+			<scene id="40232" />
+			<scene id="40233" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40290" copy_name="决斗祭坛20" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40290" pre_copy_id="40280" next_copy_id="40300" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40234" />
+			<scene id="40235" />
+			<scene id="40236" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40300" copy_name="决斗祭坛21" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40300" pre_copy_id="40290" next_copy_id="40310" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40237" />
+			<scene id="40238" />
+			<scene id="40239" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40310" copy_name="决斗祭坛22" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40310" pre_copy_id="40300" next_copy_id="40320" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40240" />
+			<scene id="40241" />
+			<scene id="40242" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40320" copy_name="决斗祭坛23" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40320" pre_copy_id="40310" next_copy_id="40330" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40243" />
+			<scene id="40244" />
+			<scene id="40245" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40330" copy_name="决斗祭坛24" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40330" pre_copy_id="40320" next_copy_id="40340" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40246" />
+			<scene id="40247" />
+			<scene id="40248" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40340" copy_name="决斗祭坛25" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40340" pre_copy_id="40330" next_copy_id="40350" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40249" />
+			<scene id="40250" />
+			<scene id="40251" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40350" copy_name="决斗祭坛26" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40350" pre_copy_id="40340" next_copy_id="40360" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40252" />
+			<scene id="40253" />
+			<scene id="40254" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40360" copy_name="决斗祭坛27" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40360" pre_copy_id="40350" next_copy_id="40370" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40255" />
+			<scene id="40256" />
+			<scene id="40257" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40370" copy_name="决斗祭坛28" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40370" pre_copy_id="40360" next_copy_id="40380" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40258" />
+			<scene id="40259" />
+			<scene id="40260" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40380" copy_name="决斗祭坛29" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40380" pre_copy_id="40370" next_copy_id="40390" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40261" />
+			<scene id="40262" />
+			<scene id="40263" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40390" copy_name="决斗祭坛30" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40390" pre_copy_id="40380" next_copy_id="40400" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40264" />
+			<scene id="40265" />
+			<scene id="40266" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40400" copy_name="决斗祭坛31" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40400" pre_copy_id="40390" next_copy_id="40410" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40267" />
+			<scene id="40268" />
+			<scene id="40269" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40410" copy_name="决斗祭坛32" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40410" pre_copy_id="40400" next_copy_id="40420" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40270" />
+			<scene id="40271" />
+			<scene id="40272" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40420" copy_name="决斗祭坛33" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40420" pre_copy_id="40410" next_copy_id="40430" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40273" />
+			<scene id="40274" />
+			<scene id="40275" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40430" copy_name="决斗祭坛34" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40430" pre_copy_id="40420" next_copy_id="40440" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40276" />
+			<scene id="40277" />
+			<scene id="40278" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40440" copy_name="决斗祭坛35" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40440" pre_copy_id="40430" next_copy_id="40450" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40279" />
+			<scene id="40280" />
+			<scene id="40281" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40450" copy_name="决斗祭坛36" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40450" pre_copy_id="40440" next_copy_id="40460" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40282" />
+			<scene id="40283" />
+			<scene id="40284" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40460" copy_name="决斗祭坛37" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40460" pre_copy_id="40450" next_copy_id="40470" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40285" />
+			<scene id="40286" />
+			<scene id="40287" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40470" copy_name="决斗祭坛38" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40470" pre_copy_id="40460" next_copy_id="40480" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40288" />
+			<scene id="40289" />
+			<scene id="40290" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40480" copy_name="决斗祭坛39" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40480" pre_copy_id="40470" next_copy_id="40490" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40291" />
+			<scene id="40292" />
+			<scene id="40293" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40490" copy_name="决斗祭坛40" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40490" pre_copy_id="40480" next_copy_id="40500" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40294" />
+			<scene id="40295" />
+			<scene id="40296" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40500" copy_name="决斗祭坛41" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40500" pre_copy_id="40490" next_copy_id="40510" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40297" />
+			<scene id="40298" />
+			<scene id="40299" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40510" copy_name="决斗祭坛42" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40510" pre_copy_id="40500" next_copy_id="40520" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40300" />
+			<scene id="40301" />
+			<scene id="40302" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40520" copy_name="决斗祭坛43" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40520" pre_copy_id="40510" next_copy_id="40530" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40303" />
+			<scene id="40304" />
+			<scene id="40305" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40530" copy_name="决斗祭坛44" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40530" pre_copy_id="40520" next_copy_id="40540" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40306" />
+			<scene id="40307" />
+			<scene id="40308" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40540" copy_name="决斗祭坛45" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40540" pre_copy_id="40530" next_copy_id="40550" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40309" />
+			<scene id="40310" />
+			<scene id="40311" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40550" copy_name="决斗祭坛46" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40550" pre_copy_id="40540" next_copy_id="40560" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40312" />
+			<scene id="40313" />
+			<scene id="40314" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40560" copy_name="决斗祭坛47" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40560" pre_copy_id="40550" next_copy_id="40570" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40315" />
+			<scene id="40316" />
+			<scene id="40317" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40570" copy_name="决斗祭坛48" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40570" pre_copy_id="40560" next_copy_id="40580" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40318" />
+			<scene id="40319" />
+			<scene id="40320" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40580" copy_name="决斗祭坛49" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40580" pre_copy_id="40570" next_copy_id="40590" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40321" />
+			<scene id="40322" />
+			<scene id="40323" />
+		</scenes>
+		<drama />
+	</scene_copy>
+	<scene_copy copy_id="40590" copy_name="决斗祭坛50" img="0" powerful_boss="319" powerful="1" desc="0" copy_type="4" type_sub="1" belong_id="17100" key_id="40590" pre_copy_id="40580" next_copy_id="0" lv="1" lv_max="999" fast_lv="1" fast_vip="0" is_team="0" time="0" use_energy="0" times_max_day="1">
+		<scenes>
+			<scene id="40324" />
+			<scene id="40325" />
+			<scene id="40326" />
+		</scenes>
+		<drama />
+	</scene_copy>
+</scene_copys>

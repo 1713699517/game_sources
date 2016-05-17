@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equip_makes>
+	<equip_make id="1001" str_need="20" lv_last="10" lv_last2="0">
+		<make1 goods="1011" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="1011" str_need="40" lv_last="30" lv_last2="0">
+		<make1 goods="1021" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="1021" str_need="60" lv_last="50" lv_last2="0">
+		<make1 goods="1031" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="1031" str_need="80" lv_last="70" lv_last2="0">
+		<make1 goods="1041" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="2001" str_need="20" lv_last="10" lv_last2="0">
+		<make1 goods="2011" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="2011" str_need="40" lv_last="30" lv_last2="0">
+		<make1 goods="2021" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="2021" str_need="60" lv_last="50" lv_last2="0">
+		<make1 goods="2031" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="2031" str_need="80" lv_last="70" lv_last2="0">
+		<make1 goods="2041" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="3001" str_need="20" lv_last="10" lv_last2="0">
+		<make1 goods="3011" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="3011" str_need="40" lv_last="30" lv_last2="0">
+		<make1 goods="3021" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="3021" str_need="60" lv_last="50" lv_last2="0">
+		<make1 goods="3031" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="3031" str_need="80" lv_last="70" lv_last2="0">
+		<make1 goods="3041" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="4011" str_need="20" lv_last="10" lv_last2="0">
+		<make1 goods="4021" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="4021" str_need="40" lv_last="30" lv_last2="0">
+		<make1 goods="4031" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="4031" str_need="60" lv_last="50" lv_last2="0">
+		<make1 goods="4041" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="4041" str_need="80" lv_last="70" lv_last2="0">
+		<make1 goods="4051" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="5011" str_need="20" lv_last="10" lv_last2="0">
+		<make1 goods="5021" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="5021" str_need="40" lv_last="30" lv_last2="0">
+		<make1 goods="5031" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="5031" str_need="60" lv_last="50" lv_last2="0">
+		<make1 goods="5041" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="5041" str_need="80" lv_last="70" lv_last2="0">
+		<make1 goods="5051" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="6001" str_need="20" lv_last="10" lv_last2="0">
+		<make1 goods="6011" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="6011" str_need="40" lv_last="30" lv_last2="0">
+		<make1 goods="6021" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="6021" str_need="60" lv_last="50" lv_last2="0">
+		<make1 goods="6031" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="6031" str_need="80" lv_last="70" lv_last2="0">
+		<make1 goods="6041" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="7001" str_need="20" lv_last="10" lv_last2="0">
+		<make1 goods="7011" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="7011" str_need="40" lv_last="30" lv_last2="0">
+		<make1 goods="7021" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="7021" str_need="60" lv_last="50" lv_last2="0">
+		<make1 goods="7031" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="7031" str_need="80" lv_last="70" lv_last2="0">
+		<make1 goods="7041" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="8001" str_need="20" lv_last="10" lv_last2="0">
+		<make1 goods="8011" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="8011" str_need="40" lv_last="30" lv_last2="0">
+		<make1 goods="8021" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="8021" str_need="60" lv_last="50" lv_last2="0">
+		<make1 goods="8031" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="8031" str_need="80" lv_last="70" lv_last2="0">
+		<make1 goods="8041" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="9001" str_need="20" lv_last="10" lv_last2="0">
+		<make1 goods="9011" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="9011" str_need="40" lv_last="30" lv_last2="0">
+		<make1 goods="9021" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="9021" str_need="60" lv_last="50" lv_last2="0">
+		<make1 goods="9031" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="9031" str_need="80" lv_last="70" lv_last2="0">
+		<make1 goods="9041" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="10001" str_need="20" lv_last="10" lv_last2="0">
+		<make1 goods="10011" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="10011" str_need="40" lv_last="30" lv_last2="0">
+		<make1 goods="10021" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="10021" str_need="60" lv_last="50" lv_last2="0">
+		<make1 goods="10031" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="10031" str_need="80" lv_last="70" lv_last2="0">
+		<make1 goods="10041" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="11001" str_need="20" lv_last="10" lv_last2="0">
+		<make1 goods="11011" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="11011" str_need="40" lv_last="30" lv_last2="0">
+		<make1 goods="11021" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="11021" str_need="60" lv_last="50" lv_last2="0">
+		<make1 goods="11031" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="11031" str_need="80" lv_last="70" lv_last2="0">
+		<make1 goods="11041" lv="0" item1="0" count1="0" item2="0" count2="0" item3="0" count3="0" ct="1" cv="0" />
+	</equip_make>
+	<equip_make id="13001" str_need="0" lv_last="0" lv_last2="0">
+		<make1 goods="13002" lv="0" item1="39001" count1="5" item2="0" count2="0" item3="0" count3="0" ct="1" cv="50000" />
+	</equip_make>
+	<equip_make id="13002" str_need="0" lv_last="0" lv_last2="0">
+		<make1 goods="13003" lv="0" item1="39006" count1="10" item2="0" count2="0" item3="0" count3="0" ct="1" cv="100000" />
+	</equip_make>
+	<equip_make id="13003" str_need="0" lv_last="0" lv_last2="0">
+		<make1 goods="13004" lv="0" item1="39011" count1="20" item2="0" count2="0" item3="0" count3="0" ct="1" cv="500000" />
+	</equip_make>
+</equip_makes>

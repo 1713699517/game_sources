@@ -1,0 +1,98 @@
+<?php
+
+$val        = \funs\excel\parser_array($sheets);
+ 
+// print_r($val);
+
+$REM		= $val['rem'];
+$KEY		= $val['key'];
+$NAME		= $val['name'];
+
+$FILE_PLIST = $val['file_plist'];
+$FILE_ERL	= $val['file_erl'];
+$FILE_XML	= $val['file_xml'];
+
+$PLIST		= $val['plist'];
+$ERL		= $val['erl'];
+$XML		= $val['xml'];
+
+$VALUE			= $val['value'];
+$VALUE_PLIST	= $val['value_plist'];
+$VALUE_ERL		= $val['value_erl'];
+$VALUE_XML		= $val['value_xml'];
+
+
+// if($FILE_ERL)
+// {
+// 	$file_name  = $export_dir_erl.$FILE_ERL;
+// 	$str_head   = "-module(data_{$KEY}).\n".
+// 				  "-include(\"../include/comm.hrl\").\n\n".
+// 				  "-export([get/1]).\n\n".
+// 				  "% ".implode(";\n% ",$REM). "\n";
+	
+// 	$erl_str    = array();
+// 	foreach ($VALUE_ERL as $v)
+// 	{
+// 		$s = "";
+// 		foreach ($v as $k2=>$v2)
+// 		{
+// 			$s .="\t\t".str_pad(str_pad("{$k2}",12)." = {$v2},",32)."%% ".$NAME[$k2]."\n";
+// 		}
+// 		$idx = strrpos($s,',');
+// 		$s   = substr($s,0,$idx).substr($s,$idx+1);
+		
+// 		$erl_str[] = "get({$v['lv']})->\n\t#d_renown{\n".$s ."\t}";
+// 	}
+	
+// 	$erl_str[] = "get(_)->?null.\n";
+	
+// 	$erl_str    = implode(";\n",$erl_str);
+	
+// 	echo $file_name,"<br />\n";
+// 	file_put_contents($file_name,$str_head.$erl_str);
+// }
+
+if(0 && $FILE_XML)
+{
+    $file_name  		 = $export_dir_realxml.$FILE_XML;
+    //print_r($VALUE_XML);
+    $xml_str   = \funs\tools\data2xml($VALUE_XML,$KEY);
+    $xml_str   = '<'.'?xml version="1.0" encoding="UTF-8"?'.">\r\n".$xml_str;
+    echo $file_name,"<br />\n";
+    file_put_contents($file_name,$xml_str);
+}
+
+
+if(1 || $FILE_PLIST)
+{
+ // $file_name  = $export_dir_xml.$FILE_PLIST;
+    $file_name  = $export_dir_realxml.$FILE_PLIST;
+
+ 	$data    = array();
+    foreach ($VALUE_PLIST as $v)
+    {
+        $data[$v['id']]=$v;
+    }
+
+
+ 	// echo $file_name,"<br />\n";
+    // \funs\tools\php_plist_write($file_name, $data);
+
+    $data2 = array();
+
+    foreach ($data as $k=>$v)
+    {
+        $data2[$k] 					= $v;
+        $data2[$v['product_id']] 	= $v;
+    }
+
+    echo Dir_Data_Cp_Root.'app_product.ini.php';
+
+    if(file_exists(Dir_Data_Cp_Root))
+    {
+        $filename       = Dir_Data_Cp_Root.'app_product.ini.php';
+        $str		    = var_export($data2,true);
+        file_put_contents($filename,'<?php  '."\n\$GLOBALS['app_product']={$str};\n".' ?>');
+    }
+}
+?>

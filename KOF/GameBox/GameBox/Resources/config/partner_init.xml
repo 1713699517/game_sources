@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<partner_init_temp>
+	<partner_inits>
+		<partner_init partner_name="不知火舞" name_colour="4" pro="4" sex="1" use_lv="2" open_kind="0" use_renown="1500000" shinwakan="180" pay="3000000" country="0" talent="0" ai_id="10416" describe="“空手道之神”坂崎琢磨的女儿，极限流的传人，为了向父亲和哥哥证明自己而参加格斗之王大赛。" attack_type="1" skin="10416" head="10416" effect_out="0" effect_by="0" effect_screen="0" id="10051">
+			<skill_idss>
+				<skill_ids skill_id="14160" lv="1" />
+				<skill_ids skill_id="14161" lv="1" />
+			</skill_idss>
+			<a sp="200" sp_up="20" anima="0" hp="20000" hp_gro="360" strong="150" strong_gro="130" magic="100" magic_gro="130" strong_att="120" strong_def="120" skill_att="72" skill_def="72" crit="0" crit_res="0" crit_harm="0" defend_down="0" light="0" light_def="0" dark="0" dark_def="0" god="0" god_def="0" bonus="0" reduction="0" imm_dizz="0" />
+		</partner_init>
+		<partner_init partner_name="二阶堂红丸" name_colour="2" pro="1" sex="1" use_lv="1" open_kind="1" use_renown="0" shinwakan="100" pay="100" country="0" talent="0" ai_id="10402" describe="善用雷电操纵武术的格斗家，拥有堪比一流模特的容貌，而且多才多艺。" attack_type="1" skin="10402" head="10402" effect_out="0" effect_by="0" effect_screen="0" id="10021">
+			<skill_idss>
+				<skill_ids skill_id="14020" lv="1" />
+				<skill_ids skill_id="14021" lv="1" />
+			</skill_idss>
+			<a sp="200" sp_up="20" anima="0" hp="10000" hp_gro="330" strong="50" strong_gro="100" magic="35" magic_gro="100" strong_att="50" strong_def="30" skill_att="25" skill_def="25" crit="0" crit_res="0" crit_harm="0" defend_down="0" light="0" light_def="0" dark="0" dark_def="0" god="0" god_def="0" bonus="0" reduction="0" imm_dizz="0" />
+		</partner_init>
+		<partner_init partner_name="大门五郎" name_colour="3" pro="1" sex="1" use_lv="20" open_kind="1" use_renown="2000" shinwakan="100" pay="50000" country="0" talent="0" ai_id="10403" describe="雅典娜和椎拳崇的师傅，拥有深不可测的实力，常以一副醉酒的模样出现在人前。" attack_type="1" skin="10403" head="10403" effect_out="0" effect_by="0" effect_screen="0" id="10024">
+			<skill_idss>
+				<skill_ids skill_id="14030" lv="1" />
+				<skill_ids skill_id="14031" lv="1" />
+			</skill_idss>
+			<a sp="200" sp_up="20" anima="0" hp="12000" hp_gro="350" strong="80" strong_gro="120" magic="50" magic_gro="120" strong_att="80" strong_def="50" skill_att="40" skill_def="40" crit="0" crit_res="0" crit_harm="0" defend_down="0" light="0" light_def="0" dark="0" dark_def="0" god="0" god_def="0" bonus="0" reduction="0" imm_dizz="0" />
+		</partner_init>
+		<partner_init partner_name="巴特勒" name_colour="3" pro="1" sex="1" use_lv="30" open_kind="1" use_renown="10000" shinwakan="150" pay="100000" country="0" talent="0" ai_id="10407" describe="镇元斋的徒弟，拥有很高的武术天赋，热血正直，正在为了变得更强修行中。" attack_type="1" skin="10407" head="10407" effect_out="0" effect_by="0" effect_screen="0" id="10027">
+			<skill_idss>
+				<skill_ids skill_id="14070" lv="1" />
+				<skill_ids skill_id="14071" lv="1" />
+			</skill_idss>
+			<a sp="200" sp_up="20" anima="0" hp="15000" hp_gro="370" strong="120" strong_gro="140" magic="80" magic_gro="140" strong_att="120" strong_def="80" skill_att="60" skill_def="60" crit="0" crit_res="0" crit_harm="0" defend_down="0" light="0" light_def="0" dark="0" dark_def="0" god="0" god_def="0" bonus="0" reduction="0" imm_dizz="0" />
+		</partner_init>
+		<partner_init partner_name="哈维D" name_colour="4" pro="3" sex="1" use_lv="40" open_kind="1" use_renown="40000" shinwakan="150" pay="200000" country="0" talent="0" ai_id="10409" describe="“空手道之神”坂崎琢磨的女儿，极限流的传人，为了向父亲和哥哥证明自己而参加格斗之王大赛。" attack_type="1" skin="10409" head="10409" effect_out="0" effect_by="0" effect_screen="0" id="10030">
+			<skill_idss>
+				<skill_ids skill_id="14090" lv="1" />
+				<skill_ids skill_id="14091" lv="1" />
+			</skill_idss>
+			<a sp="200" sp_up="20" anima="0" hp="20000" hp_gro="380" strong="150" strong_gro="150" magic="100" magic_gro="150" strong_att="150" strong_def="100" skill_att="75" skill_def="75" crit="0" crit_res="0" crit_harm="0" defend_down="0" light="0" light_def="0" dark="0" dark_def="0" god="0" god_def="0" bonus="0" reduction="0" imm_dizz="0" />
+		</partner_init>
+		<partner_init partner_name="坂崎由莉" name_colour="4" pro="1" sex="1" use_lv="50" open_kind="1" use_renown="80000" shinwakan="150" pay="300000" country="0" talent="0" ai_id="10414" describe="出身名门，家财万贯，被坂崎良打败后加入极限流，最终成为和板崎良齐名的“最强之虎”。" attack_type="1" skin="10414" head="10414" effect_out="0" effect_by="0" effect_screen="0" id="10033">
+			<skill_idss>
+				<skill_ids skill_id="14140" lv="1" />
+				<skill_ids skill_id="14141" lv="1" />
+			</skill_idss>
+			<a sp="200" sp_up="20" anima="0" hp="25000" hp_gro="410" strong="200" strong_gro="180" magic="135" magic_gro="180" strong_att="200" strong_def="130" skill_att="100" skill_def="100" crit="0" crit_res="0" crit_harm="0" defend_down="0" light="0" light_def="0" dark="0" dark_def="0" god="0" god_def="0" bonus="0" reduction="0" imm_dizz="0" />
+		</partner_init>
+		<partner_init partner_name="椎拳崇" name_colour="4" pro="4" sex="1" use_lv="60" open_kind="1" use_renown="150000" shinwakan="200" pay="500000" country="0" talent="0" ai_id="10412" describe="哈迪伦的养女，沉默寡言，不会轻易流露自己的感情，身世似乎隐藏着什么秘密。" attack_type="1" skin="10412" head="10412" effect_out="0" effect_by="0" effect_screen="0" id="10036">
+			<skill_idss>
+				<skill_ids skill_id="14120" lv="1" />
+				<skill_ids skill_id="14121" lv="1" />
+			</skill_idss>
+			<a sp="200" sp_up="20" anima="0" hp="30000" hp_gro="440" strong="250" strong_gro="210" magic="165" magic_gro="210" strong_att="250" strong_def="170" skill_att="125" skill_def="125" crit="0" crit_res="0" crit_harm="0" defend_down="0" light="0" light_def="0" dark="0" dark_def="0" god="0" god_def="0" bonus="0" reduction="0" imm_dizz="0" />
+		</partner_init>
+		<partner_init partner_name="薇思" name_colour="5" pro="3" sex="1" use_lv="70" open_kind="1" use_renown="250000" shinwakan="150" pay="700000" country="0" talent="0" ai_id="10425" describe="三神器”之中“八咫镜”的守护者，背负着封印大蛇一族以及化解草薙与八神恩怨的重任。" attack_type="1" skin="10425" head="10425" effect_out="0" effect_by="0" effect_screen="0" id="10039">
+			<skill_idss>
+				<skill_ids skill_id="14250" lv="1" />
+				<skill_ids skill_id="14251" lv="1" />
+			</skill_idss>
+			<a sp="200" sp_up="20" anima="0" hp="50000" hp_gro="460" strong="300" strong_gro="230" magic="200" magic_gro="230" strong_att="300" strong_def="200" skill_att="150" skill_def="150" crit="0" crit_res="0" crit_harm="0" defend_down="0" light="0" light_def="0" dark="0" dark_def="0" god="0" god_def="0" bonus="0" reduction="0" imm_dizz="0" />
+		</partner_init>
+		<partner_init partner_name="莉安娜" name_colour="5" pro="1" sex="1" use_lv="80" open_kind="1" use_renown="400000" shinwakan="150" pay="1000000" country="0" talent="0" ai_id="10428" describe="使用泰拳武术的高手，泰拳金腰带的获得者，与特瑞、安迪组队挑战其他格斗家。" attack_type="1" skin="10428" head="10428" effect_out="0" effect_by="0" effect_screen="0" id="10042">
+			<skill_idss>
+				<skill_ids skill_id="14280" lv="1" />
+				<skill_ids skill_id="14281" lv="1" />
+			</skill_idss>
+			<a sp="200" sp_up="20" anima="0" hp="70000" hp_gro="480" strong="400" strong_gro="250" magic="265" magic_gro="250" strong_att="400" strong_def="270" skill_att="200" skill_def="200" crit="0" crit_res="0" crit_harm="0" defend_down="0" light="0" light_def="0" dark="0" dark_def="0" god="0" god_def="0" bonus="0" reduction="0" imm_dizz="0" />
+		</partner_init>
+		<partner_init partner_name="东丈" name_colour="5" pro="1" sex="1" use_lv="90" open_kind="1" use_renown="600000" shinwakan="150" pay="1500000" country="0" talent="0" ai_id="10432" describe="被称为“传说中的饿狼”的格斗家，为了向杀父仇人吉斯复仇而在世界各地旅行。" attack_type="1" skin="10432" head="10432" effect_out="0" effect_by="0" effect_screen="0" id="10045">
+			<skill_idss>
+				<skill_ids skill_id="14320" lv="1" />
+				<skill_ids skill_id="14321" lv="1" />
+			</skill_idss>
+			<a sp="200" sp_up="20" anima="0" hp="90000" hp_gro="530" strong="500" strong_gro="300" magic="350" magic_gro="300" strong_att="500" strong_def="330" skill_att="250" skill_def="250" crit="0" crit_res="0" crit_harm="0" defend_down="0" light="0" light_def="0" dark="0" dark_def="0" god="0" god_def="0" bonus="0" reduction="0" imm_dizz="0" />
+		</partner_init>
+		<partner_init partner_name="克里斯" name_colour="6" pro="3" sex="1" use_lv="3" open_kind="2" use_renown="1000000" shinwakan="200" pay="2000000" country="0" talent="0" ai_id="10435" describe="天真无邪，总是面带笑容，即使杀人时也不例外，体内蕴藏着不可估量的能力。" attack_type="1" skin="10435" head="10435" effect_out="0" effect_by="0" effect_screen="0" id="10048">
+			<skill_idss>
+				<skill_ids skill_id="14350" lv="1" />
+			</skill_idss>
+			<a sp="200" sp_up="20" anima="0" hp="100000" hp_gro="580" strong="600" strong_gro="350" magic="400" magic_gro="350" strong_att="600" strong_def="400" skill_att="300" skill_def="300" crit="0" crit_res="0" crit_harm="0" defend_down="0" light="0" light_def="0" dark="0" dark_def="0" god="0" god_def="0" bonus="0" reduction="0" imm_dizz="0" />
+		</partner_init>
+	</partner_inits>
+</partner_init_temp>

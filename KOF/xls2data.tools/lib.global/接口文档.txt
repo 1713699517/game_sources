@@ -1,0 +1,16 @@
+说明：
+    命名说明: 
+      1.命名空间，规则按文件夹层次(全小写)
+      2.文件名，类名（首字母大写的驼鸟命名法）*.class.php 
+                 View模块类View*.class.php
+              函数集(全小写) funs.*.inc.php 
+              配制文件(全小写) config.*.php  
+              模板文件(全小写) *.html.php 
+      3.函数名与方法名(一般情况全小写)
+              私有方法 请以 _开头(全小写) 
+              View模块类方法名（首字母大写的驼鸟命名法）
+      4.函数返回结果
+              成功array(true,$data...)
+                 array(false,ErrorCode,ErrorMsg[可选])
+
+   

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hiddens>
+	<hidden level="1" id="1001" name="佛之舍利" icon="104" attr_type="57" attr="180" hp="8000" describe="佛陀火化后遗物，异常坚硬，锥击不碎。" />
+	<hidden level="1" id="1002" name="千鸟香炉" icon="109" attr_type="0" attr="0" hp="0" describe="三足香炉，为法能寺珍宝之一。香火点燃时炉上似有千万祥鸟飞舞。" />
+	<hidden level="1" id="1003" name="希望" icon="110" attr_type="50" attr="360" hp="0" describe="被噩运笼罩却名为希望的绝世钻石。" />
+	<hidden level="1" id="1004" name="世界之星" icon="116" attr_type="0" attr="0" hp="0" describe="世界上现存最大的钻石，被镶嵌在国王的权杖之上。" />
+	<hidden level="1" id="1005" name="祖母绿宝石" icon="113" attr_type="51" attr="360" hp="0" describe="可以给佩带者带来好运且更加长寿的宝石。" />
+	<hidden level="1" id="1006" name="德累斯顿" icon="112" attr_type="0" attr="0" hp="0" describe="世界上唯一一块绿色的钻石。被英国皇室收藏。" />
+	<hidden level="1" id="1007" name="石中剑" icon="114" attr_type="56" attr="180" hp="0" describe="剑身上有这样的铭文:凡能自石台上拔出此剑者，即为英格兰的天命之王." />
+	<hidden level="1" id="1008" name="妖刀村正" icon="102" attr_type="0" attr="0" hp="0" describe="著名的妖刀，总是伴随着不详" />
+	<hidden level="2" id="2001" name="太刀菊文字" icon="101" attr_type="59" attr="320" hp="20000" describe="古太刀之一，刀身修长，削铁如泥" />
+	<hidden level="2" id="2002" name="赎罪匕首" icon="115" attr_type="0" attr="0" hp="0" describe="刺杀凯撒大帝的刺客所使用的匕首。" />
+	<hidden level="2" id="2003" name="夜鹰平刃" icon="111" attr_type="52" attr="540" hp="0" describe="刃口惊人的锋利！即使是柔韧的传真纸也能横切成丝！" />
+	<hidden level="2" id="2004" name="伟特塔罗牌" icon="103" attr_type="0" attr="0" hp="0" describe="拥有神秘力量的塔罗牌。可以用来占卜未来。" />
+	<hidden level="2" id="2005" name="图坦卡门面具" icon="106" attr_type="53" attr="540" hp="0" describe="蕴含诅咒之力的黄金面罩，是埃及法老王的葬品。" />
+	<hidden level="2" id="2006" name="死海古卷" icon="108" attr_type="0" attr="0" hp="0" describe="在死海的古代沉船中发现的书卷，其中预言了世界末日的来临。" />
+	<hidden level="2" id="2007" name="圣迹玄石" icon="105" attr_type="58" attr="160" hp="0" describe="天外陨石，每过一年会在石头上出现年轮一样的石纹，被一宗教喻为圣石。" />
+	<hidden level="2" id="2008" name="罗塞塔石碑" icon="107" attr_type="0" attr="0" hp="0" describe="写满神秘文字的石碑，无数学者都在尝试解读它们的来历。" />
+	<hidden level="3" id="3001" name="赐福宝珠" icon="117" attr_type="57" attr="360" hp="32000" describe="能给予使用者带来机箱的宝珠" />
+	<hidden level="3" id="3002" name="利刀无铭" icon="118" attr_type="0" attr="0" hp="0" describe="锋利无比，无铭胜有名" />
+	<hidden level="3" id="3003" name="玄天咫镜" icon="119" attr_type="50" attr="700" hp="0" describe="可映照邪魔的咫镜，颇有神力" />
+	<hidden level="3" id="3004" name="族印头带" icon="120" attr_type="0" attr="0" hp="0" describe="天草一族的族徽" />
+	<hidden level="3" id="3005" name="火舞魔扇" icon="121" attr_type="51" attr="700" hp="0" describe="火舞经常使用的扇子，不可小觑" />
+	<hidden level="3" id="3006" name="极乐琴" icon="122" attr_type="0" attr="0" hp="0" describe="能演奏出极乐神曲的魔琴" />
+	<hidden level="3" id="3007" name="幻音鼓" icon="123" attr_type="56" attr="360" hp="0" describe="古时妖魔用来迷惑妖魔的鼓，蛊惑作用明显" />
+	<hidden level="3" id="3008" name="破晓弩" icon="124" attr_type="0" attr="0" hp="0" describe="射出箭头带有破晓般的尖锐声，非常快" />
+	<hidden level="4" id="4001" name="首斩炼狱锤" icon="125" attr_type="59" attr="640" hp="48000" describe="斩杀炼狱一切妖魔的炼狱之锤，威慑力十足" />
+	<hidden level="4" id="4002" name="暗字回旋镖" icon="126" attr_type="0" attr="0" hp="0" describe="伊贺忍者常使用的忍者镖，杀人于无形" />
+	<hidden level="4" id="4003" name="斩空手里剑" icon="127" attr_type="52" attr="1320" hp="0" describe="忍者的主要武器，在手中收放自如" />
+	<hidden level="4" id="4004" name="明王印" icon="128" attr_type="0" attr="0" hp="0" describe="孔雀明王的结印，相传可以抵御邪魔" />
+	<hidden level="4" id="4005" name="大蛇魔血" icon="129" attr_type="53" attr="1320" hp="0" describe="大蛇的魔血，似乎有神器的魔力" />
+	<hidden level="4" id="4006" name="鬼獠牙" icon="130" attr_type="0" attr="0" hp="0" describe="恶鬼的獠牙，锐利无比" />
+	<hidden level="4" id="4007" name="零度玄冰" icon="131" attr_type="58" attr="400" hp="0" describe="前年结成的寒冰，能瞬间降温" />
+	<hidden level="4" id="4008" name="傲骨翠竹" icon="132" attr_type="0" attr="0" hp="0" describe="翠竹傲骨，从不曲节" />
+	<hidden level="5" id="5001" name="千鸟香炉" icon="6021" attr_type="57" attr="540" hp="64000" describe="三足香炉，为本能寺珍宝之一。香火点燃时炉上似有千万祥鸟飞舞。" />
+	<hidden level="5" id="5002" name="赤乐茶碗" icon="6031" attr_type="0" attr="0" hp="0" describe="传世的长次郎烧制的乐茶碗中最早的一件。" />
+	<hidden level="5" id="5003" name="紫宣叶" icon="6041" attr_type="50" attr="1060" hp="0" describe="千年茶树才会结出的紫色极品茶叶。" />
+	<hidden level="5" id="5004" name="魔角" icon="6051" attr_type="0" attr="0" hp="0" describe="上古神魔的一只魔角，可以污秽人的心灵。" />
+	<hidden level="5" id="5005" name="天蚕丝袈裟" icon="7001" attr_type="51" attr="1060" hp="0" describe="邪魔不侵，五行不染，刀兵不入，穿之免堕轮回。" />
+	<hidden level="5" id="5006" name="乾坤袋" icon="7011" attr_type="0" attr="0" hp="0" describe="可纳天地，内有乾坤。" />
+	<hidden level="5" id="5007" name="八卦镜" icon="7021" attr_type="56" attr="540" hp="0" describe="八角圆镜，上刻有九宫八卦。可避凶邪近富贵。" />
+	<hidden level="5" id="5008" name="白玉瓶" icon="7031" attr_type="0" attr="0" hp="0" describe="捞取和阗盈尺姿,他山石错玉人为，一珠经寸骊龙护，守口如瓶意寓兹." />
+</hiddens>

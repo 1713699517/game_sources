@@ -1,0 +1,105 @@
+/root									根目录
+		/include						头文件
+		/src							源文件
+				gc_server.erl			
+				/data					数据Data文件
+				/lib					库文件
+				/lib_app				项目库
+				/mod					游戏模块
+				/sys					一些系统代码
+				/sys_crond				定时，时间模块
+						/crond_api.erl
+						/crond_srv.erl		
+				/sys_mysql				MYSQL模块
+						/mysql_api.erl
+				/sys_scene				场景/副本
+						/copy_api.erl
+						/scene_api.erl
+				
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+/mod					游戏模块
+	/xxx_api.erl
+		init_xxx/n	
+	    record_xxx/n	record初始化 函数
+	    db_encode_xxx/1,db_decode_xxx/2  	数据信息 编码/解码
+	    msg_xxx/n        消息编码接口
+		xxx_handle/n	处理srv中复杂/重用的函数
+		xxx_cb/n		回调函数
+		xxx_get/n
+		xxx_set/n
+		xxx_yyy/n,xxx_zzz/n,xxx_nnn/n       函数名，同类的 弄头还是用相关同起头
+	/xxx_mod.erl
+		init_xxx/n	
+	    record_xxx/n	record初始化 函数
+		xxx_handle/n	处理srv中复杂/重用的函数
+		xxx_cb/n		回调函数
+		xxx_get/n
+		xxx_set/n
+		xxx_yyy/n,xxx_zzz/n,xxx_nnn/n       函数名，同类的 弄头还是用相关同起头
+	/xxx_gateway.erl
+		gateway/3        gateway 1.不可能重用直接代码
+	    						 2.可重用代码写到在mod里用调xxx_mod:xxx
+	/xxx_srv			模块服务器(gen_server)
+		start_link/3
+		init/1, handle_call/3, handle_cast/2, handle_info/2, terminate/2, code_change/3
+		do_call/3, do_cast/2, do_info/2
+		xxx_call/n
+		xxx_cast/n			
+		
+					 
+	
+/sys_xxx				系统模块
+	/xxx_srv.erl
+	    start_link/3
+		init/1, handle_call/3, handle_cast/2, handle_info/2, terminate/2, code_change/3
+		do_call/3, do_cast/2, do_info/2,
+		xxx_call/n
+		xxx_cast/n
+	/xxx_mod.erl	
+	    init_xxx/n	
+	    record_xxx/n	record初始化 函数
+		xxx_handle/n	处理srv中复杂/重用的函数
+		xxx_cb/n		回调函数
+		xxx_get/n
+		xxx_set/n
+		xxx_yyy/n,xxx_zzz/n,xxx_nnn/n       函数名，同类的 弄头还是用相关同起头
+	/xxx_sup.erl	
+	    start_link/3,init/1
+		start_child_xxx/n	 向sup下挂srv	
+	/xxx_api.erl
+	    xxx_yyy/n,xxx_zzz/n,xxx_nnn/n       模块间功能调用    PS:函数名，同类的 弄头还是用相关同起头
+	    broadcast_xxx		           		广播接口
+		msg_xxx/n           				消息编码接口
+		db_encode_xxx/1,db_decode_xxx/2  	数据信息 编码/解码
+	/xxx_gateway.erl
+	    gateway/3        gateway 1.不可能重用直接代码
+	    						 2.可重用代码写到在mod里用调xxx_mod:xxx
+	                             
+	PS：xxx_api.erl 与  xxx_gateway.erl 可都视为一个是对模块间/一个是客户端接口
+		编码原则:	1.不可能重用代码，直接写在xxx_api.erl 与 xxx_gateway.erl 函数里。
+		         	2.可重用代码写到在mod里
+		         	3.模块内可以任意调用  并不是 xxx_gateway.erl 只能 xxx_api.erl
+		         	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+函数返回
+       1.成功:?ok
+       2.呼略:?skip
+       3.失败:{?error,?ERROR_XXX_*}
+       4.布尔:?true | ?false
+       5.布尔:?CONST_TRUE | ?CONST_FALSE (要存蓄的数值)
+       6.结果:Result
+       
+布尔数据(如:record中的数据等要存蓄的数值)
+	   ?CONST_TRUE :真/开
+       ?CONST_FALSE:假/关
+       
+布尔值/开关值只能用 常量 ?true, ?false 不要用 true,false,1,0,ok,bad,null,undefined,none
+       ?true :真/开
+       ?false:假/关
+       
+空值 只能用 数组[],其它：?null
+                  二进制只用<<>>    不要用  0,null,undefined,none,<<"">>,"",[],
+                  数组只用[]，                 不要用  0,null,undefined,none,<<>>,"",
+                  其它只用常量 ?null 不要用  0,null,undefined,none,<<>>,"",[]
+      
+  

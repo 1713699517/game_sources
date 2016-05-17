@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pet_skills>
+	<pet_skill unreal_skin="10001" pet_name="京一" lv="1" skill="0" skill_icon="0" />
+	<pet_skill unreal_skin="10002" pet_name="京二" lv="30" skill="10024" skill_icon="101" />
+	<pet_skill unreal_skin="10003" pet_name="京三" lv="60" skill="10034" skill_icon="102" />
+</pet_skills>

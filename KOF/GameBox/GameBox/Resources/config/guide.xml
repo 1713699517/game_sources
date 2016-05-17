@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guides>
+	<guide id="1000" type_drive="1_0" type="1" drive_id="0" drive_lv="1" name="任务引导（1级）" in_type="1" in_id="10011" dir="4" description="任务引导">
+		<guidss>
+			<guids type="1" special="1" next="0" content="接受任务" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" special="2" next="10060" content="点击对话" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-84" rule_w="550" rule_l="72" />
+			<guids type="1" special="2" next="20010" in_type="0" in_id="0" content="点击任务副本" dir="1" x="0" y="0" rule_x="-394" rule_y="19" rule_w="190" rule_l="138" />
+			<guids type="1" special="3" next="0" in_type="3" in_id="0" content="进入副本" dir="2" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="2" next="10116" in_type="1" in_id="10011" content="寻路提交任务" dir="4" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="完成任务" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" in_type="0" in_id="0" content="点击对话" special="4" next="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-84" rule_w="550" rule_l="72" />
+		</guidss>
+	</guide>
+	<guide id="1010" type_drive="4_10001" type="4" drive_id="10001" drive_lv="2" name="任务引导（2级）" in_type="1" in_id="10011" dir="4" description="任务引导">
+		<guidss>
+			<guids type="1" special="1" next="0" content="接受任务" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" special="2" next="10060" content="点击对话" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-84" rule_w="550" rule_l="72" />
+			<guids type="1" special="2" next="20020" in_type="0" in_id="0" content="点击任务副本" dir="1" x="0" y="0" rule_x="-195" rule_y="19" rule_w="190" rule_l="138" />
+			<guids type="1" special="3" next="0" in_type="3" in_id="0" content="进入副本" dir="2" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="2" next="10101" in_type="1" in_id="10011" content="寻路提交任务" dir="4" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="完成任务" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" in_type="0" in_id="0" content="点击对话" special="4" next="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-84" rule_w="550" rule_l="72" />
+		</guidss>
+	</guide>
+	<guide id="1020" type_drive="4_10011" type="4" drive_id="10011" drive_lv="3" name="技能装备" in_type="1" in_id="10000" dir="4" description="打开功能键">
+		<guidss>
+			<guids type="1" special="2" next="10012" content="打开人物" in_type="1" in_id="10012" dir="4" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="1" next="0" content="打开技能" in_type="0" in_id="0" dir="1" x="0" y="0" rule_x="-137" rule_y="246" rule_w="129" rule_l="56" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="选择技能" dir="1" x="0" y="0" rule_x="-415" rule_y="-143" rule_w="400" rule_l="124" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="装备技能" dir="2" x="0" y="0" rule_x="298" rule_y="-276" rule_w="106" rule_l="106" />
+			<guids type="1" special="4" next="0" in_type="0" in_id="0" content="点击关闭" dir="4" x="0" y="0" rule_x="356" rule_y="254" rule_w="70" rule_l="66" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" in_type="" in_id="" content="" special="" next="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+		</guidss>
+	</guide>
+	<guide id="1030" type_drive="5_1020" type="5" drive_id="1020" drive_lv="3" name="任务引导（3级）" in_type="1" in_id="10011" dir="4" description="任务引导">
+		<guidss>
+			<guids type="1" special="1" next="0" content="接受任务" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" special="2" next="10060" content="点击对话" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-93" rule_w="550" rule_l="88" />
+			<guids type="1" special="2" next="20030" in_type="0" in_id="0" content="点击任务副本" dir="1" x="0" y="0" rule_x="5" rule_y="19" rule_w="190" rule_l="138" />
+			<guids type="1" special="3" next="0" in_type="3" in_id="0" content="进入副本" dir="2" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="2" next="10101" in_type="1" in_id="10011" content="寻路提交任务" dir="4" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="完成任务" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" in_type="0" in_id="0" content="点击对话" special="4" next="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-93" rule_w="550" rule_l="88" />
+		</guidss>
+	</guide>
+	<guide id="1040" type_drive="6_1010" type="6" drive_id="1010" drive_lv="4" name="武器强化" in_type="1" in_id="10080" dir="4" description="打开强化">
+		<guidss>
+			<guids type="1" special="1" next="0" content="选择武器" in_type="0" in_id="0" dir="3" x="0" y="0" rule_x="-386" rule_y="125" rule_w="92" rule_l="92" />
+			<guids type="1" special="1" next="0" content="点击强化" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="74" rule_y="-280" rule_w="124" rule_l="58" />
+			<guids type="1" special="4" next="0" in_type="0" in_id="0" content="点击关闭" dir="4" x="0" y="0" rule_x="356" rule_y="254" rule_w="70" rule_l="66" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" in_type="" in_id="" content="" special="" next="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+		</guidss>
+	</guide>
+	<guide id="1050" type_drive="5_1040" type="5" drive_id="1040" drive_lv="4" name="任务引导（4级）" in_type="1" in_id="10011" dir="4" description="任务引导">
+		<guidss>
+			<guids type="1" special="1" next="0" content="接受任务" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" special="2" next="10106" content="点击对话" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="完成任务" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" special="4" next="0" in_type="0" in_id="0" content="点击完成" dir="4" x="0" y="0" rule_x="-168" rule_y="-84" rule_w="550" rule_l="72" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" in_type="" in_id="" content="" special="" next="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+		</guidss>
+	</guide>
+	<guide id="1060" type_drive="4_10031" type="4" drive_id="10031" drive_lv="5" name="任务引导（5级）" in_type="1" in_id="10011" dir="4" description="任务引导">
+		<guidss>
+			<guids type="1" special="1" next="0" content="接受任务" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" special="2" next="10060" content="点击对话" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" special="2" next="20040" in_type="0" in_id="0" content="点击任务副本" dir="1" x="0" y="0" rule_x="202" rule_y="19" rule_w="190" rule_l="138" />
+			<guids type="1" special="3" next="0" in_type="3" in_id="0" content="进入副本" dir="2" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="2" next="10106" in_type="1" in_id="10011" content="寻路提交任务" dir="4" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="完成任务" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" in_type="0" in_id="0" content="点击对话" special="4" next="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+		</guidss>
+	</guide>
+	<guide id="1070" type_drive="4_10051" type="4" drive_id="10051" drive_lv="7" name="伙伴招募" in_type="1" in_id="10000" dir="4" description="打开功能键">
+		<guidss>
+			<guids type="1" special="2" next="10012" content="打开人物" in_type="1" in_id="10012" dir="4" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="2" next="10090" content="打开招募" in_type="0" in_id="0" dir="3" x="0" y="0" rule_x="61" rule_y="-279" rule_w="124" rule_l="58" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="点击招募" dir="1" x="0" y="0" rule_x="216" rule_y="186" rule_w="124" rule_l="58" />
+			<guids type="1" special="5" next="10012" in_type="0" in_id="0" content="点击关闭" dir="4" x="0" y="0" rule_x="356" rule_y="254" rule_w="70" rule_l="66" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="选择伙伴" dir="2" x="0" y="0" rule_x="-307" rule_y="-290" rule_w="99" rule_l="99" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="点击出战" dir="4" x="0" y="0" rule_x="61" rule_y="-279" rule_w="124" rule_l="58" />
+			<guids type="1" in_type="0" in_id="0" content="点击关闭" special="4" next="0" dir="4" x="0" y="0" rule_x="356" rule_y="254" rule_w="70" rule_l="66" />
+		</guidss>
+	</guide>
+	<guide id="1075" type_drive="6_1015" type="6" drive_id="1015" drive_lv="10" name="腰带强化" in_type="1" in_id="10080" dir="4" description="打开强化">
+		<guidss>
+			<guids type="1" special="1" next="0" content="选择腰带" in_type="0" in_id="0" dir="3" x="0" y="0" rule_x="-123" rule_y="-6" rule_w="92" rule_l="92" />
+			<guids type="1" special="1" next="0" content="点击强化" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="74" rule_y="-280" rule_w="124" rule_l="58" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="继续强化" dir="4" x="0" y="0" rule_x="74" rule_y="-280" rule_w="124" rule_l="58" />
+			<guids type="1" special="4" next="0" in_type="0" in_id="0" content="继续强化" dir="4" x="0" y="0" rule_x="74" rule_y="-280" rule_w="124" rule_l="58" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" in_type="" in_id="" content="" special="" next="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+		</guidss>
+	</guide>
+	<guide id="1080" type_drive="4_10081" type="4" drive_id="10081" drive_lv="11" name="使用礼包" in_type="1" in_id="10000" dir="4" description="打开功能键">
+		<guidss>
+			<guids type="1" special="2" next="10040" content="打开背包" in_type="1" in_id="10040" dir="4" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="2" next="40081" content="点击礼包" in_type="5" in_id="40081" dir="3" x="0" y="0" rule_x="-400" rule_y="110" rule_w="92" rule_l="92" />
+			<guids type="1" special="4" next="10040" in_type="4" in_id="40081" content="点击使用" dir="3" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" in_type="" in_id="" content="" special="" next="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+		</guidss>
+	</guide>
+	<guide id="1090" type_drive="6_1030" type="6" drive_id="1030" drive_lv="13" name="招财" in_type="1" in_id="10160" dir="1" description="打开招财">
+		<guidss>
+			<guids type="1" special="4" next="0" content="使用招财" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-144" rule_y="-295" rule_w="124" rule_l="58" />
+			<guids type="" special="" next="" content="" in_type="" in_id="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" in_type="" in_id="" content="" special="" next="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+		</guidss>
+	</guide>
+	<guide id="1100" type_drive="4_10151" type="4" drive_id="10151" drive_lv="19" name="挂机指引" in_type="1" in_id="10011" dir="4" description="挂机引导">
+		<guidss>
+			<guids type="1" special="1" next="0" content="接受任务" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-72" rule_w="550" rule_l="60" />
+			<guids type="1" special="2" next="10060" content="点击对话" in_type="0" in_id="0" dir="4" x="0" y="0" rule_x="-168" rule_y="-93" rule_w="550" rule_l="88" />
+			<guids type="1" special="2" next="20150" in_type="0" in_id="0" content="点击任务副本" dir="1" x="0" y="0" rule_x="-394" rule_y="19" rule_w="190" rule_l="138" />
+			<guids type="1" special="2" next="0" in_type="6" in_id="0" content="打开挂机" dir="2" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="4" next="0" in_type="7" in_id="0" content="点击挂机" dir="4" x="0" y="0" rule_x="108" rule_y="-285" rule_w="124" rule_l="58" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" in_type="" in_id="" content="" special="" next="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+		</guidss>
+	</guide>
+	<guide id="1110" type_drive="4_10161" type="4" drive_id="10161" drive_lv="20" name="镶嵌宝石" in_type="1" in_id="10000" dir="4" description="打开功能键">
+		<guidss>
+			<guids type="1" special="2" next="10080" content="打开强化" in_type="1" in_id="10080" dir="4" x="0" y="0" rule_x="0" rule_y="0" rule_w="0" rule_l="0" />
+			<guids type="1" special="1" next="0" content="打开镶嵌" in_type="0" in_id="0" dir="1" x="0" y="0" rule_x="-268" rule_y="248" rule_w="129" rule_l="56" />
+			<guids type="1" special="1" next="0" in_type="0" in_id="0" content="选择武器" dir="3" x="0" y="0" rule_x="-386" rule_y="125" rule_w="92" rule_l="92" />
+			<guids type="1" special="4" next="0" in_type="0" in_id="0" content="点击升级" dir="4" x="0" y="0" rule_x="322" rule_y="74" rule_w="84" rule_l="52" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" special="" next="" in_type="" in_id="" content="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+			<guids type="" in_type="" in_id="" content="" special="" next="" dir="" x="" y="" rule_x="" rule_y="" rule_w="" rule_l="" />
+		</guidss>
+	</guide>
+</guides>

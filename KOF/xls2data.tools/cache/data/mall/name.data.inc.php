@@ -1,0 +1,108 @@
+<?php 
+$rs=array (
+  10 => 
+  array (
+    'mall_id' => '10',
+    'mall_name' => '灵珠店铺',
+    'vip' => '6',
+    'vip_discount' => '8500',
+    'open_lv' => '30',
+    'open_type' => '0',
+    'open_arg' => '[]',
+    'open_start' => '0:00',
+    'open_end' => '23:59',
+    'explain' => '灵珠店铺',
+  ),
+  20 => 
+  array (
+    'mall_id' => '20',
+    'mall_name' => '活动商城',
+    'vip' => '0',
+    'vip_discount' => '10000',
+    'open_lv' => '40',
+    'open_type' => '1',
+    'open_arg' => '[1,2,3,4,5]',
+    'open_start' => '11:30',
+    'open_end' => '15:30',
+    'explain' => '活动商城',
+  ),
+  30 => 
+  array (
+    'mall_id' => '30',
+    'mall_name' => '开服商城',
+    'vip' => '0',
+    'vip_discount' => '10000',
+    'open_lv' => '20',
+    'open_type' => '2',
+    'open_arg' => '[1,2,3,7]',
+    'open_start' => '0:00',
+    'open_end' => '23:59',
+    'explain' => '开服商城',
+  ),
+  40 => 
+  array (
+    'mall_id' => '40',
+    'mall_name' => '装备店铺',
+    'vip' => '0',
+    'vip_discount' => '10000',
+    'open_lv' => '30',
+    'open_type' => '0',
+    'open_arg' => '[]',
+    'open_start' => '0:00',
+    'open_end' => '23:59',
+    'explain' => '装备店铺',
+  ),
+  50 => 
+  array (
+    'mall_id' => '50',
+    'mall_name' => '玉清阁',
+    'vip' => '0',
+    'vip_discount' => '10000',
+    'open_lv' => '30',
+    'open_type' => '0',
+    'open_arg' => '[]',
+    'open_start' => '0:00',
+    'open_end' => '23:59',
+    'explain' => '玉清阁',
+  ),
+  60 => 
+  array (
+    'mall_id' => '60',
+    'mall_name' => '藏宝阁',
+    'vip' => '0',
+    'vip_discount' => '10000',
+    'open_lv' => '30',
+    'open_type' => '0',
+    'open_arg' => '[]',
+    'open_start' => '0:00',
+    'open_end' => '23:59',
+    'explain' => '藏宝阁',
+  ),
+  70 => 
+  array (
+    'mall_id' => '70',
+    'mall_name' => '卡片店铺',
+    'vip' => '0',
+    'vip_discount' => '10000',
+    'open_lv' => '30',
+    'open_type' => '0',
+    'open_arg' => '[]',
+    'open_start' => '0:00',
+    'open_end' => '23:59',
+    'explain' => '卡片店铺',
+  ),
+  80 => 
+  array (
+    'mall_id' => '80',
+    'mall_name' => '积分店铺',
+    'vip' => '0',
+    'vip_discount' => '10000',
+    'open_lv' => '30',
+    'open_type' => '0',
+    'open_arg' => '[]',
+    'open_start' => '0:00',
+    'open_end' => '23:59',
+    'explain' => '积分店铺',
+  ),
+);
+?>

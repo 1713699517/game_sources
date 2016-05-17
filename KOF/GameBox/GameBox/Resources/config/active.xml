@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actives>
+	<active active_id="3001" active_name="BOSS(特工头目)" active_type="3" role_lv="20" show="1" in_host="3001" />
+	<active active_id="3002" active_name="格斗之王预赛" active_type="3" role_lv="40" show="1" in_host="3002" />
+	<active active_id="3003" active_name="格斗之王决赛" active_type="3" role_lv="40" show="1" in_host="3003" />
+	<active active_id="3004" active_name="BOSS(疯狂卢卡尔）" active_type="3" role_lv="20" show="1" in_host="3004" />
+</actives>

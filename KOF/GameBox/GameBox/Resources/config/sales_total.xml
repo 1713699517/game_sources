@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sales_totals>
+	<sales_total id="101">
+		<is_have>1</is_have>
+		<valid>1</valid>
+		<type_getshow>1</type_getshow>
+		<time>[]</time>
+		<s_id>0</s_id>
+		<a order="0" tag="首充活动" title="0" pic="0" desc="0" content="只需充值任意金额，即可领取超值大礼包，内含绝版火辣同伴不知火舞！" stage_word="0" />
+		<type>1</type>
+		<start_sid>1</start_sid>
+		<week>[]</week>
+		<day>365</day>
+		<start_time>0</start_time>
+		<end_time>0</end_time>
+	</sales_total>
+	<sales_total id="201">
+		<is_have>1</is_have>
+		<valid>1</valid>
+		<type_getshow>1</type_getshow>
+		<time>[]</time>
+		<s_id>0</s_id>
+		<a order="11" tag="新手特权卡" title="0" pic="events_word_xsk" desc="0" content="0" stage_word="0" />
+		<type>2</type>
+		<start_sid>1</start_sid>
+		<week>[]</week>
+		<day>0</day>
+		<start_time>0</start_time>
+		<end_time>0</end_time>
+	</sales_total>
+	<sales_total id="501">
+		<is_have>1</is_have>
+		<valid>1</valid>
+		<type_getshow>1</type_getshow>
+		<time>[{open,1,0,0,0,10,23,59,59}]</time>
+		<s_id>0</s_id>
+		<a order="1" tag="累计充值活动" title="0" pic="events_word_ljczshl" desc="0" content="活动期间，玩家累计充值订单金额满足相应条件即可获得相应礼包一份！" stage_word="领取条件" />
+		<type>4</type>
+		<start_sid>1</start_sid>
+		<week>[]</week>
+		<day>0</day>
+		<start_time>0</start_time>
+		<end_time>0</end_time>
+	</sales_total>
+	<sales_total id="601">
+		<is_have>1</is_have>
+		<valid>1</valid>
+		<type_getshow>1</type_getshow>
+		<time>[{open,1,0,0,0,14,23,59,59}]</time>
+		<s_id>0</s_id>
+		<a order="2" tag="人物冲级活动" title="0" pic="events_word_rwcjshl" desc="0" content="活动期间，玩家达到指定等级，即可获得相应礼包一份！" stage_word="领取条件" />
+		<type>5</type>
+		<start_sid>1</start_sid>
+		<week>[]</week>
+		<day>0</day>
+		<start_time>0</start_time>
+		<end_time>0</end_time>
+	</sales_total>
+	<sales_total id="701">
+		<is_have>1</is_have>
+		<valid>1</valid>
+		<type_getshow>1</type_getshow>
+		<time>[{open,1,0,0,0,14,23,59,59}]</time>
+		<s_id>0</s_id>
+		<a order="3" tag="击杀精英活动" title="0" pic="events_word_jsjyshl" desc="0" content="活动期间，玩家击杀指引的精英BOSS，即可获得相应礼包一份！" stage_word="领取条件" />
+		<type>6</type>
+		<start_sid>1</start_sid>
+		<week>[]</week>
+		<day>0</day>
+		<start_time>0</start_time>
+		<end_time>0</end_time>
+	</sales_total>
+	<sales_total id="801">
+		<is_have>1</is_have>
+		<valid>1</valid>
+		<type_getshow>1</type_getshow>
+		<time>[{open,1,0,0,0,14,23,59,59}]</time>
+		<s_id>0</s_id>
+		<a order="4" tag="击杀魔王活动" title="0" pic="events_word_jsmwshl" desc="0" content="活动期间，玩家击杀指引的魔王BOSS，即可获得相应礼包一份！" stage_word="领取条件" />
+		<type>7</type>
+		<start_sid>1</start_sid>
+		<week>[]</week>
+		<day>0</day>
+		<start_time>0</start_time>
+		<end_time>0</end_time>
+	</sales_total>
+	<sales_total id="901">
+		<is_have>1</is_have>
+		<valid>1</valid>
+		<type_getshow>1</type_getshow>
+		<time>[{open,1,0,0,0,14,23,59,59}]</time>
+		<s_id>0</s_id>
+		<a order="5" tag="领悟斗气活动" title="0" pic="events_word_lwdqshl" desc="0" content="活动期间，玩家在斗气系统中领悟到“超级命脉”，即可获得相应礼包一份！" stage_word="领取条件" />
+		<type>8</type>
+		<start_sid>1</start_sid>
+		<week>[]</week>
+		<day>0</day>
+		<start_time>0</start_time>
+		<end_time>0</end_time>
+	</sales_total>
+	<sales_total id="1001">
+		<is_have>1</is_have>
+		<valid>1</valid>
+		<type_getshow>1</type_getshow>
+		<time>[{open,1,0,0,0,14,23,59,59}]</time>
+		<s_id>0</s_id>
+		<a order="6" tag="收集珍宝活动" title="0" pic="events_word_sjzbshl" desc="0" content="活动期间，玩家将“第一层珍宝”全部收集，即可获得相应礼包一份！" stage_word="领取条件" />
+		<type>9</type>
+		<start_sid>1</start_sid>
+		<week>[]</week>
+		<day>0</day>
+		<start_time>0</start_time>
+		<end_time>0</end_time>
+	</sales_total>
+</sales_totals>

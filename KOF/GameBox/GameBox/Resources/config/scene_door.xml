@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene_doors>
+	<scene_door door_id="50001" type="1" transfer_id="10100" door_radius="100" material_id="50001" lv="1" explain="新手村" />
+	<scene_door door_id="50002" type="1" transfer_id="10200" door_radius="100" material_id="50001" lv="28" explain="主城" />
+	<scene_door door_id="50101" type="2" transfer_id="101" door_radius="100" material_id="50002" lv="1" explain="普通副本界面" />
+	<scene_door door_id="50102" type="2" transfer_id="102" door_radius="100" material_id="50002" lv="1" explain="精英副本界面" />
+	<scene_door door_id="50103" type="2" transfer_id="103" door_radius="100" material_id="50002" lv="1" explain="魔王副本界面" />
+	<scene_door door_id="50104" type="3" transfer_id="0" door_radius="100" material_id="50002" lv="1" explain="传送下层副本" />
+</scene_doors>

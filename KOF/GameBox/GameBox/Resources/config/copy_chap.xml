@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<copy_chaps>
+	<copy_chap id="1_11100" type="1" chap_id="11100" chap_name="初露锋芒" per_chap_id="0" next_chap_id="11200" reset_rmb="0" chap_lv="1">
+		<cids>
+			<cid id="20010" />
+			<cid id="20020" />
+			<cid id="20030" />
+			<cid id="20040" />
+			<cid id="20050" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="2" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="1_11200" type="1" chap_id="11200" chap_name="赛场轶事" per_chap_id="11100" next_chap_id="11300" reset_rmb="0" chap_lv="1">
+		<cids>
+			<cid id="20060" />
+			<cid id="20070" />
+			<cid id="20080" />
+			<cid id="20090" />
+			<cid id="20100" />
+			<cid id="20110" />
+			<cid id="20120" />
+			<cid id="20130" />
+			<cid id="20140" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="2" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="1_11300" type="1" chap_id="11300" chap_name="R的秘密" per_chap_id="11200" next_chap_id="11400" reset_rmb="0" chap_lv="1">
+		<cids>
+			<cid id="20150" />
+			<cid id="20160" />
+			<cid id="20170" />
+			<cid id="20171" />
+			<cid id="20172" />
+			<cid id="20180" />
+			<cid id="20190" />
+			<cid id="20200" />
+			<cid id="20210" />
+			<cid id="20220" />
+			<cid id="20230" />
+			<cid id="20240" />
+			<cid id="20250" />
+			<cid id="20260" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="2" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="1_11400" type="1" chap_id="11400" chap_name="灭杀之焰" per_chap_id="11300" next_chap_id="11500" reset_rmb="0" chap_lv="1">
+		<cids>
+			<cid id="20270" />
+			<cid id="20280" />
+			<cid id="20290" />
+			<cid id="20300" />
+			<cid id="20310" />
+			<cid id="20320" />
+			<cid id="20330" />
+			<cid id="20340" />
+			<cid id="20350" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="2" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="1_11500" type="1" chap_id="11500" chap_name="邪恶再生" per_chap_id="11400" next_chap_id="11600" reset_rmb="0" chap_lv="1">
+		<cids>
+			<cid id="20360" />
+			<cid id="20370" />
+			<cid id="20380" />
+			<cid id="20390" />
+			<cid id="20400" />
+			<cid id="20410" />
+			<cid id="20420" />
+			<cid id="20430" />
+			<cid id="20440" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="2" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="1_11600" type="1" chap_id="11600" chap_name="崩分离析" per_chap_id="11500" next_chap_id="11700" reset_rmb="0" chap_lv="1">
+		<cids>
+			<cid id="20450" />
+			<cid id="20460" />
+			<cid id="20470" />
+			<cid id="20480" />
+			<cid id="20490" />
+			<cid id="20500" />
+			<cid id="20510" />
+			<cid id="20520" />
+			<cid id="20530" />
+			<cid id="20540" />
+			<cid id="20550" />
+			<cid id="20560" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="2" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="1_11700" type="1" chap_id="11700" chap_name="暴风使者" per_chap_id="11600" next_chap_id="0" reset_rmb="0" chap_lv="1">
+		<cids>
+			<cid id="20570" />
+			<cid id="20580" />
+			<cid id="20590" />
+			<cid id="20600" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="2" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="2_13100" type="2" chap_id="13100" chap_name="绝对领域20%" per_chap_id="0" next_chap_id="13200" reset_rmb="0" chap_lv="20">
+		<cids>
+			<cid id="30010" />
+			<cid id="30020" />
+			<cid id="30030" />
+			<cid id="30040" />
+			<cid id="30050" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="3" />
+			<reward goods_id="43261" goods_count="3" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="2_13200" type="2" chap_id="13200" chap_name="绝对领域30%" per_chap_id="13100" next_chap_id="13300" reset_rmb="0" chap_lv="30">
+		<cids>
+			<cid id="30060" />
+			<cid id="30070" />
+			<cid id="30080" />
+			<cid id="30090" />
+			<cid id="30100" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="3" />
+			<reward goods_id="43261" goods_count="6" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="2_13300" type="2" chap_id="13300" chap_name="绝对领域40%" per_chap_id="13200" next_chap_id="13400" reset_rmb="0" chap_lv="40">
+		<cids>
+			<cid id="30110" />
+			<cid id="30120" />
+			<cid id="30130" />
+			<cid id="30140" />
+			<cid id="30150" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="3" />
+			<reward goods_id="43261" goods_count="9" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="2_13400" type="2" chap_id="13400" chap_name="绝对领域50%" per_chap_id="13300" next_chap_id="13500" reset_rmb="0" chap_lv="50">
+		<cids>
+			<cid id="30160" />
+			<cid id="30170" />
+			<cid id="30180" />
+			<cid id="30190" />
+			<cid id="30200" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="3" />
+			<reward goods_id="43261" goods_count="12" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="2_13500" type="2" chap_id="13500" chap_name="绝对领域60%" per_chap_id="13400" next_chap_id="13600" reset_rmb="0" chap_lv="60">
+		<cids>
+			<cid id="30210" />
+			<cid id="30220" />
+			<cid id="30230" />
+			<cid id="30240" />
+			<cid id="30250" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="3" />
+			<reward goods_id="43261" goods_count="15" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="2_13600" type="2" chap_id="13600" chap_name="绝对领域70%" per_chap_id="13500" next_chap_id="0" reset_rmb="0" chap_lv="70">
+		<cids>
+			<cid id="30260" />
+			<cid id="30270" />
+			<cid id="30280" />
+			<cid id="30290" />
+			<cid id="30300" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="3" />
+			<reward goods_id="43261" goods_count="18" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="3_15100" type="3" chap_id="15100" chap_name="暗之力量20%" per_chap_id="0" next_chap_id="15200" reset_rmb="0" chap_lv="25">
+		<cids>
+			<cid id="32010" />
+			<cid id="32020" />
+			<cid id="32030" />
+			<cid id="32040" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="5" />
+			<reward goods_id="40351" goods_count="2" />
+			<reward goods_id="43261" goods_count="5" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="3_15200" type="3" chap_id="15200" chap_name="暗之力量30%" per_chap_id="15100" next_chap_id="15300" reset_rmb="0" chap_lv="35">
+		<cids>
+			<cid id="32050" />
+			<cid id="32060" />
+			<cid id="32070" />
+			<cid id="32080" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="5" />
+			<reward goods_id="40351" goods_count="3" />
+			<reward goods_id="43261" goods_count="10" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="3_15300" type="3" chap_id="15300" chap_name="暗之力量40%" per_chap_id="15200" next_chap_id="15400" reset_rmb="0" chap_lv="45">
+		<cids>
+			<cid id="32090" />
+			<cid id="32100" />
+			<cid id="32110" />
+			<cid id="32120" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="5" />
+			<reward goods_id="40351" goods_count="4" />
+			<reward goods_id="43261" goods_count="15" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="3_15400" type="3" chap_id="15400" chap_name="暗之力量50%" per_chap_id="15300" next_chap_id="15500" reset_rmb="0" chap_lv="55">
+		<cids>
+			<cid id="32130" />
+			<cid id="32140" />
+			<cid id="32150" />
+			<cid id="32160" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="5" />
+			<reward goods_id="40351" goods_count="5" />
+			<reward goods_id="43261" goods_count="20" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="3_15500" type="3" chap_id="15500" chap_name="暗之力量60%" per_chap_id="15400" next_chap_id="15600" reset_rmb="0" chap_lv="65">
+		<cids>
+			<cid id="32170" />
+			<cid id="32180" />
+			<cid id="32190" />
+			<cid id="32200" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="5" />
+			<reward goods_id="40351" goods_count="6" />
+			<reward goods_id="43261" goods_count="25" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="3_15600" type="3" chap_id="15600" chap_name="暗之力量70%" per_chap_id="15500" next_chap_id="0" reset_rmb="0" chap_lv="75">
+		<cids>
+			<cid id="32210" />
+			<cid id="32220" />
+			<cid id="32230" />
+			<cid id="32240" />
+		</cids>
+		<rewards>
+			<reward goods_id="43101" goods_count="5" />
+			<reward goods_id="40351" goods_count="7" />
+			<reward goods_id="43261" goods_count="30" />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="4_17100" type="4" chap_id="17100" chap_name="决斗祭坛" per_chap_id="0" next_chap_id="0" reset_rmb="50" chap_lv="1">
+		<cids>
+			<cid id="40100" />
+			<cid id="40110" />
+			<cid id="40120" />
+			<cid id="40130" />
+			<cid id="40140" />
+			<cid id="40150" />
+			<cid id="40160" />
+			<cid id="40170" />
+			<cid id="40180" />
+			<cid id="40190" />
+			<cid id="40200" />
+			<cid id="40210" />
+			<cid id="40220" />
+			<cid id="40230" />
+			<cid id="40240" />
+			<cid id="40250" />
+			<cid id="40260" />
+			<cid id="40270" />
+			<cid id="40280" />
+			<cid id="40290" />
+			<cid id="40300" />
+			<cid id="40310" />
+			<cid id="40320" />
+			<cid id="40330" />
+			<cid id="40340" />
+			<cid id="40350" />
+			<cid id="40360" />
+			<cid id="40370" />
+			<cid id="40380" />
+			<cid id="40390" />
+			<cid id="40400" />
+			<cid id="40410" />
+			<cid id="40420" />
+			<cid id="40430" />
+			<cid id="40440" />
+			<cid id="40450" />
+			<cid id="40460" />
+			<cid id="40470" />
+			<cid id="40480" />
+			<cid id="40490" />
+			<cid id="40500" />
+			<cid id="40510" />
+			<cid id="40520" />
+			<cid id="40530" />
+			<cid id="40540" />
+			<cid id="40550" />
+			<cid id="40560" />
+			<cid id="40570" />
+			<cid id="40580" />
+			<cid id="40590" />
+		</cids>
+		<rewards>
+			<reward />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="4_17110" type="4" chap_id="17110" chap_name="决斗祭坛" per_chap_id="17100" next_chap_id="17120" reset_rmb="100" chap_lv="1">
+		<cids>
+			<cid id="40140" />
+			<cid id="40150" />
+			<cid id="40160" />
+			<cid id="40170" />
+		</cids>
+		<rewards>
+			<reward />
+		</rewards>
+	</copy_chap>
+	<copy_chap id="4_17120" type="4" chap_id="17120" chap_name="决斗祭坛" per_chap_id="17110" next_chap_id="0" reset_rmb="150" chap_lv="1">
+		<cids>
+			<cid id="40180" />
+			<cid id="40190" />
+			<cid id="40200" />
+			<cid id="40210" />
+		</cids>
+		<rewards>
+			<reward />
+		</rewards>
+	</copy_chap>
+</copy_chaps>
