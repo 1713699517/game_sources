@@ -3,7 +3,7 @@ luac.out
 
 # luarocks build files
 *.src.rock
-*.zip
+# *.zip
 *.tar.gz
 
 # Object files
@@ -27,9 +27,9 @@ luac.out
 
 # Shared objects (inc. Windows DLLs)
 *.dll
-*.so
+# *.so
 *.so.*
-*.dylib
+# *.dylib
 
 # Executables
 *.exe
